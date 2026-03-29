@@ -885,7 +885,7 @@ struct StartScreenView: View {
             return
         }
         guard AIModeClientConfig.baseURL != nil else {
-            aiError = "Set your API base URL: add AIApiBaseURL in the app target’s Info properties, or set UserDefaults key ai_api_base_override."
+            aiError = AIModeClientConfig.baseURLSetupMessage()
             return
         }
         aiError = nil
@@ -1175,7 +1175,7 @@ struct SettingsView: View {
                         VStack(alignment: .leading, spacing: 8) {
                             Text("• Describe a shape in text; the server asks AI for a valid puzzle JSON.")
                             Text("• Free: 1 generation per UTC day. Pro: 10 per UTC day.")
-                            Text("• Requires your deployed API (see api/README.md). Set AIApiBaseURL in the target Info tab.")
+                            Text("• Set AIApiBaseURL in HueGame/Info.plist to your .vercel.app URL (see api/README.md).")
                         }
                         .font(.caption).foregroundColor(.secondary).padding(.vertical, 5)
                     }

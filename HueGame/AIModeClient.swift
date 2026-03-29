@@ -1,18 +1,60 @@
 import Foundation
 
-/// Configure your deployed backend (see `/api` in repo). Override in UserDefaults key `ai_api_base_override` for testing.
+/// Configure your deployed backend (see `api/README.md`). Set **AIApiBaseURL** in `HueGame/Info.plist` (merged with the generated Info.plist).
+/// Override for testing: UserDefaults key `ai_api_base_override`.
 enum AIModeClientConfig {
-    /// Base URL only, e.g. `https://xxx.vercel.app` — no trailing slash.
+    /// HTTPS origin for your **deployment** (e.g. `https://color-que-iq.vercel.app`), not the `vercel.com/...` dashboard link.
     static var baseURL: URL? {
-        if let o = UserDefaults.standard.string(forKey: "ai_api_base_override"),
-           let u = URL(string: o), !o.isEmpty {
-            return u
+        if let o = UserDefaults.standard.string(forKey: "ai_api_base_override") {
+            let t = normalizeBaseURLString(o)
+            if let u = URL(string: t), isValidDeploymentBaseURL(u) { return u }
         }
-        if let s = Bundle.main.object(forInfoDictionaryKey: "AIApiBaseURL") as? String,
-           let u = URL(string: s), !s.isEmpty {
+        if let s = bundleAIApiBaseURLRawString() {
+            let t = normalizeBaseURLString(s)
+            guard !t.isEmpty, !t.contains("REPLACE_WITH_YOUR_VERCEL") else { return nil }
+            guard let u = URL(string: t), isValidDeploymentBaseURL(u) else { return nil }
             return u
         }
         return nil
+    }
+
+    /// Merged Info.plist (generated + HueGame/Info.plist) — both lookup styles for reliability.
+    private static func bundleAIApiBaseURLRawString() -> String? {
+        if let s = Bundle.main.object(forInfoDictionaryKey: "AIApiBaseURL") as? String { return s }
+        return Bundle.main.infoDictionary?["AIApiBaseURL"] as? String
+    }
+
+    /// Explains why `baseURL` is nil (wrong dashboard URL, placeholder, missing key, etc.).
+    static func baseURLSetupMessage() -> String {
+        if let s = bundleAIApiBaseURLRawString() {
+            let t = normalizeBaseURLString(s)
+            if t.isEmpty {
+                return "AIApiBaseURL is empty. Set it to your deployment URL, e.g. https://color-que-iq.vercel.app"
+            }
+            if t.contains("REPLACE_WITH_YOUR_VERCEL") {
+                return "Replace the AIApiBaseURL placeholder with your real .vercel.app URL."
+            }
+            guard let u = URL(string: t) else {
+                return "AIApiBaseURL is not a valid URL."
+            }
+            let h = u.host?.lowercased() ?? ""
+            if h == "vercel.com" || h == "www.vercel.com" {
+                return "That link is the Vercel website, not your live API. In Vercel open this project → Deployments → pick the latest production deployment → copy the URL that ends in .vercel.app (no path after it). Paste that into AIApiBaseURL, then Product → Clean Build Folder and run again."
+            }
+        }
+        return "Set AIApiBaseURL in HueGame/Info.plist to https://YOUR-PROJECT.vercel.app (from Vercel → Deployments). Clean build (Shift+Cmd+K), then run again."
+    }
+
+    private static func normalizeBaseURLString(_ raw: String) -> String {
+        var t = raw.trimmingCharacters(in: .whitespacesAndNewlines)
+        while t.hasSuffix("/") { t.removeLast() }
+        return t
+    }
+
+    private static func isValidDeploymentBaseURL(_ url: URL) -> Bool {
+        guard let h = url.host?.lowercased() else { return false }
+        if h == "vercel.com" || h == "www.vercel.com" { return false }
+        return true
     }
 }
 
@@ -26,7 +68,7 @@ enum AIModeClientError: LocalizedError {
     var errorDescription: String? {
         switch self {
         case .notConfigured:
-            return "AI server URL is not configured. Set AIApiBaseURL in Info.plist or UserDefaults key ai_api_base_override."
+            return AIModeClientConfig.baseURLSetupMessage()
         case .invalidURL:
             return "Invalid API URL."
         case .httpStatus(let code, let msg):

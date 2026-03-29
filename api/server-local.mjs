@@ -1,5 +1,5 @@
 import http from "http";
-import handler from "./api/v1/ai-puzzle.js";
+import handler from "./v1/ai-puzzle.js";
 
 const port = Number(process.env.PORT) || 3000;
 const server = http.createServer(async (req, res) => {

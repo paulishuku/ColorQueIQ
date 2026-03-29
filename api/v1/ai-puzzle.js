@@ -1,9 +1,9 @@
 /**
  * Vercel serverless: POST /api/v1/ai-puzzle
- * Env: OPENAI_API_KEY (required), OPENAI_MODEL (optional, default gpt-4o-mini)
+ * Deploy: set Vercel "Root Directory" to repository root (or the folder that contains this `api` folder).
+ * Path on disk must be api/v1/ai-puzzle.js so the live URL is /api/v1/ai-puzzle
  *
- * Quota is per X-Device-Id header, UTC calendar day. In-memory store resets on cold starts;
- * for production use Upstash Redis (see README).
+ * Env: OPENAI_API_KEY (required), OPENAI_MODEL (optional, default gpt-4o-mini)
  */
 
 function utcDayKey() {
