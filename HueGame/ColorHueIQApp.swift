@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct HueGameApp: App {
+struct ColorHueIQApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

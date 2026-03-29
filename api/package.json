@@ -1,0 +1,8 @@
+{
+  "name": "colorhueiq-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server-local.mjs"
+  }
+}

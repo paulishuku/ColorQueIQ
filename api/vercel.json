@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/v1/ai-puzzle.js": {
+      "maxDuration": 60
+    }
+  }
+}
