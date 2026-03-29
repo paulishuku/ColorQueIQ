@@ -42,7 +42,7 @@ const jsonSchema = {
   schema: {
     type: "object",
     additionalProperties: false,
-    required: ["filledCellIndices", "hueBase", "hueOffset"],
+    required: ["filledCellIndices", "hueBase", "hueOffset", "lockRatio"],
     properties: {
       filledCellIndices: {
         type: "array",
