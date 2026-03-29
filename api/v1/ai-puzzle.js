@@ -122,7 +122,6 @@ No text outside JSON.`;
     },
     body: JSON.stringify({
       model,
-      temperature: 0.7,
       messages: [
         { role: "system", content: system },
         { role: "user", content: promptRaw },
