@@ -28,9 +28,22 @@ Or simply open `index.html` in a browser.
 | 4 | Believe & call | Romans 10:9, 10:13 |
 | — | Response prayer | — |
 
-## Print recommendations
+## Business card print files (matches common upload templates)
 
-- **Size:** A5 (148 × 210 mm)
+Use these for printers that ask for **3.625" × 2.125"** at **1448 × 848 px**:
+
+| Side | File |
+|------|------|
+| Front (日本語) | `card-front-japanese.png` |
+| Back (English) | `card-back-english.png` |
+
+- Exact pixel size: **1448 × 848**
+- Important text is inset for a typical safe zone (~0.125")
+- Upload front/back separately; keep “fit to template” / no stretch if the tool offers it
+
+## Larger A5 tract print
+
+- **Size:** A5 (148 × 210 mm) via `index.html` Print
 - **Duplex:** Flip on short edge — Japanese face out when handing to Japanese speakers
 - **Stock:** Soft white / cool ivory uncoated, 157–200 gsm
 - **Finish:** Matte or soft-touch (avoid glossy flyer look)
