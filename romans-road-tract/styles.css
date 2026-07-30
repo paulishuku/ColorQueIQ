@@ -437,8 +437,8 @@ body {
 /* ---------- Prayer ---------- */
 
 .prayer {
-  margin-top: 0.55rem;
-  padding: 0.55rem 0.65rem;
+  margin-top: 0.4rem;
+  padding: 0.45rem 0.6rem;
   background: linear-gradient(135deg, rgba(19, 42, 67, 0.06), rgba(196, 92, 38, 0.08));
   border-left: 2px solid var(--shu);
 }
@@ -472,9 +472,53 @@ body {
   font-weight: 500;
 }
 
+.contact {
+  margin-top: 0.45rem;
+  text-align: center;
+  padding: 0.4rem 0.35rem 0.15rem;
+}
+
+.contact__invite {
+  margin: 0 0 0.28rem;
+  font-size: 0.6rem;
+  line-height: 1.45;
+  color: var(--ai-mid);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.tract--en .contact__invite {
+  font-family: var(--font-en-display);
+  font-size: 0.72rem;
+  font-style: italic;
+  letter-spacing: 0.02em;
+}
+
+.contact__line {
+  margin: 0;
+  font-size: 0.62rem;
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+}
+
+.tract--en .contact__line {
+  font-family: var(--font-en-body);
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.contact__line a {
+  color: var(--shu-deep);
+  text-decoration: none;
+}
+
+.contact__line a:hover {
+  text-decoration: underline;
+}
+
 .tract-foot {
   margin-top: auto;
-  padding: 0.55rem 0 0.15rem;
+  padding: 0.4rem 0 0.15rem;
   text-align: center;
 }
 
