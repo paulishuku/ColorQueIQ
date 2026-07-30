@@ -473,15 +473,15 @@ body {
 }
 
 .contact {
-  margin-top: 0.45rem;
+  margin-top: 0.35rem;
   text-align: center;
-  padding: 0.4rem 0.35rem 0.15rem;
+  padding: 0.28rem 0.3rem 0.1rem;
 }
 
 .contact__invite {
-  margin: 0 0 0.22rem;
-  font-size: 0.58rem;
-  line-height: 1.4;
+  margin: 0 0 0.18rem;
+  font-size: 0.52rem;
+  line-height: 1.35;
   color: var(--ai-mid);
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -489,31 +489,23 @@ body {
 
 .tract--en .contact__invite {
   font-family: var(--font-en-display);
-  font-size: 0.7rem;
+  font-size: 0.62rem;
   font-style: italic;
   letter-spacing: 0.02em;
 }
 
-.contact__name {
-  margin: 0 0 0.12rem;
-  font-family: var(--font-en-display);
-  font-size: 0.85rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  color: var(--ai);
-}
-
 .contact__line {
   margin: 0;
-  font-size: 0.62rem;
-  letter-spacing: 0.04em;
-  line-height: 1.4;
+  font-size: 0.52rem;
+  letter-spacing: 0.03em;
+  line-height: 1.35;
+  color: var(--ink-soft);
 }
 
 .tract--en .contact__line {
   font-family: var(--font-en-body);
-  font-size: 0.7rem;
-  font-weight: 600;
+  font-size: 0.58rem;
+  font-weight: 500;
 }
 
 .contact__line a {
@@ -527,7 +519,7 @@ body {
 
 .tract-foot {
   margin-top: auto;
-  padding: 0.4rem 0 0.15rem;
+  padding: 0.35rem 0 0.15rem;
   text-align: center;
 }
 
