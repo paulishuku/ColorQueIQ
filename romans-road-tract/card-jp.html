@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>Business card JP — 3.625×2.125</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,500&family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 1448px;
+      height: 848px;
+      overflow: hidden;
+      background: #fff;
+    }
+    .card {
+      width: 1448px;
+      height: 848px;
+      position: relative;
+      background:
+        radial-gradient(ellipse 70% 90% at 92% 40%, rgba(196,92,38,0.10), transparent 55%),
+        radial-gradient(ellipse 50% 70% at 8% 80%, rgba(30,58,95,0.12), transparent 60%),
+        linear-gradient(135deg, #f4f7fa 0%, #e8eef4 55%, #dde6ef 100%);
+      color: #132a43;
+      font-family: "Noto Sans JP", sans-serif;
+    }
+    /* bleed = full canvas; safe inset ~0.125" ≈ 50px at ~400dpi */
+    .safe {
+      position: absolute;
+      inset: 56px 64px;
+      display: grid;
+      grid-template-columns: 210px 1fr 220px;
+      gap: 28px;
+      align-items: stretch;
+    }
+    .brand {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      border-right: 1px solid rgba(19,42,67,0.14);
+      padding-right: 18px;
+    }
+    .eyebrow {
+      font-size: 15px;
+      letter-spacing: 0.18em;
+      color: #9a3f14;
+      font-weight: 500;
+      margin-bottom: 4px;
+    }
+    .kanji {
+      font-family: "Shippori Mincho", serif;
+      font-size: 148px;
+      line-height: 0.85;
+      font-weight: 700;
+      color: #132a43;
+    }
+    .title {
+      font-family: "Shippori Mincho", serif;
+      font-size: 28px;
+      letter-spacing: 0.14em;
+      margin-top: 8px;
+      font-weight: 700;
+    }
+    .sub {
+      font-size: 16px;
+      color: #3d4654;
+      margin-top: 8px;
+      line-height: 1.35;
+    }
+    .steps {
+      display: grid;
+      grid-template-rows: repeat(4, 1fr);
+      gap: 8px;
+      padding: 4px 0;
+    }
+    .step {
+      display: grid;
+      grid-template-columns: 28px 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+    .num {
+      font-family: "Shippori Mincho", serif;
+      font-size: 22px;
+      color: #c45c26;
+      line-height: 1.2;
+      text-align: center;
+    }
+    .label {
+      font-size: 15px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      color: #132a43;
+      margin-bottom: 2px;
+    }
+    .verse {
+      font-size: 14px;
+      line-height: 1.35;
+      color: #1a1f26;
+    }
+    .cite {
+      display: inline;
+      font-size: 12px;
+      color: #a67c3d;
+      letter-spacing: 0.06em;
+      margin-left: 4px;
+      font-weight: 500;
+    }
+    .side {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      border-left: 1px solid rgba(19,42,67,0.14);
+      padding-left: 20px;
+    }
+    .prayer {
+      background: rgba(19,42,67,0.05);
+      border-left: 3px solid #c45c26;
+      padding: 12px 12px 12px 14px;
+    }
+    .prayer h3 {
+      font-family: "Shippori Mincho", serif;
+      font-size: 15px;
+      letter-spacing: 0.1em;
+      margin-bottom: 6px;
+      color: #132a43;
+    }
+    .prayer p {
+      font-size: 12.5px;
+      line-height: 1.45;
+      color: #3d4654;
+    }
+    .contact {
+      margin-top: 14px;
+    }
+    .contact .invite {
+      font-size: 12px;
+      line-height: 1.35;
+      color: #2f5278;
+      margin-bottom: 6px;
+    }
+    .contact .line {
+      font-size: 13px;
+      line-height: 1.4;
+      color: #9a3f14;
+      font-weight: 500;
+    }
+    .foot {
+      font-size: 11px;
+      color: #6b7380;
+      letter-spacing: 0.02em;
+      margin-top: 10px;
+    }
+    .path {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      width: 55%;
+      height: 70%;
+      opacity: 0.35;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <svg class="path" viewBox="0 0 800 600" aria-hidden="true">
+      <path d="M780 580 C 620 480, 680 360, 520 280 S 380 160, 420 60" fill="none" stroke="#c45c26" stroke-width="36" stroke-linecap="round" opacity="0.35"/>
+      <path d="M770 575 C 615 475, 670 355, 515 275 S 385 155, 425 55" fill="none" stroke="#1e3a5f" stroke-width="2" opacity="0.4"/>
+    </svg>
+    <div class="safe">
+      <div class="brand">
+        <p class="eyebrow">ローマ人への手紙が示す</p>
+        <p class="kanji">道</p>
+        <h1 class="title">いのちへの道</h1>
+        <p class="sub">あなたは、どこへ向かっていますか。</p>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <span class="num">一</span>
+          <div>
+            <p class="label">問題 — 罪</p>
+            <p class="verse">すべての人は、罪を犯したため、神の栄光を受けることができず、<span class="cite">ローマ 3:23</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">二</span>
+          <div>
+            <p class="label">結果 — 死</p>
+            <p class="verse">罪から来る報酬は死です。しかし、神の賜物は永遠のいのちです。<span class="cite">ローマ 6:23</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">三</span>
+          <div>
+            <p class="label">愛 — キリスト</p>
+            <p class="verse">私たちがまだ罪人であったとき、キリストが私たちのために死んでくださいました。<span class="cite">ローマ 5:8</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">四</span>
+          <div>
+            <p class="label">応答 — 信じる</p>
+            <p class="verse">口でイエスを主と告白し、心で信じるなら救われます。<span class="cite">ローマ 10:9 · 10:13</span></p>
+          </div>
+        </div>
+      </div>
+      <div class="side">
+        <div class="prayer">
+          <h3>いのちを受け取る祈り</h3>
+          <p>神様、私は罪人です。イエスが私のために死に、よみがえられたことを信じます。どうぞ私の主となってください。アーメン。</p>
+        </div>
+        <div>
+          <div class="contact">
+            <p class="invite">イエスに従うことについて、何か質問があればご連絡ください。</p>
+            <p class="line">Email: paulishuku@gmail.com</p>
+            <p class="line">Phone Number: 812-914-0587</p>
+          </div>
+          <p class="foot">John 14:6 · わたしが道であり、真理であり、いのちなのです。</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

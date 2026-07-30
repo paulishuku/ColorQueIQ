@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=420, initial-scale=1" />
+  <title>Tract JP Front</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    html, body { margin: 0; padding: 0; background: #c8d5e2; }
+    body { display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+    .ambient, .stage-header, .specs, .print-sheet { display: none !important; }
+    .shot {
+      width: 420px;
+      height: 594px;
+      position: relative;
+      box-shadow: 0 24px 60px rgba(19,42,67,.25);
+    }
+    .shot .tract { width: 100%; height: 100%; border-radius: 2px; overflow: hidden; }
+    .shot .tract__bleed { height: 100%; }
+    .animate-in { opacity: 1 !important; transform: none !important; animation: none !important; }
+    .path-line { stroke-dashoffset: 0 !important; animation: none !important; }
+  </style>
+</head>
+<body>
+  <div class="shot">
+    <article class="tract tract--jp" lang="ja">
+      <div class="tract__bleed">
+        <svg class="tract__motif" viewBox="0 0 400 640" aria-hidden="true">
+          <defs>
+            <linearGradient id="pathGlowJp" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#c45c26" stop-opacity="0.35" />
+              <stop offset="55%" stop-color="#1e3a5f" stop-opacity="0.12" />
+              <stop offset="100%" stop-color="#1e3a5f" stop-opacity="0" />
+            </linearGradient>
+          </defs>
+          <path d="M40 620 C 90 520, 70 420, 130 340 S 220 220, 200 140 S 260 40, 320 20" fill="none" stroke="url(#pathGlowJp)" stroke-width="28" stroke-linecap="round" />
+          <path d="M48 618 C 96 518, 78 418, 136 338 S 224 218, 206 138 S 264 42, 324 22" fill="none" stroke="#c45c26" stroke-width="1.25" stroke-linecap="round" opacity="0.55" />
+        </svg>
+        <header class="tract-hero">
+          <p class="tract-hero__eyebrow">ローマ人への手紙が示す</p>
+          <p class="tract-hero__kanji">道</p>
+          <h2 class="tract-hero__title">いのちへの道</h2>
+          <p class="tract-hero__sub">あなたは、どこへ向かっていますか。</p>
+        </header>
+        <ol class="steps">
+          <li class="step">
+            <span class="step__num">一</span>
+            <div class="step__body">
+              <h3 class="step__label">問題 — 罪</h3>
+              <blockquote class="step__verse">
+                <p>すべての人は、罪を犯したため、神の栄光を受けることができず、</p>
+                <cite>ローマ 3:23</cite>
+              </blockquote>
+            </div>
+          </li>
+          <li class="step">
+            <span class="step__num">二</span>
+            <div class="step__body">
+              <h3 class="step__label">結果 — 死</h3>
+              <blockquote class="step__verse">
+                <p>罪から来る報酬は死です。しかし、神の賜物は、私たちの主キリスト・イエスにある永遠のいのちです。</p>
+                <cite>ローマ 6:23</cite>
+              </blockquote>
+            </div>
+          </li>
+          <li class="step">
+            <span class="step__num">三</span>
+            <div class="step__body">
+              <h3 class="step__label">愛 — キリスト</h3>
+              <blockquote class="step__verse">
+                <p>しかし私たちがまだ罪人であったとき、キリストが私たちのために死んでくださったことにより、神は私たちに対するご自身の愛を明らかにしておられます。</p>
+                <cite>ローマ 5:8</cite>
+              </blockquote>
+            </div>
+          </li>
+          <li class="step">
+            <span class="step__num">四</span>
+            <div class="step__body">
+              <h3 class="step__label">応答 — 信じる</h3>
+              <blockquote class="step__verse">
+                <p>もしあなたの口でイエスを主と告白し、あなたの心で神はイエスを死者の中からよみがえらせてくださったと信じるなら、あなたは救われるからです。</p>
+                <cite>ローマ 10:9</cite>
+              </blockquote>
+              <blockquote class="step__verse step__verse--echo">
+                <p>主の御名を呼び求める者は、だれでも救われるからです。</p>
+                <cite>ローマ 10:13</cite>
+              </blockquote>
+            </div>
+          </li>
+        </ol>
+        <section class="prayer">
+          <h3 class="prayer__title">いのちを受け取る祈り</h3>
+          <p class="prayer__text">神様、私は罪人です。イエス・キリストが私のために十字架で死に、よみがえられたことを信じます。どうぞ私の心に来て、私の主となってください。永遠のいのちを感謝します。アーメン。</p>
+        </section>
+        <section class="contact">
+          <p class="contact__invite">イエスに従うことについて、何か質問があればご連絡ください。</p>
+          <p class="contact__line">Email: <a href="mailto:paulishuku@gmail.com">paulishuku@gmail.com</a></p>
+          <p class="contact__line">Phone Number: <a href="tel:+18129140587">812-914-0587</a></p>
+        </section>
+        <footer class="tract-foot">
+          <p>John 14:6 · 「わたしが道であり、真理であり、いのちなのです。」</p>
+        </footer>
+      </div>
+    </article>
+  </div>
+</body>
+</html>

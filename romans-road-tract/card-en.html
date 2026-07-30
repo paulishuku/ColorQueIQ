@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Business card EN — 3.625×2.125</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+JP:wght@400;500;700&family=Shippori+Mincho:wght@600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 1448px;
+      height: 848px;
+      overflow: hidden;
+      background: #fff;
+    }
+    .card {
+      width: 1448px;
+      height: 848px;
+      position: relative;
+      background:
+        radial-gradient(ellipse 70% 90% at 8% 40%, rgba(196,92,38,0.10), transparent 55%),
+        radial-gradient(ellipse 50% 70% at 92% 80%, rgba(30,58,95,0.12), transparent 60%),
+        linear-gradient(225deg, #f4f7fa 0%, #e8eef4 55%, #dde6ef 100%);
+      color: #132a43;
+      font-family: "Cormorant Garamond", Georgia, serif;
+    }
+    .safe {
+      position: absolute;
+      inset: 56px 64px;
+      display: grid;
+      grid-template-columns: 230px 1fr 240px;
+      gap: 28px;
+      align-items: stretch;
+    }
+    .brand {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      border-right: 1px solid rgba(19,42,67,0.14);
+      padding-right: 18px;
+    }
+    .eyebrow {
+      font-size: 16px;
+      font-style: italic;
+      letter-spacing: 0.08em;
+      color: #9a3f14;
+      margin-bottom: 6px;
+    }
+    .kanji {
+      font-size: 110px;
+      line-height: 0.9;
+      font-weight: 600;
+      font-style: italic;
+      color: #132a43;
+    }
+    .title {
+      font-size: 34px;
+      letter-spacing: 0.04em;
+      margin-top: 4px;
+      font-weight: 700;
+    }
+    .sub {
+      font-size: 18px;
+      font-style: italic;
+      color: #3d4654;
+      margin-top: 8px;
+    }
+    .steps {
+      display: grid;
+      grid-template-rows: repeat(4, 1fr);
+      gap: 8px;
+      padding: 4px 0;
+      font-family: "Cormorant Garamond", Georgia, serif;
+    }
+    .step {
+      display: grid;
+      grid-template-columns: 36px 1fr;
+      gap: 10px;
+      align-items: start;
+    }
+    .num {
+      font-size: 22px;
+      font-weight: 700;
+      color: #c45c26;
+      line-height: 1.2;
+    }
+    .label {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      color: #132a43;
+      margin-bottom: 2px;
+    }
+    .verse {
+      font-size: 16px;
+      line-height: 1.3;
+      font-weight: 500;
+      color: #1a1f26;
+    }
+    .cite {
+      display: inline;
+      font-size: 13px;
+      color: #a67c3d;
+      letter-spacing: 0.04em;
+      margin-left: 4px;
+    }
+    .side {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      border-left: 1px solid rgba(19,42,67,0.14);
+      padding-left: 20px;
+    }
+    .prayer {
+      background: rgba(19,42,67,0.05);
+      border-left: 3px solid #c45c26;
+      padding: 12px 12px 12px 14px;
+    }
+    .prayer h3 {
+      font-size: 18px;
+      font-style: italic;
+      margin-bottom: 6px;
+      color: #132a43;
+    }
+    .prayer p {
+      font-size: 14px;
+      line-height: 1.35;
+      font-weight: 500;
+      color: #3d4654;
+    }
+    .contact {
+      margin-top: 14px;
+    }
+    .contact .invite {
+      font-size: 14px;
+      font-style: italic;
+      line-height: 1.3;
+      color: #2f5278;
+      margin-bottom: 6px;
+    }
+    .contact .line {
+      font-size: 14px;
+      line-height: 1.4;
+      color: #9a3f14;
+      font-weight: 600;
+      font-style: normal;
+    }
+    .foot {
+      font-size: 13px;
+      font-style: italic;
+      color: #6b7380;
+      margin-top: 10px;
+    }
+    .path {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      width: 55%;
+      height: 70%;
+      opacity: 0.35;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <svg class="path" viewBox="0 0 800 600" aria-hidden="true">
+      <path d="M20 580 C 180 480, 120 360, 280 280 S 420 160, 380 60" fill="none" stroke="#c45c26" stroke-width="36" stroke-linecap="round" opacity="0.35"/>
+      <path d="M30 575 C 185 475, 130 355, 285 275 S 415 155, 375 55" fill="none" stroke="#1e3a5f" stroke-width="2" opacity="0.4"/>
+    </svg>
+    <div class="safe">
+      <div class="brand">
+        <p class="eyebrow">The message of Romans</p>
+        <p class="kanji">Way</p>
+        <h1 class="title">The Road to Life</h1>
+        <p class="sub">Where is your life heading?</p>
+      </div>
+      <div class="steps">
+        <div class="step">
+          <span class="num">01</span>
+          <div>
+            <p class="label">The Problem — Sin</p>
+            <p class="verse">For all have sinned and fall short of the glory of God.<span class="cite">Romans 3:23</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">02</span>
+          <div>
+            <p class="label">The Result — Death</p>
+            <p class="verse">The wages of sin is death, but the gift of God is eternal life in Christ Jesus.<span class="cite">Romans 6:23</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">03</span>
+          <div>
+            <p class="label">The Love — Christ</p>
+            <p class="verse">While we were still sinners, Christ died for us.<span class="cite">Romans 5:8</span></p>
+          </div>
+        </div>
+        <div class="step">
+          <span class="num">04</span>
+          <div>
+            <p class="label">The Response — Believe</p>
+            <p class="verse">Confess Jesus as Lord and believe in your heart — you will be saved.<span class="cite">Romans 10:9 · 10:13</span></p>
+          </div>
+        </div>
+      </div>
+      <div class="side">
+        <div class="prayer">
+          <h3>A Prayer to Receive Life</h3>
+          <p>God, I am a sinner. I believe Jesus died for me and rose again. Please be my Lord. Thank You for eternal life. Amen.</p>
+        </div>
+        <div>
+          <div class="contact">
+            <p class="invite">If you have any questions about how to follow Jesus, reach out to me!</p>
+            <p class="line">Email: paulishuku@gmail.com</p>
+            <p class="line">Phone Number: 812-914-0587</p>
+          </div>
+          <p class="foot">John 14:6 · “I am the way, the truth, and the life.”</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
