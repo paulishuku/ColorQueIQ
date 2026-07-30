@@ -1,0 +1,704 @@
+/* =========================================================
+   いのちへの道 — Roman's Road Tract
+   Visual system: indigo ink · vermillion path · cool washi
+   ========================================================= */
+
+:root {
+  --ai: #132a43;           /* deep indigo */
+  --ai-mid: #1e3a5f;
+  --ai-soft: #2f5278;
+  --shu: #c45c26;          /* vermillion */
+  --shu-deep: #9a3f14;
+  --ink: #1a1f26;
+  --ink-soft: #3d4654;
+  --muted: #6b7380;
+  --washi: #eef2f5;        /* cool paper — not warm cream */
+  --washi-deep: #e2e8ee;
+  --line: rgba(19, 42, 67, 0.12);
+  --gold: #a67c3d;
+  --shadow: 0 28px 80px rgba(19, 42, 67, 0.22);
+  --radius: 2px;
+  --font-jp-display: "Shippori Mincho", "Hiragino Mincho ProN", serif;
+  --font-jp-body: "Noto Sans JP", "Hiragino Sans", sans-serif;
+  --font-en-display: "Cormorant Garamond", "Times New Roman", serif;
+  --font-en-body: "Cormorant Garamond", Georgia, serif;
+  --tract-w: min(420px, 92vw);
+  --tract-h: calc(var(--tract-w) * 1.414); /* A5 proportion */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: var(--ink);
+  font-family: var(--font-jp-body);
+  background:
+    radial-gradient(1200px 700px at 12% -10%, #d7e3ef 0%, transparent 55%),
+    radial-gradient(900px 600px at 100% 20%, #f0d8c8 0%, transparent 50%),
+    linear-gradient(165deg, #d9e4ee 0%, #c8d5e2 42%, #b7c6d6 100%);
+  overflow-x: hidden;
+}
+
+/* ---------- Ambient atmosphere ---------- */
+
+.ambient {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.ambient__wash {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: 0.55;
+  animation: drift 18s ease-in-out infinite alternate;
+}
+
+.ambient__wash--a {
+  width: 48vw;
+  height: 48vw;
+  top: -8%;
+  left: -10%;
+  background: radial-gradient(circle, rgba(47, 82, 120, 0.35), transparent 70%);
+}
+
+.ambient__wash--b {
+  width: 42vw;
+  height: 42vw;
+  right: -8%;
+  bottom: 5%;
+  background: radial-gradient(circle, rgba(196, 92, 38, 0.22), transparent 70%);
+  animation-delay: -6s;
+}
+
+.ambient__grain {
+  position: absolute;
+  inset: 0;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+}
+
+@keyframes drift {
+  from { transform: translate3d(0, 0, 0) scale(1); }
+  to { transform: translate3d(3%, 4%, 0) scale(1.06); }
+}
+
+/* ---------- Stage chrome ---------- */
+
+.stage-header,
+.stage,
+.specs {
+  position: relative;
+  z-index: 1;
+}
+
+.stage-header {
+  text-align: center;
+  padding: 2.75rem 1.25rem 1.25rem;
+}
+
+.stage-header__brand {
+  margin: 0 0 0.35rem;
+  font-family: var(--font-jp-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.18em;
+  color: var(--ai);
+}
+
+.stage-header__title {
+  margin: 0;
+  font-family: var(--font-en-display);
+  font-weight: 600;
+  font-size: clamp(1.75rem, 4vw, 2.6rem);
+  letter-spacing: 0.04em;
+  color: var(--ai);
+}
+
+.stage-header__lead {
+  margin: 0.55rem auto 1.4rem;
+  max-width: 34rem;
+  color: var(--ink-soft);
+  font-size: 0.95rem;
+  line-height: 1.55;
+  font-weight: 300;
+}
+
+.stage-header__controls {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.side-btn {
+  appearance: none;
+  border: 1px solid var(--ai);
+  background: transparent;
+  color: var(--ai);
+  font-family: var(--font-jp-body);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  padding: 0.55rem 1rem;
+  cursor: pointer;
+  transition: background 0.25s ease, color 0.25s ease, transform 0.2s ease;
+}
+
+.side-btn:hover {
+  transform: translateY(-1px);
+}
+
+.side-btn.is-active,
+.side-btn[aria-pressed="true"] {
+  background: var(--ai);
+  color: var(--washi);
+}
+
+.side-btn--ghost {
+  border-color: rgba(19, 42, 67, 0.35);
+  color: var(--ink-soft);
+}
+
+/* ---------- Flip stage ---------- */
+
+.stage {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 1rem 3rem;
+  perspective: 1600px;
+}
+
+.flip-scene {
+  width: var(--tract-w);
+  height: var(--tract-h);
+}
+
+.flip-card {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.9s cubic-bezier(0.22, 0.8, 0.2, 1);
+}
+
+.flip-card.is-flipped {
+  transform: rotateY(180deg);
+}
+
+.face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.face--back {
+  transform: rotateY(180deg);
+}
+
+/* ---------- Tract surface ---------- */
+
+.tract {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.tract__bleed {
+  position: relative;
+  height: 100%;
+  padding: clamp(1rem, 3.2vw, 1.35rem) clamp(0.95rem, 3vw, 1.25rem) 0.85rem;
+  display: flex;
+  flex-direction: column;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.55) 0%, transparent 18%),
+    linear-gradient(155deg, #f5f8fb 0%, var(--washi) 48%, var(--washi-deep) 100%);
+  border: 1px solid rgba(255, 255, 255, 0.65);
+}
+
+.tract__bleed::before {
+  content: "";
+  position: absolute;
+  inset: 0.45rem;
+  border: 1px solid var(--line);
+  pointer-events: none;
+  z-index: 2;
+}
+
+.tract__motif {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.path-line {
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900;
+  animation: draw-path 2.4s ease forwards 0.35s;
+}
+
+@keyframes draw-path {
+  to { stroke-dashoffset: 0; }
+}
+
+.tract-hero,
+.steps,
+.prayer,
+.tract-foot {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---------- Hero ---------- */
+
+.tract-hero {
+  text-align: center;
+  padding: 0.15rem 0 0.55rem;
+  flex: 0 0 auto;
+}
+
+.tract-hero__eyebrow {
+  margin: 0;
+  font-size: 0.62rem;
+  letter-spacing: 0.22em;
+  color: var(--shu-deep);
+  font-weight: 500;
+}
+
+.tract--en .tract-hero__eyebrow {
+  font-family: var(--font-en-display);
+  font-style: italic;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+}
+
+.tract-hero__kanji {
+  margin: 0.05rem 0 0;
+  font-family: var(--font-jp-display);
+  font-size: clamp(3.6rem, 14vw, 5.2rem);
+  line-height: 0.9;
+  color: var(--ai);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.tract--en .tract-hero__kanji {
+  font-family: var(--font-en-display);
+  font-size: clamp(3.2rem, 12vw, 4.6rem);
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  font-style: italic;
+}
+
+.tract-hero__title {
+  margin: 0.15rem 0 0;
+  font-family: var(--font-jp-display);
+  font-size: clamp(1.15rem, 3.8vw, 1.45rem);
+  font-weight: 600;
+  color: var(--ai);
+  letter-spacing: 0.18em;
+}
+
+.tract--en .tract-hero__title {
+  font-family: var(--font-en-display);
+  letter-spacing: 0.08em;
+  font-size: clamp(1.35rem, 4vw, 1.7rem);
+}
+
+.tract-hero__sub {
+  margin: 0.35rem 0 0;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  letter-spacing: 0.04em;
+  font-weight: 400;
+}
+
+.tract--en .tract-hero__sub {
+  font-family: var(--font-en-display);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+/* ---------- Steps ---------- */
+
+.steps {
+  list-style: none;
+  margin: 0;
+  padding: 0.15rem 0 0;
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.42rem;
+  overflow: hidden;
+}
+
+.step {
+  display: grid;
+  grid-template-columns: 1.6rem 1fr;
+  gap: 0.45rem;
+  align-items: start;
+}
+
+.step__num {
+  font-family: var(--font-jp-display);
+  font-size: 0.85rem;
+  color: var(--shu);
+  line-height: 1.35;
+  padding-top: 0.05rem;
+  text-align: center;
+}
+
+.tract--en .step__num {
+  font-family: var(--font-en-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.step__label {
+  margin: 0 0 0.12rem;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--ai);
+}
+
+.tract--en .step__label {
+  font-family: var(--font-en-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.1em;
+  font-weight: 700;
+}
+
+.step__verse {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.step__verse p {
+  margin: 0;
+  font-size: 0.68rem;
+  line-height: 1.55;
+  color: var(--ink);
+  font-weight: 400;
+}
+
+.tract--en .step__verse p {
+  font-family: var(--font-en-body);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  font-weight: 500;
+}
+
+.step__verse cite {
+  display: block;
+  margin-top: 0.12rem;
+  font-style: normal;
+  font-size: 0.58rem;
+  letter-spacing: 0.12em;
+  color: var(--gold);
+  font-weight: 500;
+}
+
+.tract--en .step__verse cite {
+  font-family: var(--font-en-display);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+}
+
+.step__verse--echo {
+  margin-top: 0.28rem;
+  padding-top: 0.28rem;
+  border-top: 1px solid var(--line);
+}
+
+.step__verse--echo p {
+  color: var(--ai-mid);
+  font-weight: 500;
+}
+
+/* ---------- Prayer ---------- */
+
+.prayer {
+  margin-top: 0.55rem;
+  padding: 0.55rem 0.65rem;
+  background: linear-gradient(135deg, rgba(19, 42, 67, 0.06), rgba(196, 92, 38, 0.08));
+  border-left: 2px solid var(--shu);
+}
+
+.prayer__title {
+  margin: 0 0 0.28rem;
+  font-family: var(--font-jp-display);
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  color: var(--ai);
+}
+
+.tract--en .prayer__title {
+  font-family: var(--font-en-display);
+  font-size: 0.88rem;
+  letter-spacing: 0.08em;
+  font-style: italic;
+}
+
+.prayer__text {
+  margin: 0;
+  font-size: 0.64rem;
+  line-height: 1.6;
+  color: var(--ink-soft);
+}
+
+.tract--en .prayer__text {
+  font-family: var(--font-en-body);
+  font-size: 0.74rem;
+  line-height: 1.4;
+  font-weight: 500;
+}
+
+.tract-foot {
+  margin-top: auto;
+  padding: 0.55rem 0 0.15rem;
+  text-align: center;
+}
+
+.tract-foot p {
+  margin: 0;
+  font-size: 0.55rem;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+
+.tract--en .tract-foot p {
+  font-family: var(--font-en-display);
+  font-size: 0.68rem;
+  font-style: italic;
+}
+
+/* ---------- Entrance motion ---------- */
+
+.animate-in {
+  opacity: 0;
+  transform: translateY(10px);
+  animation: rise 0.7s ease forwards;
+}
+
+.delay-1 { animation-delay: 0.12s; }
+.delay-2 { animation-delay: 0.22s; }
+.delay-3 { animation-delay: 0.32s; }
+.delay-4 { animation-delay: 0.42s; }
+.delay-5 { animation-delay: 0.52s; }
+.delay-6 { animation-delay: 0.62s; }
+.delay-7 { animation-delay: 0.72s; }
+.delay-8 { animation-delay: 0.82s; }
+
+@keyframes rise {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.flip-card.is-flipped .face--back .animate-in,
+.flip-card:not(.is-flipped) .face--front .animate-in {
+  animation-name: rise;
+}
+
+/* ---------- Specs ---------- */
+
+.specs {
+  max-width: 40rem;
+  margin: 0 auto 3.5rem;
+  padding: 0 1.25rem;
+  color: var(--ink-soft);
+}
+
+.specs h2 {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-en-display);
+  font-size: 1.35rem;
+  color: var(--ai);
+  font-weight: 600;
+}
+
+.specs ul {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.45rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.specs strong {
+  color: var(--ai);
+  font-weight: 600;
+}
+
+.print-sheet {
+  display: none;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 520px) {
+  .stage-header {
+    padding-top: 1.75rem;
+  }
+
+  .step__verse p {
+    font-size: 0.62rem;
+  }
+
+  .tract--en .step__verse p {
+    font-size: 0.7rem;
+  }
+
+  .prayer__text {
+    font-size: 0.6rem;
+  }
+}
+
+/* Prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .ambient__wash,
+  .path-line,
+  .animate-in,
+  .flip-card {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  .animate-in {
+    opacity: 1;
+    transform: none;
+  }
+
+  .path-line {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* =========================================================
+   PRINT — two pages, JP then EN (duplex short-edge)
+   ========================================================= */
+
+@page {
+  size: A5;
+  margin: 0;
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+
+  .ambient,
+  .stage-header,
+  .specs,
+  .print-sheet {
+    display: none !important;
+  }
+
+  .stage {
+    padding: 0;
+    perspective: none;
+  }
+
+  .flip-scene,
+  .flip-card {
+    width: auto;
+    height: auto;
+    transform: none !important;
+  }
+
+  .face {
+    position: relative;
+    backface-visibility: visible;
+    -webkit-backface-visibility: visible;
+    transform: none !important;
+    page-break-after: always;
+    break-after: page;
+  }
+
+  .face--back {
+    page-break-after: auto;
+  }
+
+  .tract {
+    box-shadow: none;
+    border-radius: 0;
+    width: 148mm;
+    height: 210mm;
+  }
+
+  .tract__bleed {
+    height: 210mm;
+    padding: 10mm 9mm 8mm;
+  }
+
+  .tract__bleed::before {
+    inset: 5mm;
+  }
+
+  .path-line {
+    stroke-dashoffset: 0;
+    animation: none;
+  }
+
+  .animate-in {
+    opacity: 1;
+    transform: none;
+    animation: none;
+  }
+
+  .tract-hero__kanji {
+    font-size: 58pt;
+  }
+
+  .tract--en .tract-hero__kanji {
+    font-size: 48pt;
+  }
+
+  .tract-hero__title {
+    font-size: 14pt;
+  }
+
+  .tract--en .tract-hero__title {
+    font-size: 16pt;
+  }
+
+  .step__verse p {
+    font-size: 7.5pt;
+    line-height: 1.5;
+  }
+
+  .tract--en .step__verse p {
+    font-size: 8.5pt;
+    line-height: 1.35;
+  }
+
+  .prayer__text {
+    font-size: 7pt;
+  }
+
+  .tract--en .prayer__text {
+    font-size: 8pt;
+  }
+}
