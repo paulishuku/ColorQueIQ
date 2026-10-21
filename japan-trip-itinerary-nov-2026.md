@@ -79,7 +79,7 @@ Only four tables on this trip take a reservation: Ushigoro, Iroha, Tsunahachi, a
 
 **Bird Land, Ginza — Tue Nov 10, 19:30, only if you already hold it.** Michelin yakitori, Okukuji Shamo chicken, basement of Tsukamoto Soyama Building, 4-2-15 Ginza (Ginza station exit C6). Dinner 17:00–22:00. Closed Sunday, Monday, and holidays. Nov 10 is a Tuesday, so the shop is open.  
 **Order:** the chef’s omakase skewer course. This is not a place to order one skewer and a beer.  
-**Book:** [ginza-birdland.sakura.ne.jp/reserve.html](https://ginza-birdland.sakura.ne.jp/reserve.html), or **03-5250-1081** on a day they are open. Call even if the web page looks full. A same-day cancellation is **¥11,000 per person**. If you do not have the table, eat Sushi Zanmai that night and do not chase this one.  
+**Book:** [ginza-birdland.sakura.ne.jp/reserve.html](https://ginza-birdland.sakura.ne.jp/reserve.html), or **03-5250-1081** on a day they are open. Call even if the web page looks full. A same-day cancellation is **¥11,000 per person** (¥33,000 if all three of you cancel that day). If you do not have the table, eat Sushi Zanmai that night and do not chase this one.  
 **Reviews:** no separate link here. Use the official reserve page, and only go if the booking is confirmed.
 
 ### Walk in — show up, don’t call for a seat
