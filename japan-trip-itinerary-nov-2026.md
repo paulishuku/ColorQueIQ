@@ -5,6 +5,8 @@
 **Travelers:** First-time Japan visitors  
 **Style:** Street food + conveyor sushi (“SUSHIRUN”) + character shopping + one mountain onsen night + Mt. Fuji overnight
 
+> **Printable booklet:** open [`print/Japan-Trip-Nov-2026.pdf`](print/Japan-Trip-Nov-2026.pdf). Twelve letter-size pages: cover, reservations, one page per day, packing. The HTML source is `print/itinerary.html` if you need to reprint.
+
 > **How to use this document**  
 > Times are local Japan Standard Time (JST, UTC+9). Train ride times are in-motion only unless marked “door-to-door.” Always add **5–15 minutes** inside large stations (Shinjuku, Tokyo, Shibuya) for walking between exits/platforms. Buy reserved seats in advance for Skyliner, Shinkansen, Fuji Excursion, and Narita Express.
 

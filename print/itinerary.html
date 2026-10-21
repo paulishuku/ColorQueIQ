@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Japan · Nov 4–12, 2026</title>
+<style>
+@font-face { font-family: "Newsreader"; src: url("fonts/newsreader-500.ttf") format("truetype"); font-weight: 500; font-style: normal; }
+@font-face { font-family: "Newsreader"; src: url("fonts/newsreader-700.ttf") format("truetype"); font-weight: 700; font-style: normal; }
+@font-face { font-family: "Outfit"; src: url("fonts/outfit-400.ttf") format("truetype"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Outfit"; src: url("fonts/outfit-600.ttf") format("truetype"); font-weight: 600; font-style: normal; }
+
+:root {
+  --ink: #1c1917;
+  --muted: #57534e;
+  --line: #e7e0d6;
+  --paper: #fffdf8;
+  --gold: #a6843d;
+}
+* { box-sizing: border-box; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+html, body { margin: 0; padding: 0; }
+body {
+  font-family: "Outfit", "Liberation Sans", sans-serif;
+  color: var(--ink);
+  font-size: 11px;
+  line-height: 1.35;
+  background: #e6e0d4;
+}
+@page { size: letter; margin: 0.46in 0.5in 0.42in; }
+h1, h2, h3 { font-family: "Newsreader", Georgia, serif; font-weight: 500; margin: 0; letter-spacing: -0.02em; }
+p { margin: 0; }
+
+.sheet {
+  width: 8.5in;
+  min-height: 11in;
+  margin: 18px auto;
+  padding: 0.48in 0.52in 0.4in;
+  background: var(--paper);
+  box-shadow: 0 10px 28px rgba(40, 30, 10, 0.12);
+  position: relative;
+}
+.foot {
+  position: absolute;
+  left: 0.52in; right: 0.52in; bottom: 0.28in;
+  display: flex; justify-content: space-between;
+  font-size: 8.5px; letter-spacing: 0.14em; text-transform: uppercase;
+  color: #a8a29e; border-top: 1px solid var(--line); padding-top: 6px;
+}
+
+/* cover */
+.kicker { font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+.cover h1 { font-size: 78px; line-height: 0.86; margin: 10px 0 8px; }
+.cover h1 em { font-style: italic; color: #9f2d20; }
+.lede { font-size: 14px; color: var(--muted); max-width: 6.4in; }
+.route { display: flex; align-items: flex-start; gap: 0; margin: 22px 0 18px; }
+.route .stop { flex: 1; min-width: 0; }
+.route .name { font-weight: 600; font-size: 11px; }
+.route .when { color: var(--muted); font-size: 9px; margin-top: 1px; }
+.route .track { height: 2px; background: #1c1917; margin: 8px 0 6px; position: relative; }
+.route .track::before {
+  content: ""; position: absolute; left: 0; top: -4px;
+  width: 10px; height: 10px; border-radius: 50%; background: #9f2d20;
+  box-shadow: 0 0 0 3px #fffdf8;
+}
+.days { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+.tile {
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--c);
+  padding: 8px 9px 9px;
+  min-height: 78px;
+  background: #fff;
+}
+.tile .d { font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--c); font-weight: 600; }
+.tile strong { display: block; font-family: "Newsreader", Georgia, serif; font-size: 15px; font-weight: 500; margin: 2px 0 2px; }
+.tile span { color: var(--muted); font-size: 10px; }
+
+/* reservations */
+.sec-title { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 10px; }
+.sec-title h2 { font-size: 32px; }
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.stamp {
+  border: 1.5px dashed var(--c);
+  padding: 10px 12px 11px;
+  background: color-mix(in srgb, var(--c) 7%, white);
+}
+.stamp .lbl { font-size: 9px; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 600; color: var(--c); }
+.stamp strong { display: block; font-family: "Newsreader", Georgia, serif; font-size: 22px; font-weight: 500; line-height: 1.05; margin: 3px 0; }
+.stamp p { color: var(--muted); }
+.cards { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; margin-top: 10px; }
+.card { border: 1px solid var(--line); padding: 9px 10px 10px; background: #fff; }
+.card .when { font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--gold); font-weight: 600; }
+.card h3 { font-size: 16px; margin: 2px 0 4px; }
+.card p { color: #44403c; }
+.box { margin-top: 4px; display: inline-block; width: 9px; height: 9px; border: 1.5px solid #1c1917; vertical-align: -1px; margin-right: 4px; }
+.hotels { margin-top: 12px; display: grid; grid-template-columns: 1.1fr 2fr 1.3fr; }
+.hotels div { border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 6px 8px; }
+.hotels div + div { border-left: 1px solid var(--line); }
+.hotels .h { font-size: 8.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.warn {
+  margin-top: 10px; padding: 8px 10px;
+  background: #fff6e8; border-left: 4px solid #a15c07;
+}
+.warn strong { font-family: "Newsreader", Georgia, serif; font-size: 14px; font-weight: 500; }
+
+/* day pages */
+.dayhead { display: grid; grid-template-columns: 58px 1fr auto; gap: 12px; align-items: end; padding-bottom: 8px; border-bottom: 2px solid var(--c); }
+.badge {
+  width: 58px; height: 58px; background: var(--c); color: white;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+}
+.badge b { font-family: "Newsreader", Georgia, serif; font-size: 26px; line-height: 1; font-weight: 500; }
+.badge small { font-size: 8px; letter-spacing: 0.14em; text-transform: uppercase; }
+.dayhead h2 { font-size: 28px; line-height: 1; }
+.dayhead .sub { color: var(--muted); margin-top: 3px; }
+.stay { text-align: right; font-size: 10.5px; }
+.stay .h { font-size: 8.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--c); font-weight: 600; }
+.tl { list-style: none; margin: 8px 0 0; padding: 0; }
+.tl li { display: grid; grid-template-columns: 92px 1fr; gap: 8px; padding: 5px 0 5px 0; border-bottom: 1px solid #f0ebe3; }
+.tl time { font-weight: 600; font-variant-numeric: tabular-nums; color: var(--c); padding-top: 1px; }
+.tl strong { font-size: 12.5px; font-weight: 600; }
+.tl .detail { color: #44403c; display: block; margin-top: 1px; }
+.pills { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 6px; }
+.pill { border: 1px solid var(--line); padding: 4px 7px; font-size: 10px; background: #fff; }
+.pill b { font-weight: 600; }
+.band { margin-top: 8px; display: grid; grid-template-columns: 1.3fr 1fr; gap: 8px; }
+.note { background: #faf7f2; border: 1px solid var(--line); padding: 7px 9px; }
+.note .lbl { font-size: 8.5px; letter-spacing: 0.14em; text-transform: uppercase; font-weight: 600; color: var(--c); }
+.split { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
+
+/* packing */
+.pack { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.pack article { border-top: 3px solid var(--c); background: #fff; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); border-left: 1px solid var(--line); padding: 7px 8px; }
+.pack h3 { font-size: 14px; }
+.pack p { color: #44403c; margin-top: 2px; }
+.always { margin-top: 8px; padding: 8px 10px; background: #1c1917; color: #faf7f2; }
+.always strong { color: white; }
+.cheats { width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 10px; }
+.cheats th { text-align: left; font-size: 8.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-weight: 600; border-bottom: 1px solid var(--ink); padding: 3px 6px 3px 0; }
+.cheats td { border-bottom: 1px solid var(--line); padding: 3px 6px 3px 0; vertical-align: top; }
+.cheats td:last-child, .cheats th:last-child { text-align: right; }
+
+@media print {
+  body { background: white; }
+  .sheet {
+    width: auto; min-height: 0; margin: 0; padding: 0;
+    box-shadow: none; break-after: page;
+  }
+  .sheet:last-child { break-after: auto; }
+  .foot { display: none; }
+}
+</style>
+</head>
+<body>
+
+<section class="sheet cover">
+  <div class="kicker">November 4 – 12, 2026 · First trip</div>
+  <h1>Nine days<br>in <em>Japan.</em></h1>
+  <p class="lede">Tokyo, one night in the Niigata mountains, one night at Lake Kawaguchiko. Times are Japan Standard Time. Add 10 minutes inside Shinjuku, Tokyo, and Shibuya stations.</p>
+  <div class="route">
+    <div class="stop"><div class="track"></div><div class="name">Narita</div><div class="when">Wed 4</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Ueno</div><div class="when">3 nights</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Niigata</div><div class="when">Sat 7</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Akihabara</div><div class="when">Sun 8</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Fuji</div><div class="when">Mon 9</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Shinjuku</div><div class="when">2 nights</div></div>
+    <div class="stop"><div class="track"></div><div class="name">Narita</div><div class="when">Thu 12</div></div>
+  </div>
+  <div class="days">
+    <div class="tile" style="--c:#1e3a5f"><div class="d">Wed 4 · Day 1</div><strong>Land in Ueno</strong><span>Skyliner, 41 min. Miura Misaki sushi.</span></div>
+    <div class="tile" style="--c:#b42318"><div class="d">Thu 5 · Day 2</div><strong>Asakusa, then Sky</strong><span>Street sunset 16:42. Roof at 18:20.</span></div>
+    <div class="tile" style="--c:#1f6b4a"><div class="d">Fri 6 · Day 3</div><strong>Old Tokyo houses</strong><span>Museum, Nakano, Harajuku, monja.</span></div>
+    <div class="tile" style="--c:#315c7a"><div class="d">Sat 7 · Day 4</div><strong>Koi, then onsen</strong><span>Backpack only. Izumiya kaiseki.</span></div>
+    <div class="tile" style="--c:#a15c07"><div class="d">Sun 8 · Day 5</div><strong>Owls at 14:00</strong><span>Toki around 10:19. Then Akihabara.</span></div>
+    <div class="tile" style="--c:#1d4e89"><div class="d">Mon 9 · Day 6</div><strong>Lake Kawaguchiko</strong><span>Fuji Excursion 09:30. Hōtō lunch.</span></div>
+    <div class="tile" style="--c:#9a3412"><div class="d">Tue 10 · Day 7</div><strong>Red pagoda</strong><span>398 steps. Back on the 14:08.</span></div>
+    <div class="tile" style="--c:#5b3a8c"><div class="d">Wed 11 · Day 8</div><strong>Skytree &amp; Kirby</strong><span>Solamachi shops. Tempura at 19:00.</span></div>
+    <div class="tile" style="--c:#292524"><div class="d">Thu 12 · Day 9</div><strong>Fly at 17:30</strong><span>N’EX by 13:45. Be at Narita 14:30.</span></div>
+  </div>
+  <div class="foot"><span>Japan itinerary</span><span>Cover</span></div>
+</section>
+
+<section class="sheet">
+  <div class="sec-title">
+    <h2>Lock these in.</h2>
+    <div class="kicker">Tickets &amp; tables</div>
+  </div>
+  <div class="grid-2">
+    <div class="stamp" style="--c:#b42318">
+      <div class="lbl">Booked · Thursday Nov 5</div>
+      <strong>Shibuya Sky<br>enter 18:20</strong>
+      <p>Night view, not sunset. Sunset is 16:42, from the street. Stay until you leave for dinner at 19:40. No re-entry. No suitcase.</p>
+    </div>
+    <div class="stamp" style="--c:#a15c07">
+      <div class="lbl">Booked · Sunday Nov 8</div>
+      <strong>Akiba Fukurou<br>session 14:00</strong>
+      <p>Be outside at 13:40. 67 Kanda Neribeicho, 3 minutes from JR Akihabara Central Gate. About one hour. They do not serve a meal.</p>
+    </div>
+  </div>
+  <div class="cards">
+    <article class="card">
+      <div class="when"><span class="box"></span>Thu 5 · 20:00</div>
+      <h3>Ushigoro Kan</h3>
+      <p>Yakiniku, Ebisu, 2 minutes from the station. Shoes off. About ¥10,000–15,000. Tabelog or 050-5872-3765. Upgrade if a table appears: Ebisu Yoroniku.</p>
+    </article>
+    <article class="card">
+      <div class="when"><span class="box"></span>Fri 6 · 19:30</div>
+      <h3>Iroha Honten</h3>
+      <p>Monjayaki in Tsukishima, since 1955. Order sakura-ebi monja. About ¥4,000–6,000. 050-5594-0795. Backup: Monja Okame.</p>
+    </article>
+    <article class="card">
+      <div class="when"><span class="box"></span>Wed 11 · 19:00</div>
+      <h3>Tsunahachi</h3>
+      <p>Edomae tempura, Shinjuku, since 1924. Short walk from MIMARU Shinjuku West. Tendon or the set. About ¥4,000–8,000.</p>
+    </article>
+  </div>
+  <div class="warn">
+    <strong>Sunday train: book the 10:19 Toki, Nagaoka → Ueno.</strong>
+    <p>About 1 hour 25–35 minutes, reserved seat near ¥9,320. Taxi from the ryokan at 9:15. The 10:45 still works. An 11:55 gets you to Ueno around 13:20 and misses a calm 14:00 owl check-in. There is no 11:00 train that arrives at 12:35.</p>
+  </div>
+  <div class="hotels" style="margin-top:12px">
+    <div><div class="h">Nov 4–7</div><strong>MIMARU Ueno North</strong><br>7-14-4 Ueno · suitcases stay</div>
+    <div><div class="h">Nov 7</div><strong>Izumiya, Yomogihira</strong><br>Backpack only. Forward the big bags in the morning.</div>
+    <div><div class="h">Nov 8</div><strong>MIMARU Inaricho</strong><br>Bags should already be in the room.</div>
+  </div>
+  <div class="hotels">
+    <div><div class="h">Nov 9</div><strong>Maruei, Kawaguchiko</strong><br>Take the suitcases. Taxi from the station.</div>
+    <div><div class="h">Nov 10–12</div><strong>MIMARU Shinjuku West</strong><br>Last two nights. Unpack fully.</div>
+    <div><div class="h">Also book</div><strong>Kirby Café Nov 11</strong><br>Fuji Excursion 9:30 out, 14:08 back. N’EX home.</div>
+  </div>
+  <div class="foot"><span>Reservations</span><span>Tick the box when the table is held</span></div>
+</section>
+
+<section class="sheet day" style="--c:#1e3a5f">
+  <header class="dayhead">
+    <div class="badge"><b>01</b><small>Wed</small></div>
+    <div><h2>Land, walk, sushi.</h2><p class="sub">Narita → Keisei-Ueno → Ameyoko. Suitcases come with you.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Ueno North</div>
+  </header>
+  <ol class="tl">
+    <li><time>15:40</time><div><strong>Land at Narita</strong><span class="detail">Economy Plus, so you are off the plane early. Check the terminal on the boarding pass: 1, 2, or 3.</span></div></li>
+    <li><time>15:40–16:50</time><div><strong>Immigration, bags, customs</strong><span class="detail">Plan on 60–90 minutes the first time. Longer if the hall is full.</span></div></li>
+    <li><time>16:50–17:15</time><div><strong>Phone, Suica, Skyliner seat</strong><span class="detail">Turn on the eSIM or pick up pocket Wi-Fi. Charge a Suica with ¥5,000–10,000. Screenshot the Skyliner car and seat.</span></div></li>
+    <li><time>17:20–18:05</time><div><strong>Skyliner to Keisei-Ueno · 41 min</strong><span class="detail">Not an hour. Trains every 20–40 minutes. Suitcases go in the racks at the end of the car. About ¥2,470.</span></div></li>
+    <li><time>18:05–18:25</time><div><strong>Walk to the hotel</strong><span class="detail">8–12 minutes from Keisei-Ueno toward the Iriya side. Follow the map pin, not a random “Ueno” sign.</span></div></li>
+    <li><time>18:25–19:00</time><div><strong>Check in and say three things</strong><span class="detail">Saturday night is a backpack. Please forward the big suitcases to MIMARU Ueno Inaricho on Saturday morning. Ask what time they need them.</span></div></li>
+    <li><time>19:00</time><div><strong>Convenience-store dinner backup</strong><span class="detail">Egg-salad sandwich, onigiri, milk bread. Fried chicken is Lawson Karaage-kun or FamilyMart Famichiki. 7-Eleven does not sell Famichiki.</span></div></li>
+    <li><time>19:45–21:15</time><div><strong>Sushirun 1 · Miura Misaki-kō</strong><span class="detail">8–12 minute walk into Ameyoko. Negitoro and salmon belly. If the line is awful, Toriton nearby. Then sleep. Jet lag wins.</span></div></li>
+  </ol>
+  <div class="pills">
+    <div class="pill"><b>ATM</b> Seven Bank inside 7-Eleven</div>
+    <div class="pill"><b>Keep out</b> passport for the front desk</div>
+    <div class="pill"><b>Carry-on</b> both battery packs, never in the checked bag</div>
+  </div>
+  <div class="foot"><span>Day 1 · Wednesday Nov 4</span><span>Arrival</span></div>
+</section>
+
+<section class="sheet day" style="--c:#b42318">
+  <header class="dayhead">
+    <div class="badge"><b>02</b><small>Thu</small></div>
+    <div><h2>Street sunset, roof at night.</h2><p class="sub">Asakusa in the morning. Shibuya Sky is 18:20, after the sun is gone.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Ueno North</div>
+  </header>
+  <ol class="tl">
+    <li><time>09:20</time><div><strong>Ginza Line to Asakusa · 5–7 min</strong><span class="detail">¥180. Exit toward Kaminarimon. Red lantern, then Nakamise-dōri. Eat in this order: warm ningyō-yaki, strawberry daifuku, Asakusa Menchi, Kagetsudō melon pan. Then Sensō-ji and the pagoda.</span></div></li>
+    <li><time>12:35</time><div><strong>Same line straight to Shibuya</strong><span class="detail">About 35 minutes on the train, 45–50 door to door. ¥250.</span></div></li>
+    <li><time>13:20–15:00</time><div><strong>Shibuya Parco, 6th floor</strong><span class="detail">Nintendo Tokyo and Pokémon Center Shibuya. This is not the Skytree store. If they are handing out numbered tickets, take one or come back later.</span></div></li>
+    <li><time>15:10–16:10</time><div><strong>Sushirun 2 · Uobei, Dōgenzaka</strong><span class="detail">8–12 minutes from Parco. English screen, plates on the little tracks. This is the sushi. Dinner is beef.</span></div></li>
+    <li><time>16:15–17:45</time><div><strong>Sunset from the street. Sun sets 16:42.</strong><span class="detail">Miyashita Park roof by 16:30. Then the scramble itself. Then MEGA Don Quijote on Center-gai for KitKats and small things.</span></div></li>
+    <li><time>18:20–19:40</time><div><strong>Shibuya Sky · ticketed entry</strong><span class="detail">Be at the 14F gate by 17:50. Lit crossing, Skytree to the east. You can stay until about 22:30, but leave at 19:40. One exit. If wind closes the roof, the indoor gallery on 46 still opens.</span></div></li>
+    <li><time>20:00–22:00</time><div><strong>Ushigoro Kan, Ebisu</strong><span class="detail">One Yamanote stop, 2 minutes. Shoes off, sunken seats, 2-hour table. Back to Ueno about 35 minutes.</span></div></li>
+  </ol>
+  <div class="band">
+    <div class="note"><div class="lbl">Ticket</div>Shibuya Sky 18:20 is a night view. A day backpack is fine. A suitcase is not. Locker a stuffed pack at Shibuya Station first.</div>
+    <div class="note"><div class="lbl">If the shops are slammed</div>Pokémon Center Skytree Town on Wednesday has different stock. Do not burn the sunset hour in a line.</div>
+  </div>
+  <div class="foot"><span>Day 2 · Thursday Nov 5</span><span>Shibuya Sky 18:20</span></div>
+</section>
+
+<section class="sheet day" style="--c:#1f6b4a">
+  <header class="dayhead">
+    <div class="badge"><b>03</b><small>Fri</small></div>
+    <div><h2>Houses, then Harajuku.</h2><p class="sub">West Tokyo in the morning. The owl café is not today.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Ueno North</div>
+  </header>
+  <ol class="tl">
+    <li><time>08:30</time><div><strong>Leave after breakfast</strong><span class="detail">Yamanote to Shinjuku (~25 min), Chūō Rapid to Musashi-Koganei (~25 min). North exit, Seibu bus platform 2 or 3. Off at Koganei-kōen Nishi-guchi, 5-minute walk. Door to door 75–85 minutes.</span></div></li>
+    <li><time>09:45–14:15</time><div><strong>Edo-Tokyo Open Air Architectural Museum</strong><span class="detail">Inside the park. November hours 9:30–16:30, last entry 16:00, ¥400. Go into the houses. Find Kodakara-yu, the old bath that fed the look of the one in Spirited Away. Lunch at the museum café around 13:00.</span></div></li>
+    <li><time>14:50–16:20</time><div><strong>Nakano Broadway</strong><span class="detail">Bus back, then the Chūō line, about 20 minutes. Mandarake and vintage figures. A different pile from Akihabara, which is Sunday.</span></div></li>
+    <li><time>16:50–18:20</time><div><strong>Harajuku, small bites only</strong><span class="detail">Chūō to Shinjuku, Yamanote to Harajuku, about 25 minutes total. One crêpe or takoyaki on Takeshita-dōri, then Cat Street. Dinner is a full meal.</span></div></li>
+    <li><time>19:30–21:15</time><div><strong>Iroha Honten, Tsukishima</strong><span class="detail">Yamanote to Yūrakuchō, then the subway, 35–40 minutes. Leave Harajuku at 18:20. Sakura-ebi monja. Staff cook it with you. Back to Ueno about 40 minutes. Pack the Niigata backpack tonight.</span></div></li>
+  </ol>
+  <div class="band">
+    <div class="note"><div class="lbl">If you already hold Ghibli tickets</div>Do the museum in Mitaka this morning and skip the open-air park. Both want half a day. Nakano and Harajuku still fit after.</div>
+    <div class="note"><div class="lbl">If the buildings grab you</div>Stay until 15:30 and drop Nakano, not Harajuku. Rain: the rooms are indoors, the paths are not. Nakano Broadway is the indoor swap.</div>
+  </div>
+  <div class="foot"><span>Day 3 · Friday Nov 6</span><span>Monjayaki 19:30</span></div>
+</section>
+
+<section class="sheet day" style="--c:#315c7a">
+  <header class="dayhead">
+    <div class="badge"><b>04</b><small>Sat</small></div>
+    <div><h2>Koi ponds, then the mountain bath.</h2><p class="sub">The 40L is your only bag. Ojiya and the ryokan are different taxi rides from Nagaoka.</p></div>
+    <div class="stay"><div class="h">Sleep</div>Yomogihira<br>Onsen Izumiya</div>
+  </header>
+  <ol class="tl">
+    <li><time>07:00</time><div><strong>Backpack only</strong><span class="detail">One spare outfit, sleep shirt, socks, mini toiletries, both batteries, charger, warm layer, cash, a plastic bag. Yukata and towels are at the inn. No second pair of shoes.</span></div></li>
+    <li><time>07:30</time><div><strong>Hand the suitcases to MIMARU</strong><span class="detail">Forward them to MIMARU Tokyo Ueno Inaricho for Sunday. Get a receipt. They may arrive late morning, not at 8:00.</span></div></li>
+    <li><time>08:30</time><div><strong>Toki, Tokyo Station → Nagaoka</strong><span class="detail">Ueno to Tokyo is 8–9 minutes. Ride about 1 hour 35–50. Reserved seat, roughly ¥9,000–11,000. Watch for the mountains after the long tunnel.</span></div></li>
+    <li><time>10:30–13:00</time><div><strong>Nishikigoi no Sato, Ojiya</strong><span class="detail">Taxi 35–45 minutes is the calm way. Train to Ojiya is 20 minutes, then a bus. Wooden bridges, collector koi, feed them, then leave. This is the birthplace of colored koi.</span></div></li>
+    <li><time>13:00</time><div><strong>Sushirun 4 · lunch in Ojiya</strong><span class="detail">A local counter near the station, Niigata rice under the fish. Sushimasa if it is open. Then a taxi to Izumiya, 40–55 minutes. Or return to Nagaoka East for the inn’s shuttle, which runs about 13:30–17:00 and must be reserved.</span></div></li>
+    <li><time>15:00</time><div><strong>Check in. Book tomorrow’s taxi.</strong><span class="detail">You need to be at Nagaoka Station by 9:50 on Sunday. Ask them to have a taxi at 9:15. Then the alkaline outdoor bath. Shower first. No swimsuit.</span></div></li>
+    <li><time>19:00</time><div><strong>Kaiseki in the room</strong><span class="detail">Murakami wagyu on the hot stone, if that is your menu. Futons appear while you eat. Sleep early.</span></div></li>
+  </ol>
+  <div class="pills">
+    <div class="pill"><b>Cash</b> rural taxis still want it</div>
+    <div class="pill"><b>App</b> GO taxi, plus the inn’s phone number</div>
+    <div class="pill"><b>Tattoos</b> ask before the public bath</div>
+  </div>
+  <div class="foot"><span>Day 4 · Saturday Nov 7</span><span>Backpack mode</span></div>
+</section>
+
+<section class="sheet day" style="--c:#a15c07">
+  <header class="dayhead">
+    <div class="badge"><b>05</b><small>Sun</small></div>
+    <div><h2>Owls at two o’clock.</h2><p class="sub">The early train is the whole trick. Akihabara happens after, not before.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Ueno Inaricho</div>
+  </header>
+  <div class="warn" style="margin-top:8px">
+    <strong>Leave Izumiya at 9:15. Toki around 10:19. Ueno around 11:45.</strong>
+    <p>Backup train is about 10:45, and then lunch becomes a station bento. Do not take the train near 11:55.</p>
+  </div>
+  <ol class="tl">
+    <li><time>07:45–08:45</time><div><strong>Breakfast at the inn</strong><span class="detail">Still sit down for it. Checkout by 9:15 with the backpack only.</span></div></li>
+    <li><time>09:15–09:45</time><div><strong>Taxi to Nagaoka, east side</strong><span class="detail">25–30 minutes. Be at the Shinkansen gate with time to spare.</span></div></li>
+    <li><time>10:19</time><div><strong>Toki to Ueno · about 1h30</strong><span class="detail">Reserved ordinary around ¥9,320. Get off at Ueno, not Tokyo.</span></div></li>
+    <li><time>11:50–13:15</time><div><strong>Drop the bag. Eat lunch.</strong><span class="detail">MIMARU Inaricho is a 5–8 minute walk, or 3 minutes from Inaricho station. If the room is not ready, the desk holds the backpack. Do not unpack. Lunch in Ueno or Ameyoko. You will not be fed with the owls.</span></div></li>
+    <li><time>13:15</time><div><strong>One stop to Akihabara</strong><span class="detail">Hibiya Line, about 3 minutes. Or walk 15.</span></div></li>
+    <li><time>13:40–14:50</time><div><strong>Akiba Fukurou · session 14:00</strong><span class="detail">From the Central Gate, turn left. Yodobashi-Akiba is on your right. White building next to the vet. Slippers on. Staff handle the birds. About 50–60 minutes.</span></div></li>
+    <li><time>14:50–17:30</time><div><strong>Akihabara, unhurried</strong><span class="detail">Super Potato, one GiGO crane floor, then Radio Kaikan or Mandarake. Yodobashi if you need a cable or a memory card.</span></div></li>
+    <li><time>18:15</time><div><strong>Sushirun 3 · Miura Misaki-kō again</strong><span class="detail">JR back to Ueno in 3–6 minutes. Order what you skipped on Wednesday. If you would rather not repeat the shop, eat Ganso Zushi at Manseibashi at 17:30 and skip the hop. Hotel is 5–10 minutes after. Open the forwarded suitcases and lay out Fuji clothes.</span></div></li>
+  </ol>
+  <div class="foot"><span>Day 5 · Sunday Nov 8</span><span>Owl café 14:00</span></div>
+</section>
+
+<section class="sheet day" style="--c:#1d4e89">
+  <header class="dayhead">
+    <div class="badge"><b>06</b><small>Mon</small></div>
+    <div><h2>Up to the lake.</h2><p class="sub">Suitcases ride the Fuji Excursion. The hotel shuttle is too late for your arrival.</p></div>
+    <div class="stay"><div class="h">Sleep</div>Maruei<br>Kawaguchiko</div>
+  </header>
+  <ol class="tl">
+    <li><time>08:00</time><div><strong>Inaricho → Shinjuku with the big bags</strong><span class="detail">Yamanote, 25–30 minutes, plus Shinjuku’s walking. Follow signs for Limited Express Fuji Excursion, 富士回遊.</span></div></li>
+    <li><time>09:30–11:28</time><div><strong>Fuji Excursion to Kawaguchiko</strong><span class="detail">About 1 hour 58 minutes. All seats reserved, about ¥4,200. Luggage space at the end of the car. Stops include Shimoyoshida, which you will use tomorrow.</span></div></li>
+    <li><time>11:30</time><div><strong>Taxi to Maruei · 8–10 min</strong><span class="detail">The free shuttle usually starts at 14:00. Do not wait for it. Drop the bags even if the room is not ready.</span></div></li>
+    <li><time>12:00–13:45</time><div><strong>Hōtō Fudō</strong><span class="detail">The white cloud-shaped building. Flat noodles, miso, pumpkin, mountain vegetables. Confirm the Kawaguchiko branch on the map. There is more than one.</span></div></li>
+    <li><time>14:00</time><div><strong>Lake edge, if the mountain is out</strong><span class="detail">November is a good month. Afternoons still cloud over. Morning light tomorrow is the better bet.</span></div></li>
+    <li><time>15:00</time><div><strong>Check in</strong><span class="detail">Lake-view room: beds plus tatami. Fill the private indoor bath. Rooftop deck for dusk. Sunset near the lake is about 16:40.</span></div></li>
+    <li><time>18:30</time><div><strong>Dinner in the hotel</strong><span class="detail">Multi-course, on site. Stay in. Ask if they can hold bags in the morning while you climb to the pagoda.</span></div></li>
+  </ol>
+  <div class="pills">
+    <div class="pill"><b>Dawn</b> look at Fuji before breakfast tomorrow</div>
+    <div class="pill"><b>Train home</b> target the 14:08, not a vague afternoon</div>
+  </div>
+  <div class="foot"><span>Day 6 · Monday Nov 9</span><span>Fuji Excursion 09:30</span></div>
+</section>
+
+<section class="sheet day" style="--c:#9a3412">
+  <header class="dayhead">
+    <div class="badge"><b>07</b><small>Tue</small></div>
+    <div><h2>The red pagoda, then Ginza.</h2><p class="sub">Lock the suitcases. Climb light. Be on the 14:08 back to Shinjuku.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Shinjuku West</div>
+  </header>
+  <ol class="tl">
+    <li><time>07:30</time><div><strong>Breakfast and a Fuji check</strong><span class="detail">Clearest light is early. Then checkout.</span></div></li>
+    <li><time>08:30–09:15</time><div><strong>Taxi to Kawaguchiko Station</strong><span class="detail">8–10 minutes. Big lockers fill on clear days. Staffed storage is the backup.</span></div></li>
+    <li><time>09:30–11:30</time><div><strong>Chūreitō Pagoda</strong><span class="detail">Local train to Shimoyoshida, 5–10 minutes. Walk 10–15 minutes, then 398 stone steps. Red five stories, Fuji behind them if the sky allows. Water in the small bag only.</span></div></li>
+    <li><time>11:30–13:30</time><div><strong>Back, a snack, reclaim the bags</strong><span class="detail">Station ramen or a convenience store. You want the luggage in hand before 13:30.</span></div></li>
+    <li><time>14:08–16:08</time><div><strong>Fuji Excursion to Shinjuku</strong><span class="detail">About 2 hours. Backup is 14:58, arriving about 16:59. The 16:48 and 17:41 erase Ginza.</span></div></li>
+    <li><time>16:15</time><div><strong>MIMARU Shinjuku West</strong><span class="detail">10–15 minutes from the station with luggage. Unpack for two nights.</span></div></li>
+    <li><time>17:00–18:30</time><div><strong>Ginza</strong><span class="detail">20–30 minutes from Shinjuku. Sanrio World, then A Happy Pancake for the soufflé stack. Lines happen.</span></div></li>
+    <li><time>19:00–20:30</time><div><strong>Sushirun 5 · Sushi Zanmai, Tsukiji</strong><span class="detail">About 15 minutes on foot from Ginza. Otoro and chūtoro. If the line is past 40 minutes, eat at a counter on the same block. Bird Land, the Ginza yakitori, only if you already hold a 19:30 table — then skip Zanmai.</span></div></li>
+  </ol>
+  <div class="foot"><span>Day 7 · Tuesday Nov 10</span><span>Return train 14:08</span></div>
+</section>
+
+<section class="sheet day" style="--c:#5b3a8c">
+  <header class="dayhead">
+    <div class="badge"><b>08</b><small>Wed</small></div>
+    <div><h2>Tower, Kirby, tempura.</h2><p class="sub">Bags stay in Shinjuku. Start the backpack almost empty.</p></div>
+    <div class="stay"><div class="h">Sleep</div>MIMARU Tokyo<br>Shinjuku West</div>
+  </header>
+  <ol class="tl">
+    <li><time>09:15–10:00</time><div><strong>Shinjuku → Tokyo Skytree</strong><span class="detail">35–50 minutes door to door. Follow Solamachi / Skytree Town signs, not a random tower exit.</span></div></li>
+    <li><time>10:00–11:30</time><div><strong>Tembo Deck, and Galleria if you bought it</strong><span class="detail">Fast elevators, glass floor, the bay. A timed ticket skips the worst line. Door tickets still exist.</span></div></li>
+    <li><time>12:00–14:00</time><div><strong>Kirby Café, Solamachi 4F</strong><span class="detail">Your timed slot. Star pizza, the burger in the ceramic block, dessert. They turn the table. If you have no reservation: eat elsewhere in the building and still do the shop next door.</span></div></li>
+    <li><time>14:00–17:00</time><div><strong>The 4th-floor loop</strong><span class="detail">Kirby Café Store, then Pokémon Center Skytree Town, then Donguri Republic for Ghibli. Different goods from Shibuya. Plush goes in the tote. Wrap the ceramic or carry it.</span></div></li>
+    <li><time>17:40</time><div><strong>Leave for Shinjuku</strong><span class="detail">35–50 minutes. A claw machine is allowed only if it cannot make you late.</span></div></li>
+    <li><time>19:00–20:45</time><div><strong>Tsunahachi Sohonten</strong><span class="detail">Tempura since 1924, a short walk from the station and the hotel. Order the tendon or the set. Then pack the suitcases. Tomorrow starts with a clock.</span></div></li>
+  </ol>
+  <div class="pills">
+    <div class="pill"><b>Reservation</b> Kirby Café, timed</div>
+    <div class="pill"><b>Reservation</b> Tsunahachi, 19:00</div>
+    <div class="pill"><b>Fragile</b> Kirby ceramic rides in the jacket or in your hand</div>
+  </div>
+  <div class="foot"><span>Day 8 · Wednesday Nov 11</span><span>Tempura 19:00</span></div>
+</section>
+
+<section class="sheet day" style="--c:#292524">
+  <header class="dayhead">
+    <div class="badge"><b>09</b><small>Thu</small></div>
+    <div><h2>Last sushi, then the airport.</h2><p class="sub">Flight at 17:30 from Narita. Be in the terminal at 14:30.</p></div>
+    <div class="stay"><div class="h">Depart</div>Narita<br>17:30</div>
+  </header>
+  <div class="band" style="margin-top:10px">
+    <div class="note"><div class="lbl">The math</div>N’EX from Tokyo Station is 53–60 minutes. Be on that train by 13:45. Character Street is a short lap, not a second shopping day.</div>
+    <div class="note"><div class="lbl">If the morning slips</div>Skip Character Street first. Be on a train toward Narita by 14:00 only if you accept a bad afternoon. Three hours at the airport is the rule.</div>
+  </div>
+  <ol class="tl">
+    <li><time>09:30–10:30</time><div><strong>Pack and check out of Shinjuku West</strong><span class="detail">Both batteries, meds, and one change of clothes ride in the backpack. Heavy plush goes in the checked suitcases. Fragile figures stay with you.</span></div></li>
+    <li><time>10:30–11:15</time><div><strong>Shinjuku → Tokyo Station</strong><span class="detail">30–45 minutes with luggage. Do not budget the empty-handed time.</span></div></li>
+    <li><time>11:15–11:45</time><div><strong>Lockers or the baggage desk</strong><span class="detail">Big cases go in. Passport, cards, and the daypack stay out. Coin lockers fill. Have the staffed counter as plan B.</span></div></li>
+    <li><time>11:45–13:00</time><div><strong>Sushirun 6 · Nemuro Hanamaru</strong><span class="detail">KITTE Marunouchi, 5th floor, across from the Marunouchi south side. Not the station basement. Hokkaido fish. No reservations. Sit down early and be standing up at 13:00.</span></div></li>
+    <li><time>13:00–13:25</time><div><strong>Tokyo Character Street</strong><span class="detail">First Avenue, one floor down. One focused lap. Buy only what still fits.</span></div></li>
+    <li><time>13:25–13:40</time><div><strong>Bags, then the N’EX gate</strong><span class="detail">Reserved seats. Confirm Terminal 1 or Terminal 2·3 on the ticket.</span></div></li>
+    <li><time>13:45–14:45</time><div><strong>Narita Express · 53–60 min</strong><span class="detail">Then check-in, security, and the gate. Be at the gate 30 minutes before 17:30.</span></div></li>
+  </ol>
+  <div class="pills">
+    <div class="pill"><b>Cleaner option</b> Forward suitcases hotel → Narita the day before, if the cutoff allows</div>
+    <div class="pill"><b>From Shinjuku direct</b> N’EX is 80–90 min, so it leaves even earlier</div>
+  </div>
+  <div class="foot"><span>Day 9 · Thursday Nov 12</span><span>N’EX 13:45</span></div>
+</section>
+
+<section class="sheet">
+  <div class="sec-title">
+    <h2>What the 40L holds.</h2>
+    <div class="kicker">Leave the laptop at home</div>
+  </div>
+  <div class="always">
+    <strong>Every city day, one-third full.</strong>
+    Passport in an inner zip. One 10,000 mAh pack and a short cable. Jacket, compact umbrella, empty bottle, tissues, plasters, meds. A flat foldable tote for plush, so the pack stays for flat and fragile things. The second battery stays charging in the room, except on the travel days: Nov 4, 7, 8, 9, 10, and 12. Batteries never go in a checked suitcase.
+  </div>
+  <div class="pack">
+    <article style="--c:#1e3a5f"><h3>Wed 4 · carry-on</h3><p>Passport, meds, both batteries, cables, earbuds, one change of clothes, toothbrush, jacket, empty bottle, eye mask.</p></article>
+    <article style="--c:#b42318"><h3>Thu 5 · light</h3><p>Daily kit and a jacket for the roof. Eat the street food. Do not bag it.</p></article>
+    <article style="--c:#1f6b4a"><h3>Fri 6 · walking</h3><p>Daily kit, tote, shoes you can wear for hours. The museum paths add up.</p></article>
+    <article style="--c:#315c7a"><h3>Sat–Sun morning · only bag</h3><p>Outfit on your body, one spare, sleep shirt, underwear, socks, mini toiletries, both batteries, charger, warm layer, taxi cash.</p></article>
+    <article style="--c:#a15c07"><h3>Sun afternoon · shopping</h3><p>Dump the ryokan clothes at Inaricho first. Games in the pack, plush in the tote.</p></article>
+    <article style="--c:#1d4e89"><h3>Mon 9 · personal item</h3><p>Daily kit, jacket, water, both batteries. Clothes stay in the suitcase on the train.</p></article>
+    <article style="--c:#9a3412"><h3>Tue 10 · stairs, then shops</h3><p>Water, jacket, phone, battery, passport for the 398 steps. Sanrio bags come after the lockers.</p></article>
+    <article style="--c:#5b3a8c"><h3>Wed 11 · almost empty</h3><p>Daily kit, tote, a soft pouch. The Kirby ceramic does not go under a stack of plush.</p></article>
+    <article style="--c:#292524"><h3>Thu 12 · carry-on again</h3><p>Passport, meds, both batteries, cables, jacket, one outfit, headphones, fragile souvenirs. Heavy plush is checked.</p></article>
+  </div>
+  <table class="cheats">
+    <thead><tr><th>Hop</th><th>Time</th><th></th></tr></thead>
+    <tbody>
+      <tr><td>Narita → Ueno, Skyliner</td><td>41 min</td><td>Reserved</td></tr>
+      <tr><td>Ueno → Asakusa, Ginza Line</td><td>5–7 min</td><td>¥180</td></tr>
+      <tr><td>Asakusa → Shibuya, Ginza Line</td><td>35 min ride</td><td>~50 door to door</td></tr>
+      <tr><td>Ueno → museum</td><td>75–85 min</td><td>Bus at the end</td></tr>
+      <tr><td>Tokyo → Nagaoka</td><td>1h35–1h50</td><td>Sat morning</td></tr>
+      <tr><td>Nagaoka → Ueno</td><td>1h25–1h35</td><td>Sun ~10:19</td></tr>
+      <tr><td>Shinjuku → Kawaguchiko</td><td>~1h58</td><td>Mon 09:30</td></tr>
+      <tr><td>Kawaguchiko → Shinjuku</td><td>~2h</td><td>Tue 14:08</td></tr>
+      <tr><td>Tokyo → Narita, N’EX</td><td>53–60 min</td><td>Thu 13:45</td></tr>
+    </tbody>
+  </table>
+  <div class="foot"><span>Packing &amp; trains</span><span>Print double-sided if you can</span></div>
+</section>
+
+</body>
+</html>
