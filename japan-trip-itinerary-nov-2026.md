@@ -61,6 +61,31 @@ Do these in Japan time. Set alarms.
 **Luggage forwarding (takkyubin / MIMARU delivery):**  
 On Nov 7 morning, send large suitcases from MIMARU Ueno North → MIMARU Ueno Inaricho for **Nov 8 delivery**. Ask front desk at check-in on Day 1 so labels/payment are ready. Within-Tokyo MIMARU delivery is often ~¥2,600/item; Yamato next-day is also fine. Bags will **not** magically appear at 08:00 — plan for late morning/afternoon arrival on Nov 8.
 
+### Tomtoc 40L — what goes in it
+
+Leave the 13" MacBook at home. Maps, tickets, Suica, photos, and reservations all live on your phone. The laptop sleeve is better used for flat souvenirs (towels, prints, game boxes). Bring the laptop only if you must work.
+
+**Every day, in the bag**
+
+- Passport in an inner zip, plus a photo of the ID page on your phone. Keep a little cash and one card on your body, not only in the pack.
+- Phone, one short cable, and **one** 10,000 mAh pack. Leave the second pack charging at the hotel. Carry **both** on Nov 4, Nov 7–8 (Niigata), Nov 9–10 (Fuji), and Nov 12. Never put them in a checked suitcase.
+- Packable jacket, compact umbrella, empty water bottle, tissues, a few plasters, personal meds.
+- One flat foldable tote. This is how you keep the 40L from filling up by lunch. Plush and boxes go in the tote; flat and fragile items go in the backpack.
+
+On city days the pack should start about one-third full. It is a carry-on, not a suitcase you wear through Shibuya.
+
+| Day | Bag job | Put in it | Leave at the hotel |
+| --- | --- | --- | --- |
+| **Nov 4** arrival | Carry-on beside checked suitcases | Passport, meds, both batteries, cables, earbuds, 1 change of clothes, toothbrush, jacket, empty bottle, eye mask | Laptop. Do not pre-pack for souvenirs. |
+| **Nov 5** Asakusa / Shibuya | Light day bag | Daily kit, jacket (rooftop wind), tote | Second battery, extra clothes. Eat snacks; don’t pack them. |
+| **Nov 6** Ghibli / Akihabara | Light day bag, shopping later | Daily kit, both batteries (long day), tote. Games in the pack, plush in the tote | Clothes and toiletries. |
+| **Nov 7–8 morning** Niigata | **Only bag you have** | Worn outfit + 1 spare outfit, sleep shirt, underwear/socks, mini toiletries, both batteries, charger, jacket, cash for taxis, plastic bag for damp clothes. Yukata and towels are at the ryokan | Everything else is in the forwarded suitcases. No second shoes. |
+| **Nov 8 afternoon** Harajuku / Tsukiji | Light day bag again | Daily kit, tote | Dump the Niigata clothes into the room first. Do not save raw sushi. |
+| **Nov 9** Kawaguchiko | Personal item; suitcases on the train | Daily kit, jacket, water, both batteries | Clothes stay in the suitcase. |
+| **Nov 10** pagoda, then Ginza | Light for the 398 steps, then shopping | Water, jacket, phone, battery, passport, tickets. Add Sanrio/sweets **after** the climb | Suitcases in Kawaguchiko lockers during the pagoda visit. |
+| **Nov 11** Skytree / Kirby | Start almost empty | Daily kit, tote, a soft pouch. Wrap the Kirby ceramic carefully or carry it | Bulky buys can go straight back to the hotel that night. |
+| **Nov 12** departure | Carry-on again | Passport, meds, both batteries, cables, jacket, 1 set of clothes, fragile souvenirs, headphones, empty bottle | Heavy plush and low-value bulk go in the checked suitcases. |
+
 ---
 
 ## Day 1 — Wed Nov 4: Arrival, Ueno settle-in, Ameyoko sushi
