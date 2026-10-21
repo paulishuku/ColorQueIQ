@@ -38,7 +38,7 @@ Do these in Japan time. Set alarms.
 | **Ghibli Museum** | Only if you already hold tickets | Nov 6 | If you do, replace the open-air museum that morning. Do not try to do both. |
 | **Tokyo Skytree** | Optional advance / Fast Ticket | Nov 11 morning | Door tickets OK; advance avoids long lines. |
 | **Keisei Skyliner** (arrival) | Online e-ticket anytime | Nov 4 | Reserved seat. ~¥2,470 adult NRT→Keisei-Ueno. |
-| **Joetsu Shinkansen** Tokyo ⇄ Nagaoka | JR East reservation | Nov 7 & Nov 8 | Reserved Ordinary recommended in autumn. ~1h35–1h50. |
+| **Joetsu Shinkansen** Tokyo ⇄ Nagaoka | JR East reservation | Nov 7 outbound; **Nov 8 ~10:19 Nagaoka → Ueno** | Nov 8 ride is about **1h25–1h35** into Ueno. Do not book an 11:55. |
 | **Fuji Excursion** Shinjuku ⇄ Kawaguchiko | Opens ~1 month ahead (JR / Fujikyu) | Nov 9 outbound 09:30; Nov 10 return 14:08 | All seats reserved. ~¥4,200 one way. |
 | **Narita Express (N’EX)** return | Reserve seats | Nov 12 midday | All seats reserved. |
 | **Izumiya free shuttle** | Call/email ryokan in advance | Nov 7 afternoon pickup from Nagaoka East Exit | Pickup window roughly **13:30–17:00**; 2+ guests. |
