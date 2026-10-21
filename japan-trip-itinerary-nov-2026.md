@@ -1,0 +1,511 @@
+# Japan Trip Master Itinerary — Nov 4–12, 2026
+
+**Trip length:** 10 days / 9 nights  
+**Base cities:** Tokyo (Ueno → Kawaguchiko → Shinjuku) with a 1-night Niigata ryokan detour  
+**Travelers:** 3 first-time visitors. Dinner prices below are the table for all 3. Two of you drink sake. Train and ticket prices stay per adult.  
+**Style:** Street food + conveyor sushi (“SUSHIRUN”) + character shopping + one mountain onsen night + Mt. Fuji overnight
+
+> **Printable booklet:** open [`print/Japan-Trip-Nov-2026.pdf`](print/Japan-Trip-Nov-2026.pdf). Fifteen letter-size pages: cover, reservations, the six trains that need a seat, two pages of what to order, one page per day, and a page that says where the 3 suitcases and 3 backpacks are each morning. The HTML source is `print/itinerary.html` if you need to reprint.
+
+> **How to use this document**  
+> Times are local Japan Standard Time (JST, UTC+9). Train ride times are in-motion only unless marked “door-to-door.” Always add **5–15 minutes** inside large stations (Shinjuku, Tokyo, Shibuya) for walking between exits/platforms. Buy the five JR reserved seats before you fly. Buy the Skyliner at the airport after you land.
+
+---
+
+## Critical corrections from the draft itinerary
+
+| Issue | Fix |
+| --- | --- |
+| Pokémon Center at Shibuya Parco listed as “Skytree Town” | Correct store is **Pokémon Center Shibuya** (Parco 6F). Skytree Town is a different store (visited Day 8). |
+| Famichiki at 7-Eleven | **Famichiki = FamilyMart only.** At 7-Eleven get egg salad sandwiches / onigiri; for fried chicken use **Lawson Karaage-kun** or FamilyMart. |
+| Shibuya Sky sunset slot | **Booked: Thu Nov 5, entry 18:20.** Sunset that day is **16:42**, so watch it from the street, then use Sky for the night view. You can stay until closing (about 22:30). No re-entry. |
+| Owl café on Friday | **Booked: Sun Nov 8, 14:00** at Akiba Fukurou. Akihabara moves to Sunday afternoon. |
+| Maruei free shuttle on arrival ~11:30 | Maruei shuttle typically runs **14:00–18:00**. On arrival, take a **taxi (~8–10 min)**. |
+| Day 7 return “13:00–15:00” | Direct Fuji Excursion returns from Kawaguchiko at roughly **14:08 / 14:58 / 16:48 / 17:41** (confirm nearer the date). Target **14:08 → Shinjuku ~16:08**. |
+| Day 9: N’EX after 14:30 for a **17:30** NRT flight | **Too tight.** Arrive Narita by **~14:30** (≈3 hours before departure). Leave central Tokyo by **~13:00**. |
+| Nemuro Hanamaru “Tokyo Station basement” | It is on **KITTE Marunouchi 5F** (across from Tokyo Station Yaesu/Marunouchi south), not First Avenue basement. |
+| Izumiya access “from Ojiya” | Ryokan shuttle/taxi hub is **JR Nagaoka Station** (~25–30 min). Plan Ojiya as a midday stop, then transfer toward Nagaoka/Yomogihira. |
+
+---
+
+## Must-book before you fly (and on sale dates)
+
+Do these in Japan time. Set alarms.
+
+| Booking | When tickets/slots open | Your target date | Notes |
+| --- | --- | --- | --- |
+| **Akiba Fukurou (owl café)** | Already choosing the slot | **Sun Nov 8, 14:00** | About 50–60 minutes. Be there by **13:40**. Address: 67 Kanda Neribeicho, ~3 min from JR Akihabara Central Gate. |
+| **Shibuya Sky** | Already booked | **Thu Nov 5, 18:20** | Timed entry only. Stay as long as you like until ~22:30. Large suitcases are not allowed. |
+| **Sumida Aquarium** | Online about 30 days ahead, or the machines at the door | **Wed Nov 11, enter ~12:30** | Solamachi 5F, under the tower. Adult ¥2,700. Weekday hours 10:00–20:00. Aim for the **13:30 penguin feeding**. |
+| **Ghibli Museum** | Only if you already hold tickets | Nov 6 | If you do, replace the open-air museum that morning. Do not try to do both. |
+| **Tokyo Skytree** | Optional advance / Fast Ticket | Nov 11 morning | Door tickets OK; advance avoids long lines. |
+| **Keisei Skyliner** | Airport counter after customs | Nov 4, next train to Keisei-Ueno | Do not buy this before you fly. About ¥2,570. Follow Skyliner signs, not Narita Express. |
+| **Joetsu Shinkansen** | [JR-EAST Train Reservation](https://www.eki-net.com/jreast-train-reservation/Top/Index) | Nov 7 ~08:30 Tokyo → Nagaoka; **Nov 8 ~10:19 Nagaoka → Ueno** | 3 ordinary reserved seats together. Nov 8 is about **1h25–1h35**. Do not book an 11:55. |
+| **Fuji Excursion** | Same JR site | Nov 9 Shinjuku 09:30; Nov 10 Kawaguchiko 14:08 | All seats reserved. ~¥4,200 one way. Sit in the car on the ticket, usually cars 1–3. |
+| **Narita Express** | Same JR site | Nov 12, a Tokyo departure between **12:45 and 13:15** | All seats reserved. End at T1 or T2, the same terminal as the suitcases. |
+| **Izumiya free shuttle** | Call/email ryokan in advance | Nov 7 afternoon pickup from Nagaoka East Exit | Pickup window roughly **13:30–17:00**; 2+ guests. |
+| **Maruei dinner & shuttle** | Confirm with hotel | Nov 9–10 | Dinner is usually hotel kaiseki; confirm dietary needs. |
+| **Han no Daidokoro Bettei** (Yamagata yakiniku) | Shop site, or **03-5489-7655** | **Thu Nov 5, 20:00** | Call **15:00–16:30 JST**. Walk from Shibuya Sky. Order the meat yourself. Skip 050 numbers from the US. |
+| **Tsukishima Monja Moheji Honten** | **03-6204-2314** | **Fri Nov 6, 19:30** | Same call window. 24 seats. Mentaiko-mochi with cheese, plus a seafood pan. |
+| **Tempura Tenhide** | **03-5386-3630** | **Wed Nov 11, 19:00** | West Shinjuku, open Wednesday. B course ¥8,250. Same-day cancel is the course price. |
+| **Suitcases → Inaricho** | [MIMARU luggage delivery, Tokyo](https://order.kurogo-service.com/order/create/order/?city=tokyo&lang=us-en) | **Sat Nov 7, drop at 7:30** | Reserve by **Fri Nov 6, 23:00**. 3 cases, Ueno North → Inaricho. ¥2,600 each. At Inaricho after 20:00 Saturday. The train is 8:30, so this one is earlier than the 9:00 cutoff. |
+| **Suitcases → Shinjuku West** | Same Tokyo form | **Mon Nov 9, drop by 8:30** | Reserve by **Sun Nov 8, 23:00**. 3 cases, Inaricho → Shinjuku West. They skip the lake. At Shinjuku West after 20:00 Monday. |
+| **Suitcases → Narita** | Same Tokyo form | **Wed Nov 11, drop by 8:30** | Reserve by **Tue Nov 10, 23:00**. 3 cases to **T1 South Wing or Terminal 2 only**. Collect Thursday at JAL ABC departures before **15:59**. |
+
+**Suica / PASMO:** Buy one card per person at Narita on Nov 4, or add Mobile Suica on each iPhone. Charge ¥5,000–10,000. This pays the local trains. It does not pay a reserved seat by itself.
+
+## Six trains need a seat
+
+Book the five JR rides now, three ordinary reserved seats together, on [JR-EAST Train Reservation](https://www.eki-net.com/jreast-train-reservation/Top/Index). That is the site for visitors. The Japanese eki-net site will not take an overseas account. If the card fails, take the reservation to the JR ticket office at Ueno or Tokyo and ask them to print the tickets. Paper is the calm version for three people: each ticket shows the car and the seat. Insert it at the gate, take it back when it pops out, and do that again if there is a second gate.
+
+The Welcome Suica app can reserve for one person. A party of three should use the website.
+
+| When | Train | Where you walk |
+| --- | --- | --- |
+| **Wed Nov 4**, after customs | **Skyliner** to Keisei-Ueno, 41 min, about ¥2,570. Buy this at the airport, not before you fly. | Follow **Skyliner / Keisei** signs in the terminal you landed in. Ignore **Narita Express**. Buy 3 seats on the next train. Stand at the car on the ticket. Suitcases go in the end racks. |
+| **Sat Nov 7, 08:30** | **Toki**, Tokyo → Nagaoka, about 1h40, about ¥9,000–11,000 | Ueno to Tokyo is one local stop. At Tokyo follow **Tohoku / Joetsu / Hokuriku Shinkansen**, platforms **20–23**. Check the board for your train. Platforms **14–19** go to Kyoto and Osaka. Be at your car 10 minutes early. |
+| **Sun Nov 8, 10:19** | **Toki**, Nagaoka → Ueno, about 1h30, about ¥9,320. Backup **10:45**. | Taxi to the **East Exit**. Shinkansen gate. **Get off at Ueno.** The train continues to Tokyo. |
+| **Mon Nov 9, 09:30** | **Fuji Excursion**, Shinjuku → Kawaguchiko, about 2 hours, about ¥4,200 | **JR Shinjuku**, the green JR logo. Platforms **9 or 10**, then confirm on the board. Sit in the car printed on the ticket, usually **cars 1–3**. The cars behind split off at Otsuki and do not go to the lake. You stay seated. |
+| **Tue Nov 10** | Morning local, no seat. Afternoon **Fuji Excursion 14:08** Kawaguchiko → Shinjuku. Backup **14:58**. | Morning: Fujikyu train to Shimoyoshida. Tap Suica, or buy a paper ticket from the machine. Afternoon: follow **富士回遊 / Shinjuku** and sit in your car. |
+| **Thu Nov 12, by 13:15** | **Narita Express**, Tokyo → Narita, 53–60 min. Book a departure between **12:45 and 13:15**. | Tokyo Station signs: **Narita Express / 成田エクスプレス**. This is JR, not the Skyliner. The ticket must end at **T1 or T2**, the same terminal as the suitcases. |
+
+Everything else is a tap: Ginza Line, Yamanote, Hibiya, Chuo, and the subway to Tsukishima. Touch in and touch out. These reserved trains leave on the minute. Ten minutes at the right car is enough. If you miss one, tell the station staff the train name. They move you to the next one.
+
+---
+
+## What to order, and when to call
+
+Only three tables on this trip take a reservation: Han no Daidokoro, Moheji, and Tenhide. Everything else is walk-in. Do not call a conveyor-sushi counter asking them to hold seats. They will say no, and a 050 number often will not even connect from the United States.
+
+**When to call.** The useful window in Japan is **15:00–16:30** (after lunch, before dinner service). In November that is **1:00–2:30 AM US Eastern**. If you want to be awake, call **8:30–9:30 PM Eastern**, which is **10:30–11:30 AM** the next morning in Tokyo. Do not call **18:00–21:00 JST**. Use the **03** landlines below. Web forms work at any hour.
+
+### Reserve these
+
+**Han no Daidokoro Bettei (韓の台所 別邸) — Thu Nov 5, 20:00.** Yamagata beef yakiniku, 7F of the Dōgenzaka Center Building, 2-29-8 Dōgenzaka. About two minutes from JR Shibuya, so you walk here from Shibuya Sky and skip the hop to Ebisu. Dinner Mon–Sat 17:00–22:30, last order 22:00. Closed Dec 31 and Jan 1. About 140 seats.  
+**Order:** the meat yourself, not a preset course. Two shared 6-kind Yamagata platters at ¥7,500 each, the limited otoro tongue (¥2,480), top harami (¥2,780), and one chateaubriand sukiyaki (¥3,480, includes a small rice). Add kimchi and a cold noodle each (about ¥980). Food is about ¥27,500. Drinks for two are about ¥4,000–5,000. **About ¥32,000 for the table** if those platters are shared. A course that includes all-you-can-drink starts at four people, so it does not apply to three.  
+**Why this one:** Tripadvisor is 4.6 from about 459 reviews, around #19 in Shibuya. The old Ebisu pick was 4.0 from 26 reviews. Be honest about the other score: Japanese Tabelog is 3.32 from about 486 reviews, and listed spend is often ¥10,000–14,999 a person. A July 2026 review says the preset courses pad the bill with sides, and some reviews say the big “A5” sets were not all A5. That is why the order above is a la carte.  
+**Book:** the shop site, or **03-5489-7655** at 15:00–16:30 JST. Skip 050-5385-3404 and the Tabelog 050 number from the US.  
+**Reviews:** [Han no Daidokoro Bettei on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d3752339-Reviews-Hanno_Daidokoro_Bettei-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Tsukishima Monja Moheji Honten (月島もんじゃ もへじ 本店) — Fri Nov 6, 19:30.** The monja counter locals rank first on the street. Staff cook a thin cabbage batter on the iron plate at the table. 1F, Reno Style Tsukishima, 3-16-9 Tsukishima, about 3 minutes from the station. Weekday dinner 17:00–23:00 (there is an afternoon break; do not arrive before 17:00). 24 seats, so Friday at 19:30 has to be booked.  
+**Order:** mentaiko-mochi monja (¥1,738) plus cheese (¥330), a seafood monja (¥1,880), one more pan (squid-ink is about ¥1,848), and a grilled squid to share (about ¥1,280). Sake or beer for two is about ¥2,500. **About ¥12,000 for the table.**  
+**Why this one:** Google and local lists put Moheji near 4.7 from thousands of reviews. Iroha’s Tripadvisor page is 3.9 from 42 reviews, mostly 2018–19. Tripadvisor barely lists Moheji, so no review link is printed here. Do not invent one.  
+**Book:** **03-6204-2314** at 15:00–16:30 JST.
+
+**Tempura Tenhide (天ぷら 天秀) — Wed Nov 11, 19:00.** 7-12-21 Nishi-Shinjuku, about 7 minutes from the JR Shinjuku west exit and on the same side of the station as MIMARU Shinjuku West. Dinner 17:00–22:00, last order 21:00. Open Wednesday. Closed Sunday. Nov 11, 2026 is a Wednesday and not a holiday. No service charge, no cover.  
+**Order:** the B course, ¥8,250 each: 10 pieces of tempura, a small bowl, tendon or tempura chazuke, and dessert. Three courses are ¥24,750. About ¥4,000 more for two pours of sake each for two people. **About ¥29,000 for the table.** The S course (¥11,000, adds sashimi) would land near ¥37,000 with the same drinks.  
+**Why this one:** Tsunahachi’s original building closed May 31, 2026, and the Tripadvisor page people still see is full of older “one prawn” complaints. Tenkane (天兼) scores higher on Tripadvisor but is closed on Wednesday, including the second Wednesday, which is Nov 11. Tenhide’s Japanese score is Tabelog 3.51 from about 700 reviews, and it was a 2022 Tempura 100 pick. A useful Tripadvisor URL was not confirmed, so none is printed.  
+**Book:** **03-5386-3630** at 15:00–16:30 JST. Say you saw the website. If you booked the B course, a same-day cancel (or a cancel after 21:00 the night before) is the full course price. Menu: [tenhide.jp/food](https://tenhide.jp/food/).
+
+### Walk in — show up, don’t call for a seat
+
+**Miura Misaki-kō, Ueno — Wed Nov 4 around 19:45, and again Sun Nov 8 around 18:15.** A tuna wholesaler’s conveyor counter, about 19 seats, at 6-12-14 Ueno (roughly 5 minutes from JR Ueno, Shinobazu exit). Weekdays 10:30–23:00, weekends 10:30–22:00. Reservations are not accepted. The suitcases stay in the hotel room. The shop phone is **03-5807-6023**, and it is not a booking line.  
+**Order:** the heaped chūtoro or negitoro gunkan (the “yamamori” pile is the dish people come for), the Misaki tuna assortment, and aburi toro if it is on the panel. On Nov 8, order whichever of those you skipped on arrival night. A wait at 18:00–20:00 is normal. If the list looks longer than about 30 minutes, eat after 20:30 or switch to Ganso Zushi at Manseibashi while you are still in Akihabara.  
+**Reviews:** [Magurodonya Miura Misakiko Ueno on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14134274-d3760771-Reviews-Magurodonya_Miura_Misakiko_Ueno-Ueno_Taito_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Uobei, Shibuya Dōgenzaka — Thu Nov 5, 15:10.** Fast conveyor sushi in booths. An English touchscreen sends plates down a little track. Reservations are not taken. **03-3462-0241** is the shop, not a hold.  
+**Order:** aburi salmon and a shrimp tempura roll. This is the sushi meal; dinner that night is the yakiniku.  
+**Reviews:** [Uobei Shibuya Dogenzaka on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d3871559-Reviews-Uobei_Shibuya_Dogenzaka-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Hōtō Fudō, Kawaguchiko Ekimae — Mon Nov 9, 12:00.** The white cloud-shaped building at 3631-2 Funatsu, near Kawaguchiko Station. Walk in. A line at lunch is common and usually moves. There is a Minami branch nearby; use this cloud-shaped one.  
+**Order:** hōtō. Flat wheat noodles in a miso pot with pumpkin, cabbage, and mountain vegetables. One bowl is the meal.  
+**Reviews:** [Hoto Fudo, Kawaguchiko Ekimae on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1165976-d1664155-Reviews-Hoto_Fudo_Kawaguchiko_Ekimae-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html)
+
+**A Happy Pancake, Ginza — Tue Nov 10, 17:00.** Soufflé pancakes. Take a queue ticket. Weekday hours are about 10:30–19:30, so 17:00 is inside the window and 18:30 is not. This is a line, not a phone reservation.  
+**Order:** the plain soufflé with butter and maple syrup.  
+**Reviews:** [A Happy Pancake Ginza on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129573-d14192375-Reviews-A_Happy_Pancake_Ginza-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Sushi Zanmai Honten, Tsukiji — Tue Nov 10, after the pancakes.** 4-11-9 Tsukiji, the 24-hour main shop with the tuna figure out front. Reservations are not accepted. **03-3541-1117** will not hold a table. If the line is over about 40 minutes, use another counter on the block rather than the annex unless you are happy to sit at a tablet.  
+**Order:** the otoro / chūtoro set. Sit at the counter if a seat is open so you can point at the fish.  
+**Reviews:** [Sushizanmai Honten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129610-d3597142-Reviews-Sushizanmai_Honten-Tsukiji_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Nemuro Hanamaru, KITTE Marunouchi 5F — Thu Nov 12, 11:45.** Hokkaido fish on a belt, across from Tokyo Station’s Marunouchi south side, not in the station basement. No reservations. Hours about 11:00–22:00. Be done by **13:00**. **03-6269-9026** is the shop phone. Tripadvisor spells this listing “Nemuiro.”  
+**Order:** from the menu, not only whatever is riding past: fatty tuna, salmon in white soy, and hontaku (the lean cut).  
+**Reviews:** [Nemuro Hanamaru Kitte Marunouchi on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129528-d5015864-Reviews-Nemuiro_Hanamaru_Kitte_Marunouchi-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kan.html)
+
+**Already included, so there is nothing to reserve**
+
+- **Izumiya, Sat Nov 7.** Kaiseki comes with the room. If Murakami wagyu on a hot stone is on that night’s menu, say yes. Tell the inn about the Sunday 9:15 taxi when you confirm the stay.
+- **Maruei, Mon Nov 9.** Hotel dinner, usually kaiseki. Mention dietary limits when you confirm the room, not at 18:00.
+- **Ojiya lunch, Sat Nov 7.** If Sushimasa is open, eat there: Niigata rice and local fish. If the shutter is down, eat soba near the station. Do not hold the afternoon for a booking.
+- **Solamachi lunch, Wed Nov 11.** A rice bowl or ramen. Tempura is Tenhide that night, so don’t eat it twice.
+- **Ganso Zushi, Manseibashi.** Sunday backup only, if you skip the second Miura visit. Walk in while you are still in Akihabara. No Tripadvisor link is listed here because a page for that exact counter was not confirmed.
+
+---
+
+## Where the six bags are
+
+You have **3 large suitcases** and **3 backpacks**. The suitcases move three times, always through Luggage Delivery by MIMARU, and they never go to the lake. The backpacks are what you carry.
+
+| Move | Drop | Where they go | When you see them again |
+| --- | --- | --- | --- |
+| **Sat Nov 7** | Ueno North desk at **7:30** | MIMARU Inaricho | After **20:00 Saturday**. Waiting when you arrive Sunday. |
+| **Mon Nov 9** | Inaricho desk by **8:30** | MIMARU Shinjuku West | After **20:00 Monday**. Waiting when you check in Tuesday. |
+| **Wed Nov 11** | Shinjuku West desk by **8:30** | Narita, **T1 South Wing or Terminal 2** | Thursday, JAL ABC departures, until **15:59**. |
+
+Same rules every time. Reserve on the [Tokyo form](https://order.kurogo-service.com/order/create/order/?city=tokyo&lang=us-en) by **23:00 the night before**. Free cancellation until 19:00 the night before; after that the charge is the full fare. **¥2,600 a suitcase, ¥7,800 a move, ¥23,400 for all three moves.** Credit card. The desk cutoff is 9:00. Monday and Wednesday, hand them over by 8:30. Saturday is 7:30, because the train leaves Tokyo at 8:30. Passports, cash, and both power banks stay in the backpacks. Glass bottles and sake do not go in a forwarded case. A case over 30 kg, or more than 180 cm length + width + height, is refused. This service does not deliver to Narita Terminal 1 North Wing or Terminal 3. Match Tuesday’s reservation to the terminal on the boarding pass.
+
+| Day | 3 suitcases | 3 backpacks |
+| --- | --- | --- |
+| **Wed Nov 4** | All 3 on the Skyliner, in the end-of-car racks, then in the Ueno North room. | On you for immigration, the walk, and sushi. |
+| **Thu Nov 5** | Stay in the room all day. | Day bags for Asakusa and Shibuya. Sky allows a backpack. A stuffed pack can use a Shibuya Station locker. |
+| **Fri Nov 6** | Stay in the room, closed for Saturday’s desk. | Day bags. Tonight each person packs one onsen night into their own backpack. |
+| **Sat Nov 7** | Desk at 7:30, before the 8:30 train. At Inaricho after 20:00. | The only bags. Leave the hotel by 08:00. |
+| **Sun Nov 8** | Already at Inaricho. Open them after dinner and pull out the lake clothes. | On the Toki. Drop them at the desk, then carry them to Akihabara. Before 23:00, reserve Monday’s delivery. |
+| **Mon Nov 9** | Desk by 8:30. They go to Shinjuku West, not Kawaguchiko. | The only bags: Fuji Excursion, taxi, Maruei. One spare outfit, sleep clothes, both batteries, charger, warm layer. Yukata is at the inn. |
+| **Tue Nov 10** | Waiting at Shinjuku West from Monday night. Nothing to lock at the station. | Pagoda, the 14:08, and Ginza. At check-in, ask the desk for the cases. Before 23:00, reserve the Narita delivery. |
+| **Wed Nov 11** | Desk by 8:30. They go to Narita. | Skytree, aquarium, tempura. Tonight, pack the flight kit into the backpacks. |
+| **Thu Nov 12** | Collect all 3 at the JAL ABC departures counter before 15:59, then check in. T1 South Wing is 4F. Terminal 2 is 3F. | Tokyo Station, sushi, Character Street, N’EX. Be on the train by 13:15. |
+
+### What each backpack holds
+
+Leave the laptop at home. On a city day the pack starts about one-third full: passport, one 10,000 mAh pack and a short cable, jacket, compact umbrella, empty bottle, tissues, plasters, meds, and a flat tote so plush does not fill the pack. The second battery stays charging in the room on Thu 5, Fri 6, and Wed 11. Carry both batteries on the travel days: Nov 4, Nov 7–8, Nov 9–10, and Nov 12. Neither battery goes in a suitcase.
+
+On Sat 7 and Mon 9 the backpack is the only bag. Add one spare outfit, a sleep shirt, underwear, socks, mini toiletries, the charger, a warm layer, taxi cash, and a plastic bag for damp clothes. No second pair of shoes. The inns have yukata and towels.
+
+---
+
+## Day 1 — Wed Nov 4: Arrival, Ueno settle-in, Ameyoko sushi
+
+**Bags:** All 6 come with you. After check-in, the 3 suitcases stay in the room until Saturday morning.  
+**Sleep:** MIMARU Tokyo Ueno North
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **15:40** | Land **Narita (NRT)** | Economy Plus → earlier deplane. Confirm your **terminal** (1 / 2 / 3) on the boarding pass. |
+| **15:40–16:50** | Immigration → bags → Customs | First-timers: budget **60–90 min**. Peak can run longer. |
+| **16:50–17:15** | Phone, Suica, Skyliner counter | Activate eSIM or pick up pocket Wi‑Fi. Buy one Suica each. Follow **Skyliner / Keisei** signs in your terminal. Ignore Narita Express. Buy 3 seats on the next train to Keisei-Ueno. |
+| **17:20–18:05** | **Keisei Skyliner → Keisei-Ueno** | Ride time **~41 min**, about ¥2,570. Screenshot the car and seat and stand there. Suitcases in the end racks. This is not the JR train. |
+| **18:05–18:25** | Walk to hotel | From **Keisei-Ueno** to MIMARU Ueno North: about **8–12 min** with luggage (slightly uphill toward Iriya side). From **JR Ueno Iriya Exit** it is ~4 min — if you exit the wrong station complex, follow hotel map pin, not “Ueno” signs blindly. |
+| **18:25–19:00** | Check-in | All 6 bags stay in this room through Friday. Reserve the Saturday delivery now: 3 suitcases, Ueno North → Inaricho. Deadline is Friday 23:00. |
+| **19:00–19:30** | Convenience run | Nearest **7-Eleven / FamilyMart / Lawson** (all within ~1–3 min). Suggested haul: **egg-salad sando**, onigiri, milk bread, drinks, **Lawson Karaage-kun** or **FamilyMart Famichiki**, toiletries backup. |
+| **19:45–21:15** | **SUSHIRUN #1 — Maguro Ton’ya Miura Misaki-kō (Ameyoko)** | Walk ~8–12 min into **Ameyoko**. Tuna-focused conveyor / counter sushi. Order **negitoro**, salmon belly, lean/medium fatty tuna. If the queue is brutal, backup: **Toriton** or another Ameyoko kaiten spot. |
+| **21:15+** | Early sleep | Jet lag wins. No heroics tonight. |
+
+### Day 1 tips
+- Skyliner seats are reserved — screenshot your car/seat.
+- ATM: 7-Eleven Seven Bank accepts foreign cards.
+- Keep passport accessible for hotel check-in.
+
+---
+
+## Day 2 — Thu Nov 5: Asakusa → Shibuya shopping → street-level sunset → Sky at 18:20 → Yamagata yakiniku
+
+**Bags:** The 3 suitcases stay in the Ueno North room. You go out with the 3 backpacks.  
+**Sleep:** MIMARU Tokyo Ueno North  
+**Locked ticket:** **Shibuya Sky, entry 18:20.** Sunset is **16:42**, so the deck is a night view, not a sunset view. You may stay until closing (~22:30). Leave by **19:40** for dinner.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **08:30–09:15** | Breakfast near hotel | Convenience store, hotel kitchen, or a café around Ueno. |
+| **09:20–09:35** | Ueno → Asakusa | **Tokyo Metro Ginza Line**, **~5–7 min**, ¥180. Exit toward **Kaminarimon**. |
+| **09:35–12:30** | **Asakusa street-food crawl** | Red lantern at **Kaminarimon**, then **Nakamise-dōri** toward Sensō-ji. Tasting order, not four meals: |
+| | | 1. Warm **ningyō-yaki** (red-bean doll cakes) on Nakamise. |
+| | | 2. **Strawberry daifuku** from a side-street wagashi shop. |
+| | | 3. **Asakusa Menchi** — crispy minced-pork menchi-katsu. Short queue. |
+| | | 4. **Asakusa Kagetsudō** melon pan, straight from the oven. |
+| | | Then the Sensō-ji hall, five-story pagoda, and a Sumida River photo if you still have legs. |
+| **12:35–13:20** | Asakusa → Shibuya | Ginza Line direct, **~34–38 min** ride. Door-to-door **~45–50 min**. |
+| **13:20–15:00** | **Shibuya Parco 6F** | **Nintendo Tokyo** and **Pokémon Center Shibuya**. If a numbered ticket (整理券) is out for a restock, grab it or come back; Skytree Town on Nov 11 is the other Pokémon store. |
+| **15:10–16:10** | **SUSHIRUN #2 — Uobei, Dōgenzaka** | ~8–12 min from Parco. Booths, English touchscreen, plates on the little tracks. Seared salmon belly. This is the sushi meal; dinner is yakiniku. |
+| **16:15–17:45** | **Sunset filler, on the street** | You will not be on the roof for sunset. Use the hour on purpose: |
+| | | 1. **Miyashita Park** roof, free, about 10 min from Parco. Be there by **16:30**. |
+| | | 2. Walk down to the scramble and watch **16:42** from the crossing itself. |
+| | | 3. **MEGA Don Quijote** on Center-gai for regional KitKats and small souvenirs, or a lap of Center-gai. |
+| **17:50–18:15** | Shibuya Sky entry queue | Scramble Square, follow **Shibuya Sky** signs to the 14F gate. QR ready. A day backpack is fine; a suitcase is not. If the pack is stuffed with plush, locker it in Shibuya Station first. |
+| **18:20–19:40** | **Shibuya Sky night view** | Outdoor roof over the lit scramble, Skytree to the east, Fuji as a dark shape on a clear day. Indoor gallery on 46F still runs if wind closes the roof. One exit only — do not leave for a snack and expect to come back. |
+| **19:40–20:00** | Walk to dinner | Leave Shibuya Sky and walk to **Han no Daidokoro Bettei**, 7F, Dōgenzaka Center Building, 2-29-8 Dōgenzaka. About 5–10 minutes on foot. No train. |
+| **20:00–22:00** | **Dinner — Han no Daidokoro Bettei** | Yamagata beef. Order **two shared 6-kind platters**, otoro tongue, top harami, and one chateaubriand sukiyaki. Skip the preset course. Drinks for 2. **About ¥32,000 for the table.** Call **03-5489-7655**. |
+| **22:00–22:40** | Shibuya → Ueno | Yamanote, **~30–35 min**. |
+
+### Day 2 tips
+- Shibuya station is a maze. Follow exit numbers.
+- If the roof is closed for wind, the ticket still covers the indoor gallery. Check Shibuya Sky’s site that afternoon.
+
+---
+
+## Day 3 — Fri Nov 6: Open-air museum → Nakano Broadway → Harajuku → monjayaki
+
+**Bags:** Suitcases stay in the room. Tonight each person packs one onsen night into their own backpack. The cases stay closed for Saturday’s desk.  
+**Sleep:** MIMARU Tokyo Ueno North  
+**Locked plan:** Owl café is Sunday. This day stays in west and south Tokyo. No timed ticket unless you already hold Ghibli.
+
+**If you already have Ghibli Museum tickets for this morning:** do Ghibli (Mitaka) and skip the open-air museum. Both are on the Chūō line and both want a half day. Nakano and Harajuku still fit afterward.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **08:00–08:30** | Breakfast, then leave | Hotel kitchen or a konbini. The museum café is a snack, not breakfast. |
+| **08:30–09:45** | Ueno → museum | Yamanote Ueno → Shinjuku **~25 min**, then Chūō Rapid Shinjuku → **Musashi-Koganei ~25 min**. North exit, Seibu bus platform **2 or 3**, buses 武12 / 武13 / 武15 / 武21, get off **Koganei-kōen Nishi-guchi**, **5 min walk**. Door-to-door **~75–85 min**. |
+| **09:45–14:15** | **Edo-Tokyo Open Air Architectural Museum** | Inside Koganei Park. November hours **9:30–16:30**, last entry **16:00**, closed Mondays. Friday Nov 6 is open. Admission **¥400**. |
+| | | Walk the three zones slowly. The one to find on purpose is **Kodakara-yu**, the old public bath whose look fed the bathhouse in *Spirited Away*. Also farmhouses, a soy-sauce shop, and Meiji/Taisho houses you can go inside. Free lockers at the visitor center. On-site café for a late lunch around **13:00**. |
+| **14:20–14:50** | Museum → Nakano | Bus back to Musashi-Koganei, Chūō line to **Nakano ~20 min**. |
+| **14:50–16:20** | **Nakano Broadway** | The vintage-anime building, a different pile from Akihabara (that is Sunday). **Mandarake** across several floors, old figures, dojinshi, retro toys. Most shops open from about noon. Buy flat goods; save plush volume for Sunday if the pack is already heavy. |
+| **16:25–16:50** | Nakano → Harajuku | Chūō to Shinjuku **~5 min**, Yamanote to Harajuku **~5 min**. |
+| **16:50–18:20** | **Harajuku graze** | This block moved off Sunday. **Takeshita-dōri** for one crêpe or cotton candy and one takoyaki, then the quieter **Cat Street**. Small portions — dinner is a full iron-plate meal. |
+| **18:20–19:10** | Harajuku → Tsukishima | Yamanote Harajuku → Yūrakuchō **~15 min**, then Yūrakuchō Line to Tsukishima **~5 min**, Exit 7 or 8. Door-to-door **~35–40 min**. |
+| **19:30–21:15** | **Dinner — Moheji Honten** | 1F, 3-16-9 Tsukishima, about 3 minutes from the station. Staff cook the pans. Order **mentaiko-mochi with cheese**, a seafood monja, one more pan, and a grilled squid to share. Sake for 2. **About ¥12,000 for the table.** Call **03-6204-2314**. Do not arrive before 17:00; weekday lunch and dinner are split by a break. |
+| **21:20–22:00** | Tsukishima → Ueno | Oedo or Yūrakuchō line back toward the Yamanote, then Ueno. About **35–40 min**. Pack the Niigata backpack tonight. |
+
+### Day 3 tips
+- November daylight at the museum dies with a 16:30 close. Leaving at 14:15 is what makes Nakano and Harajuku both happen. If the buildings grab you, stay until 15:30 and drop Nakano, not Harajuku.
+- Rain plan: the houses are indoors once you are inside them; the walks between buildings are not. Nakano Broadway is the full indoor swap.
+
+---
+
+## Day 4 — Sat Nov 7: Tokyo → Niigata (Ojiya koi) → Yomogihira Onsen Izumiya
+
+**Bags:** 3 backpacks only. At 8:15, hand all 3 suitcases to the Ueno North desk. They reach Inaricho after 20:00 tonight.  
+**Sleep:** Izumiya (Yomogihira Onsen) — request/confirm **Miharashi** or balcony/cypress-bath room type you booked
+
+### Why the route looks zigzag
+Ojiya (koi) and Yomogihira (onsen) are **both outside Nagaoka**, in different directions. Hub = **JR Nagaoka**. Do **not** assume a short hop from the koi park straight into the ryokan without a taxi.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **07:15–07:30** | 3 backpacks only | Worn outfit plus one spare, sleep shirt, socks, mini toiletries, both batteries, charger, warm layer, taxi cash. Passports in the packs. Yukata and towels are at the inn. |
+| **07:30–07:50** | **Hand over the 3 suitcases** | Do this before you leave. Cutoff is 9:00. Delivery today to Inaricho, there after 20:00. ¥2,600 each. Get the email receipt. |
+| **08:00–08:25** | Hotel → Tokyo Station | Leave by **08:00**. JR Ueno → Tokyo, **~8–9 min**, plus the walk to the Jōetsu gates. Backpacks only. |
+| **08:30–10:10** | **Shinkansen Toki → Nagaoka** | About **1h35–1h50**, reserved ordinary, about ¥9,000–11,000. At Tokyo follow **Tohoku / Joetsu / Hokuriku**, platforms **20–23**. Not platforms 14–19. Be at your car 10 minutes early. |
+| **10:10–10:25** | Arrive Nagaoka East side | Restrooms, pocket Wi‑Fi check, ATM if needed. |
+| **10:30–11:15** | Nagaoka → Nishikigoi no Sato (Ojiya) | **Best:** taxi door-to-door **~35–45 min**. Alternate: JR Jōetsu Line Nagaoka → Ojiya **~20 min** + local bus/taxi to the park (**bus ~10 min** + short walk). Taxi is worth it with limited time. |
+| **11:15–13:00** | **Nishikigoi no Sato** | Outdoor ponds, wooden bridges, feed collector-grade koi, small museum exhibits. Birthplace-of-nishikigoi storytelling is the point — slow down and watch the colors. |
+| **13:00–14:00** | Lunch in Ojiya | Local sushi/set meal near Ojiya Station (e.g. a station-area sushi shop such as **Sushimasa** if open — verify hours). Niigata rice is the star. |
+| **14:00–15:00** | Ojiya → Izumiya | **Taxi ~40–55 min** depending on road (mountain approach). **Or** taxi/train back to **Nagaoka East Exit** and ride Izumiya’s **free reserved shuttle** (pickup window ~**13:30–17:00**). Call the ryokan the day before with your train arrival. |
+| **15:00–16:00** | Check-in | Yukata, onsen etiquette briefing, room check: private balcony cypress tub if booked, public outdoor baths later. |
+| **16:00–18:30** | Onsen time | Shower first, then soak. Alkaline silky water; hair up; no swimsuits in communal baths; tattoos — ask hotel policy in advance. Alternate private room bath if preferred. |
+| **19:00–21:00** | **Kaiseki banquet** | Multi-course dinner in-room or dining room per booking. Highlight: **Murakami wagyu** on hot stone if on your plan. Futons usually laid out while you dine. |
+| **21:30+** | Sleep | Mountain quiet. Earliest night of the trip. |
+
+### Day 4 tips
+- Pre-book Izumiya shuttle **and** keep a taxi number/app (**GO** taxi app works in many cities).
+- Cash still helps in rural Niigata; don’t arrive with ¥0.
+- Confirm breakfast time for Day 5 when you check in, and tell them you must be at **Nagaoka Station by 9:50** on Sunday. Book a **taxi**, not a late shuttle.
+
+---
+
+## Day 5 — Sun Nov 8: Ryokan → earlier Shinkansen → owl café at 14:00 → Akihabara → Ueno sushi
+
+**Bags:** 3 backpacks on the train. The 3 suitcases are already at Inaricho from Saturday night. Open them after dinner, move the lake clothes into the backpacks, and reserve Monday’s delivery before 23:00.  
+**Sleep:** MIMARU Tokyo Ueno Inaricho  
+**Locked ticket:** **Akiba Fukurou, 14:00.** Session is about 50–60 minutes.
+
+### The train that actually makes 14:00
+
+An 11:00 Nagaoka departure arriving Ueno at 12:35 is not on the Joetsu timetable. Sunday Tokyo-bound Toki departures late morning are about **10:19 and 10:45** (a few are marked “not every day” — book the one that runs on Nov 8). Ride time to Ueno is about **1h25–1h35**. Reserved ordinary is about **¥9,320**.
+
+The following wave, around **11:07 / 11:30 / 11:55**, arrives Ueno from roughly **12:35 to 13:25**. That is too late to drop a bag and still walk into a 14:00 session calmly.
+
+**Book the ~10:19 Toki.** Be on the Nagaoka platform by **9:50**. Taxi from Izumiya is **25–30 min**, so leave the ryokan by **9:15**.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **07:45–08:45** | Breakfast at Izumiya | Still sit down for it. The early train is why it starts before 8, not because you skip it. |
+| **08:45–09:15** | Checkout | Yukata stays. Backpack only. Confirm the taxi. |
+| **09:15–09:45** | Taxi to Nagaoka, East Exit | 25–30 min. Shinkansen gates are on that side. Be there by 9:50. |
+| **10:19–~11:45** | **Toki Nagaoka → Ueno** | Reserved seat, about ¥9,320. Sit in the car on the ticket. **Get off at Ueno.** The train continues to Tokyo. If 10:19 does not run, take **~10:45**. |
+| **11:50–12:20** | Ueno → MIMARU Inaricho | JR Ueno is a **5–8 min** walk; Ginza Line Inaricho Exit 3 is **~3 min**. Drop the backpack. If the room is not ready, the desk holds it. Do not wait around to unpack. A konbini rice ball here if the train was the later one. |
+| **12:25–13:15** | Lunch near Ueno | Sit-down only if you made the 10:19. Ameyoko or a simple set meal. You will not be fed at the owl café. |
+| **13:15–13:35** | Ueno → Akihabara | Hibiya Line, **1 stop, ~3 min**, or a **15-min walk**. |
+| **13:40** | **Akiba Fukurou** | 67 Kanda Neribeicho. From JR Akihabara **Central Gate**, turn left, Yodobashi-Akiba on your right, white building next to the vet. **~3 min**. Slippers on. Staff choose the handling. About **50–60 min**. |
+| **14:50–17:30** | **Akihabara, unhurried** | This is the block that left Friday. In order if energy dips: **Super Potato** (retro floors), one **GiGO** crane floor, then **Radio Kaikan** or **Mandarake** if you still want figures. Yodobashi is the electronics palace next door if someone needs cables or a camera card. |
+| **17:40–18:00** | Akihabara → Ueno | JR **~3–6 min**, or walk ~15–20 min if the pack is light. |
+| **18:15–19:30** | **SUSHIRUN #3 — Miura Misaki-kō, Ameyoko** | Same shop as arrival night, on the way home. Order what you skipped on Nov 4 (the negitoro mountain, salmon belly). If you would rather not repeat: **Ganso Zushi Manseibashi**, which is still in Akihabara at 17:30, and skip the Ueno hop. |
+| **19:40** | Walk to Inaricho | **~5–10 min**. Open the 3 suitcases. Move one lake-night outfit into each backpack. Before **23:00**, reserve Monday’s delivery: Inaricho → Shinjuku West. |
+
+### Day 5 tips
+- A 10:45 train still works. An 11:55 train does not.
+- Harajuku moved to Friday. Tsukiji sushi moved to Tuesday, when you are already in Ginza.
+
+---
+
+## Day 6 — Mon Nov 9: Shinjuku → Kawaguchiko (Mt. Fuji base)
+
+**Bags:** Backpacks only. At 8:15, hand the 3 suitcases to the Inaricho desk for MIMARU Shinjuku West. They skip Kawaguchiko and wait at Shinjuku West from Monday night.  
+**Sleep:** Wakakusa no Yado Maruei (Lake View Japanese-Western room if booked)
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **08:15–08:30** | **Hand over the 3 suitcases** | Inaricho desk. Delivery today to Shinjuku West, cutoff 9:00. They arrive after 20:00 and wait until Tuesday check-in. ¥2,600 each. |
+| **08:35–09:25** | Inaricho → JR Shinjuku | Walk to Ueno, Yamanote **~25–30 min**. Green JR logo. **Fuji Excursion / 富士回遊**, platforms **9 or 10**, then the board. Not the Odakyu side and not the bus terminal. |
+| **09:30–11:28** | **Fuji Excursion** | Shinjuku **09:30** → Kawaguchiko **~11:28**. About ¥4,200. Sit in the car on the ticket, usually **cars 1–3**. The cars behind split off at Otsuki. You stay seated. |
+| **11:30–11:50** | Station → Maruei | **Do not wait for the free hotel shuttle** (typically **14:00–18:00**). Take a **taxi ~8–10 min**. Backpacks only. The desk can hold them if the room is not ready. |
+| **12:00–13:45** | **Lunch — Hōtō Fudō** (cloud-shaped building) | Iconic white “cloud” architecture. Order **hōtō** miso hot pot with pumpkin & mountain vegetables. Taxi/bus from station area; confirm the **Kawaguchiko / near-lake** cloud location on Maps (there are multiple Hōtō Fudō branches). |
+| **14:00–15:00** | Optional lake edge stroll | If Fuji is out, photograph from the lakeshore. November is a strong visibility month, especially morning; afternoon clouds possible. |
+| **15:00** | Formal check-in | Lake View Japanese-Western room: twin beds + tatami sitting area. Fill the **private indoor view bath**. |
+| **16:30–18:00** | Onsen + rooftop deck | Public baths + **rooftop observation deck** for Fuji at dusk. Sunset Kawaguchiko area ~**16:40**. |
+| **18:30–20:30** | **Ryokan dinner on-site** | Multi-course traditional dinner — stay in. Tomorrow you leave with the same 3 backpacks. The suitcases are already headed for Shinjuku. |
+
+### Day 6 tips
+- Fuji visibility is best early morning — peek at dawn on Day 7 even before breakfast.
+- There is nothing to store at Kawaguchiko Station. The suitcases are not with you.
+
+---
+
+## Day 7 — Tue Nov 10: Chūreitō Pagoda → return Tokyo (Shinjuku) → Ginza sweets → Tsukiji sushi
+
+**Bags:** 3 backpacks all day. No lockers. The 3 suitcases are already at MIMARU Shinjuku West.  
+**Sleep:** MIMARU Tokyo Shinjuku West
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **07:30–08:30** | Breakfast + Fuji check | Best light/visibility window. |
+| **08:30–09:15** | Checkout → Kawaguchiko Station | Taxi ~8–10 min. 3 backpacks. Nothing to lock. |
+| **09:30–11:30** | **Chūreitō Pagoda postcard view** | Local Fujikyu train to Shimoyoshida, **5–10 min**. No reserved seat. Tap Suica, or buy a paper ticket at the machine. Then the walk and **398 steps**. |
+| **11:30–12:30** | Return to Kawaguchiko + lunch snack | Station area ramen or a convenience store. You are already carrying everything you brought. |
+| **14:08–16:08** | **Fuji Excursion return** | Reserved **14:08** → Shinjuku **~16:08**. Follow **富士回遊 / Shinjuku** and sit in your car. Backup **14:58**. Later trains (**16:48 / 17:41**) kill the Ginza plan. |
+| **16:15–16:45** | Check in **MIMARU Tokyo Shinjuku West** | About **10 min** from the station with backpacks. Ask the desk for the 3 suitcases that arrived Monday night. Before **23:00**, reserve Wednesday’s delivery to Narita, and match it to the terminal on the boarding pass: **T1 South Wing or Terminal 2**. |
+| **17:00–18:30** | **Ginza treats** | JR/Metro Shinjuku → Ginza **~20–30 min**. **Sanrio World Ginza** for character merch → **A Happy Pancake** (or similar soufflé pancake café) for jiggly pancakes. Lines possible; use a ticket/queue app if offered. |
+| **18:40–19:00** | Ginza → Tsukiji Outer Market | **~15 min walk** toward Harumi-dōri. No extra train. |
+| **19:00–20:30** | **SUSHIRUN #6 — Sushi Zanmai (Tsukiji)** | Moved here from Sunday. Order the **otoro / chūtoro** set. If the line is over about 40 minutes, walk back toward Ginza and use **Katsu Midori** another night, or ask for a sushi counter on the same block. |
+| **20:40–21:15** | Tsukiji → Shinjuku West | Metro/JR **~25–35 min**. |
+
+### Day 7 tips
+- If Fuji is completely socked in, still visit Chūreitō for the pagoda/town view, then pivot time to lakeside cafés.
+- If you miss the 14:08/14:58 trains, skip Ginza pancakes and go hotel → dinner only.
+
+---
+
+## Day 8 — Wed Nov 11: Tokyo Skytree → Sumida Aquarium → Solamachi → tempura dinner
+
+**Bags:** At 8:15, hand the 3 suitcases to the Shinjuku West desk. They go to Narita today. You take the 3 backpacks. Tonight, pack the flight kit into the backpacks.  
+**Sleep:** MIMARU Tokyo Shinjuku West  
+**No Kirby.** The midday block is the aquarium in the same building.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **08:15–08:45** | **Hand over the 3 suitcases** | Shinjuku West desk. Delivery today to Narita, cutoff 9:00. ¥2,600 each. You collect them Thursday, not in the morning. Passports and power banks stay in the backpacks. |
+| **09:15–10:00** | Shinjuku → Tokyo Skytree | Backpacks only. Door-to-door typically **~35–50 min**. Follow signs to **Tokyo Solamachi / Skytree Town**. |
+| **10:00–11:30** | **Tokyo Skytree Tembo Deck (+ Galleria if ticketed)** | High-speed elevators, glass floors, bay views. Advance Fast Tickets save queue time. |
+| **11:30–12:20** | **Lunch in Solamachi** | Eat on the restaurant floors before the aquarium. Not a character café. A noodle or rice set is enough. Tempura is dinner. |
+| **12:30–14:00** | **Sumida Aquarium, Solamachi 5F–6F** | Entrance on **5F**. Adult **¥2,700**. Wednesday hours **10:00–20:00**, last entry 19:00. Plan on about **90 minutes**: jellyfish on 6F, the Ogasawara tank, garden eels, then down to the penguins and the goldfish hall (Edo-rium). **Penguin feeding is 13:30.** Buy online or at the machines by the door. |
+| **14:00–17:00** | **Solamachi Floor 4 retail** | **Pokémon Center Skytree Town**, then **Donguri Republic (Ghibli)**. Different stock from the Shibuya stores. Skip the Kirby shop. |
+| **17:40–18:40** | Skytree → Shinjuku | Metro/JR **~35–50 min**. |
+| **19:00–20:45** | **Dinner — Tempura Tenhide** | 7-12-21 Nishi-Shinjuku, about 7 minutes from the JR west exit, same side as the hotel. Order the **B course, ¥8,250 each**. Three courses plus sake for 2 is **about ¥29,000**. Call **03-5386-3630**. A same-day cancel of the course is the full course price. Tenkane is closed this Wednesday. |
+| **21:00** | Hotel | The suitcases already left. Pack the 3 backpacks: passports, meds, both batteries, one change of clothes, fragile souvenirs. |
+
+---
+
+## Day 9 — Thu Nov 12: Final sushi + Character Street → Narita flight
+
+**Bags:** 3 backpacks only. The 3 suitcases are already at Narita. Collect them at the JAL ABC departures counter before **15:59**, then check in.  
+**Flight:** **17:30** from **Narita (NRT)** — international  
+**Golden rule:** Be on the N’EX by **13:15**, so you reach the luggage counter around **14:15**. That is also about 3 hours before the flight.
+
+### Timeline
+
+| Time | What | Travel / detail |
+| --- | --- | --- |
+| **09:30** | Checkout | 3 backpacks, packed last night. No suitcases in the room. |
+| **10:00–10:40** | Shinjuku West → Tokyo Station | **20–30 min** with backpacks. No locker stop. |
+| **11:00–12:20** | **Nemuro Hanamaru, KITTE Marunouchi 5F** | Exit toward Marunouchi South / KITTE. Walk in. Be standing up at **12:20**. |
+| **12:20–12:45** | **Tokyo Character Street** | One lap. Buy only what still fits in a backpack. |
+| **13:15–14:15** | **Narita Express → NRT** | **~53–60 min**. At Tokyo Station follow **Narita Express / 成田エクスプレス**. JR, not the Skyliner. The ticket ends at **T1 or T2**, the same terminal as the suitcases. |
+| **14:15–15:15** | Collect the 3 suitcases | JAL ABC, departures floor. **T1 South Wing is 4F. Terminal 2 is 3F.** Show the delivery email. The counter hands these bags over until **15:59**. Then airline check-in. |
+| **17:30** | Flight departs | Be at the gate **30+ min** early. |
+
+### If you are running late
+Skip Character Street first. Do not take a train that lands you at the luggage counter after 15:30. This delivery does not go to Terminal 1 North Wing or Terminal 3.
+
+---
+
+## Master travel-time cheat sheet
+
+| Route | Typical time | Notes |
+| --- | --- | --- |
+| NRT → Keisei-Ueno (Skyliner) | **41 min** | Reserved seat |
+| Tokyo Station → NRT (N’EX) | **53–60 min** | Reserved seat |
+| Shinjuku → Tokyo Station | **20–30 min** | Backpacks on Nov 12. No suitcases. |
+| Ueno ⇄ Asakusa (Ginza) | **5–7 min** | |
+| Asakusa → Shibuya (Ginza) | **34–38 min** ride | ~45–50 door-to-door |
+| Ueno → Tokyo | **8–9 min** | |
+| Ueno → Akihabara | **3–6 min** | |
+| Ueno → Harajuku (Yamanote) | **25–30 min** | |
+| Ueno → Shinjuku (Yamanote) | **25–30 min** | |
+| Ueno → Musashi-Koganei → museum | **75–85 min** door-to-door | Bus + 5 min walk at the end |
+| Musashi-Koganei → Nakano | **~20 min** | Chūō line |
+| Nakano → Harajuku | **~25 min** | Via Shinjuku |
+| Harajuku → Tsukishima | **35–40 min** | Yamanote to Yūrakuchō, then subway |
+| Nagaoka → Ueno (Toki) | **1h25–1h35** | Book the ~10:19 on Nov 8 |
+| Shibuya Sky → Han no Daidokoro | **5–10 min walk** | 7F, 2-29-8 Dōgenzaka. No train. |
+| Shibuya → Ueno | **30–35 min** | Yamanote, after dinner |
+| Tokyo → Nagaoka (Jōetsu Shinkansen) | **1h35–1h50** | |
+| Nagaoka → Ojiya (JR local) | **~20 min** | + taxi/bus to koi park |
+| Nagaoka → Izumiya (taxi/shuttle) | **25–30 min** | |
+| Ojiya → Izumiya (taxi) | **~40–55 min** | |
+| Shinjuku → Kawaguchiko (Fuji Excursion) | **~1h55–2h** | Direct |
+| Kawaguchiko → Shimoyoshida | **5–10 min** | + walk/steps to pagoda |
+| Kawaguchiko → Shinjuku (Fuji Excursion) | **~2h** | Afternoon only for directs |
+| Shinjuku → Skytree area | **35–50 min** door-to-door | |
+
+---
+
+## SUSHIRUN index
+
+| # | Day | Restaurant | Area |
+| --- | --- | --- | --- |
+| 1 | Nov 4 | Maguro Ton’ya Miura Misaki-kō | Ameyoko / Ueno |
+| 2 | Nov 5 | Uobei | Shibuya Dōgenzaka |
+| 3 | Nov 8 | Miura Misaki-kō (2nd visit) or Ganso Zushi | Ueno or Akihabara |
+| 4 | Nov 7 | Local Ojiya / Niigata sushi | Ojiya |
+| 5 | Nov 10 | Sushi Zanmai | Tsukiji Outer Market |
+| 6 | backup | Katsu Midori | Seibu Shibuya 8F, if Zanmai’s line is too long |
+| 7 | Nov 12 | Nemuro Hanamaru | KITTE Marunouchi 5F |
+
+---
+
+## Money, etiquette, and first-timer survival
+
+- **Cash + cards:** Big cities take cards widely; rural taxis/small stalls may want cash.
+- **Trains:** Quiet phones, backpacks in front on crowded cars, wait for exiters.
+- **Onsen:** Wash before soaking; towel on head not in water; no photos in baths.
+- **Convenience stores:** Truly excellent — breakfast, SIM top-ups, AT tickets printing (Lawson), ATMs.
+- **Trash:** Almost no public bins — use convenience stores / station bins.
+- **IC card taps:** Touch in **and** out or you’ll pay a penalty fare.
+- **Google Maps + Japan Transit (Navitime / Yahoo!乗換案内):** Use for live platforms; still buffer 10 min at Shinjuku/Tokyo.
+- **Drugstore:** Matsumoto Kiyoshi for sachets, pain relief, beauty souvenirs.
+
+---
+
+## Rain / no-Fuji contingencies
+
+| Problem | Pivot |
+| --- | --- |
+| Rain on Asakusa / Shibuya day | Covered Nakamise + Sensō-ji + more indoor Parco time. Watch sunset from a covered crossing spot. Shibuya Sky’s roof may close; the indoor gallery still opens. |
+| Rain on the museum day | Houses are indoor; paths are not. Shift the afternoon fully into Nakano Broadway. |
+| Skytree deck closed for wind | The aquarium is indoors, directly underneath. Do that first, then the deck if it reopens. |
+| Mt. Fuji invisible | Chūreitō still worth the pagoda; add Fuji-Q Highland or lakeside onsen time. |
+| Typhoon/rail delay homebound | Shift to earlier N’EX; never cut the 3-hour airport buffer. |
+
+---
+
+## One-page daily headline reminder
+
+1. **Nov 4** — Land NRT → Skyliner Ueno → unpack → Ameyoko sushi  
+2. **Nov 5** — Asakusa → Parco Nintendo/Pokémon → Uobei → street sunset 16:42 → **Shibuya Sky 18:20** → Han no Daidokoro 20:00  
+3. **Nov 6** — Edo-Tokyo open-air museum → Nakano Broadway → Harajuku → Moheji in Tsukishima 19:30  
+4. **Nov 7** — Hand 3 suitcases to the desk by 8:30 → backpacks only → Shinkansen → Ojiya koi → Izumiya  
+5. **Nov 8** — Early taxi, **Toki ~10:19** → suitcases already at Inaricho → **Akiba Fukurou 14:00** → book Monday’s delivery  
+6. **Nov 9** — Hand 3 suitcases to Shinjuku West → backpacks on the Fuji Excursion → Maruei  
+7. **Nov 10** — Pagoda with backpacks, no lockers → 14:08 → suitcases waiting at Shinjuku West → book Narita  
+8. **Nov 11** — Hand suitcases to Narita by 8:30 → Skytree → aquarium (penguins 13:30) → Tenhide 19:00  
+9. **Nov 12** — Backpacks → Hanamaru → **N’EX by 13:15** → collect suitcases before 15:59 → **17:30** flight  
+
+---
+
+*Times reflect typical 2025–2026 schedules and should be re-checked 1–2 weeks before departure on JR East, Keisei, Fujikyu, and your airline’s app. When a reservation conflicts with this outline, the reservation wins — rebuild the hour around it.*
