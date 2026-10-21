@@ -101,6 +101,31 @@ p { margin: 0; }
 }
 .warn strong { font-family: "Newsreader", Georgia, serif; font-size: 14px; font-weight: 500; }
 
+.call {
+  margin: 0 0 8px;
+  padding: 8px 10px 9px;
+  background: #1c1917;
+  color: #f5f0e8;
+  display: grid;
+  grid-template-columns: 1.15fr 1fr;
+  gap: 12px;
+}
+.call strong { color: white; font-family: "Newsreader", Georgia, serif; font-size: 16px; font-weight: 500; display: block; margin-bottom: 2px; }
+.call p { color: #e7e0d6; font-size: 10.5px; }
+.meals { display: flex; flex-direction: column; gap: 7px; }
+.meal { border: 1px solid var(--line); border-left: 4px solid var(--c); padding: 6px 9px 7px; background: #fff; }
+.meal .top { display: flex; justify-content: space-between; font-size: 9px; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; color: var(--c); }
+.meal .yen { color: var(--muted); letter-spacing: 0.02em; text-transform: none; }
+.meal h3 { font-size: 17px; line-height: 1.05; margin-top: 1px; }
+.meal p { margin-top: 2px; color: #44403c; }
+.meal a { display: block; margin-top: 2px; font-size: 8.5px; color: #1d4e89; word-break: break-all; }
+.walks { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; }
+.walk { border-top: 3px solid var(--c); background: #fff; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); border-left: 1px solid var(--line); padding: 6px 8px 7px; }
+.walk .when { font-size: 8.5px; letter-spacing: 0.1em; text-transform: uppercase; font-weight: 600; color: var(--c); }
+.walk h3 { font-size: 15px; line-height: 1.05; }
+.walk p { color: #44403c; margin-top: 2px; }
+.walk a { display: block; margin-top: 2px; font-size: 7.5px; line-height: 1.25; color: #1d4e89; word-break: break-all; }
+
 /* day pages */
 .dayhead { display: grid; grid-template-columns: 58px 1fr auto; gap: 12px; align-items: end; padding-bottom: 8px; border-bottom: 2px solid var(--c); }
 .badge {
@@ -199,17 +224,17 @@ p { margin: 0; }
     <article class="card">
       <div class="when"><span class="box"></span>Thu 5 · 20:00</div>
       <h3>Ushigoro Kan</h3>
-      <p>Yakiniku, Ebisu, 2 minutes from the station. Shoes off. About ¥10,000–15,000. Tabelog or 050-5872-3765. Upgrade if a table appears: Ebisu Yoroniku.</p>
+      <p>A5 wagyu, Ebisu. Order tongue, kalbi, and a lean cut. Tabelog, or 03-5725-2929 at 15:00–16:30 Japan time. About ¥10,000–15,000.</p>
     </article>
     <article class="card">
       <div class="when"><span class="box"></span>Fri 6 · 19:30</div>
       <h3>Iroha Honten</h3>
-      <p>Monjayaki in Tsukishima, since 1955. Order sakura-ebi monja. About ¥4,000–6,000. 050-5594-0795. Backup: Monja Okame.</p>
+      <p>Monjayaki, not okonomiyaki. Sakura-ebi plus a seafood mix. reserve.restaurant-iroha.com or 03-3531-1668. About ¥4,000–6,000.</p>
     </article>
     <article class="card">
       <div class="when"><span class="box"></span>Wed 11 · 19:00</div>
       <h3>Tsunahachi</h3>
-      <p>Edomae tempura, Shinjuku, since 1924. Short walk from MIMARU Shinjuku West. Tendon or the set. About ¥4,000–8,000.</p>
+      <p>Tempura set or tendon. The website request is not held until they call you back. Or 03-3352-1012. Not same-day. About ¥4,000–8,000.</p>
     </article>
   </div>
   <div class="warn">
@@ -227,6 +252,120 @@ p { margin: 0; }
     <div><div class="h">Also book</div><strong>Sumida Aquarium Nov 11</strong><br>Fuji Excursion 9:30 out, 14:08 back. N’EX home.</div>
   </div>
   <div class="foot"><span>Reservations</span><span>Tick the box when the table is held</span></div>
+</section>
+
+<section class="sheet">
+  <div class="sec-title">
+    <h2>Call before you fly.</h2>
+    <div class="kicker">What to order</div>
+  </div>
+  <div class="call">
+    <div>
+      <strong>15:00–16:30 in Japan.</strong>
+      <p>That is 1:00–2:30 AM US Eastern in November. Awake window: 8:30–9:30 PM Eastern, which is 10:30–11:30 AM the next morning in Tokyo. Do not call during dinner, 18:00–21:00 Japan time.</p>
+    </div>
+    <div>
+      <strong>Use the 03 number.</strong>
+      <p>050 numbers often fail from the United States. Web forms work at any hour. Conveyor sushi does not take a reservation — those shops are on the next page.</p>
+    </div>
+  </div>
+  <div class="meals">
+    <article class="meal" style="--c:#b42318">
+      <div class="top"><span>Thu Nov 5 · 20:00 · reserve</span><span class="yen">¥10,000–15,000</span></div>
+      <h3>Ushigoro Kan, Ebisu</h3>
+      <p>A5 black wagyu, cut small so you can taste several pieces. Shoes off, sunken seats, two-hour table. Weekdays 17:00–23:30.</p>
+      <p><b>Order</b> tongue, kalbi, and a lean cut. Or the seasonal course and let them grill. Sake if you want a drink.</p>
+      <p><b>Book</b> Tabelog any hour, or <b>03-5725-2929</b>. Upgrade if a table appears: Ebisu Yoroniku.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g1066456-d6622710-Reviews-Ushigoro_Kan_Ebisu-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g1066456-d6622710-Reviews-Ushigoro_Kan_Ebisu-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="meal" style="--c:#1f6b4a">
+      <div class="top"><span>Fri Nov 6 · 19:30 · reserve</span><span class="yen">¥4,000–6,000</span></div>
+      <h3>Iroha Honten, Tsukishima</h3>
+      <p>Monjayaki since 1955. A thin, runny batter cooked on the iron plate at your table. Not the thick Osaka pancake. Staff will cook it or coach you. 2F, 3-4-5 Tsukishima.</p>
+      <p><b>Order</b> sakura-ebi monja, plus one seafood mix.</p>
+      <p><b>Book</b> reserve.restaurant-iroha.com, or <b>03-3531-1668</b>. Backup: Monja Okame, same neighborhood.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14129637-d3758256-Reviews-Iroha_Honten-Tsukishima_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g14129637-d3758256-Reviews-Iroha_Honten-Tsukishima_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="meal" style="--c:#5b3a8c">
+      <div class="top"><span>Wed Nov 11 · 19:00 · reserve</span><span class="yen">¥4,000–8,000</span></div>
+      <h3>Tsunahachi Sohonten, Shinjuku</h3>
+      <p>Edomae tempura since 1924. Light batter, shrimp, seasonal vegetables, tentsuyu or salt. A short walk from MIMARU Shinjuku West.</p>
+      <p><b>Order</b> the tendon or the chef’s set. Not one prawn.</p>
+      <p><b>Book</b> tunahachi.co.jp/reservation is only a request until they call you back. Or <b>03-3352-1012</b>. Not same-day. They stop seating around 20:00.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14133707-d1660271-Reviews-Shinjuku_Tsunahachi_Sohonten-Shinjuku_3_Chome_Shinjuku_Tokyo_Tokyo_Prefect.html">https://www.tripadvisor.com/Restaurant_Review-g14133707-d1660271-Reviews-Shinjuku_Tsunahachi_Sohonten-Shinjuku_3_Chome_Shinjuku_Tokyo_Tokyo_Prefect.html</a>
+    </article>
+    <article class="meal" style="--c:#9a3412">
+      <div class="top"><span>Tue Nov 10 · 19:30 · only if held</span><span class="yen">Skip if you have no table</span></div>
+      <h3>Bird Land, Ginza</h3>
+      <p>Michelin yakitori, Okukuji Shamo. B1, 4-2-15 Ginza, exit C6. Closed Sunday and Monday. Nov 10 is Tuesday, so they are open. Dinner 17:00–22:00.</p>
+      <p><b>Order</b> the omakase skewer course. <b>Book</b> ginza-birdland.sakura.ne.jp/reserve.html or <b>03-5250-1081</b> on a day they are open. Same-day cancel is ¥11,000 a person. No table means Sushi Zanmai that night.</p>
+    </article>
+  </div>
+  <div class="foot"><span>Restaurants · call</span><span>03 numbers, not 050</span></div>
+</section>
+
+<section class="sheet">
+  <div class="sec-title">
+    <h2>Walk in. Don’t call.</h2>
+    <div class="kicker">Show up hungry</div>
+  </div>
+  <div class="walks">
+    <article class="walk" style="--c:#1e3a5f">
+      <div class="when">Wed 4 ~19:45 · Sun 8 ~18:15</div>
+      <h3>Miura Misaki, Ueno</h3>
+      <p>Tuna wholesaler, about 19 counter seats, 6-12-14 Ueno. No reservations. Suitcases stay in a locker. A wait at 18:00–20:00 is normal.</p>
+      <p><b>Order</b> the heaped chūtoro or negitoro gunkan, the Misaki tuna assortment, and aburi toro. On Sunday, order what you skipped.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14134274-d3760771-Reviews-Magurodonya_Miura_Misakiko_Ueno-Ueno_Taito_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g14134274-d3760771-Reviews-Magurodonya_Miura_Misakiko_Ueno-Ueno_Taito_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="walk" style="--c:#b42318">
+      <div class="when">Thu 5 · 15:10 · no booking</div>
+      <h3>Uobei, Dōgenzaka</h3>
+      <p>Booths, English touchscreen, plates on a little track. This is the sushi meal. Dinner is the yakiniku.</p>
+      <p><b>Order</b> aburi salmon and a shrimp tempura roll.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g1066456-d3871559-Reviews-Uobei_Shibuya_Dogenzaka-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g1066456-d3871559-Reviews-Uobei_Shibuya_Dogenzaka-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="walk" style="--c:#1d4e89">
+      <div class="when">Mon 9 · 12:00 · expect a line</div>
+      <h3>Hōtō Fudō, Ekimae</h3>
+      <p>The white cloud building at 3631-2 Funatsu, by Kawaguchiko Station. Not the Minami branch. One bowl is lunch.</p>
+      <p><b>Order</b> hōtō: flat noodles, miso, pumpkin, mountain vegetables.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g1165976-d1664155-Reviews-Hoto_Fudo_Kawaguchiko_Ekimae-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html">https://www.tripadvisor.com/Restaurant_Review-g1165976-d1664155-Reviews-Hoto_Fudo_Kawaguchiko_Ekimae-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html</a>
+    </article>
+    <article class="walk" style="--c:#9a3412">
+      <div class="when">Tue 10 · 17:00 · take a ticket</div>
+      <h3>A Happy Pancake, Ginza</h3>
+      <p>Soufflé pancakes. Weekdays close about 19:30, so 17:00 is the window and 18:30 is late. A queue, not a phone reservation.</p>
+      <p><b>Order</b> the plain one with butter and maple.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14129573-d14192375-Reviews-A_Happy_Pancake_Ginza-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g14129573-d14192375-Reviews-A_Happy_Pancake_Ginza-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="walk" style="--c:#9a3412">
+      <div class="when">Tue 10 · after pancakes · 24 hours</div>
+      <h3>Sushi Zanmai Honten</h3>
+      <p>4-11-9 Tsukiji, the main shop with the tuna figure. Reservations are not accepted. If the line is over 40 minutes, pick another counter on the block.</p>
+      <p><b>Order</b> the otoro / chūtoro set. Counter seat if one is open.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14129610-d3597142-Reviews-Sushizanmai_Honten-Tsukiji_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html">https://www.tripadvisor.com/Restaurant_Review-g14129610-d3597142-Reviews-Sushizanmai_Honten-Tsukiji_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html</a>
+    </article>
+    <article class="walk" style="--c:#292524">
+      <div class="when">Thu 12 · 11:45 · leave by 13:00</div>
+      <h3>Nemuro Hanamaru, KITTE 5F</h3>
+      <p>Hokkaido fish, across from Tokyo Station’s Marunouchi south side. Not the basement. No reservations. The review page spells it “Nemuiro.”</p>
+      <p><b>Order</b> off the menu: fatty tuna, salmon in white soy, hontaku.</p>
+      <a href="https://www.tripadvisor.com/Restaurant_Review-g14129528-d5015864-Reviews-Nemuiro_Hanamaru_Kitte_Marunouchi-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kan.html">https://www.tripadvisor.com/Restaurant_Review-g14129528-d5015864-Reviews-Nemuiro_Hanamaru_Kitte_Marunouchi-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kan.html</a>
+    </article>
+    <article class="walk" style="--c:#315c7a">
+      <div class="when">Already in the room rate</div>
+      <h3>Izumiya and Maruei</h3>
+      <p>Kaiseki comes with the stay. At Izumiya, say yes if Murakami wagyu on a hot stone is on the menu. Tell them about the Sunday 9:15 taxi when you confirm the inn, not at dinner.</p>
+      <p>Ojiya lunch: Sushimasa if the shutter is up (Niigata rice). If not, station soba. Do not reserve it.</p>
+    </article>
+    <article class="walk" style="--c:#5b3a8c">
+      <div class="when">Wed 11 lunch · Sun backup</div>
+      <h3>Solamachi, or Ganso Zushi</h3>
+      <p>Under Skytree, eat a rice bowl or ramen. Tempura is Tsunahachi that night.</p>
+      <p>If you skip the second Miura visit, walk into Ganso Zushi at Manseibashi while you are still in Akihabara. No confirmed review page for that counter, so none is printed here.</p>
+    </article>
+  </div>
+  <div class="foot"><span>Restaurants · walk in</span><span>Order from the menu, not only the belt</span></div>
 </section>
 
 <section class="sheet day" style="--c:#1e3a5f">

@@ -5,7 +5,7 @@
 **Travelers:** First-time Japan visitors  
 **Style:** Street food + conveyor sushi (“SUSHIRUN”) + character shopping + one mountain onsen night + Mt. Fuji overnight
 
-> **Printable booklet:** open [`print/Japan-Trip-Nov-2026.pdf`](print/Japan-Trip-Nov-2026.pdf). Twelve letter-size pages: cover, reservations, one page per day, packing. The HTML source is `print/itinerary.html` if you need to reprint.
+> **Printable booklet:** open [`print/Japan-Trip-Nov-2026.pdf`](print/Japan-Trip-Nov-2026.pdf). Fourteen letter-size pages: cover, reservations, two pages of what to order (with review links and when to call), one page per day, packing. The HTML source is `print/itinerary.html` if you need to reprint.
 
 > **How to use this document**  
 > Times are local Japan Standard Time (JST, UTC+9). Train ride times are in-motion only unless marked “door-to-door.” Always add **5–15 minutes** inside large stations (Shinjuku, Tokyo, Shibuya) for walking between exits/platforms. Buy reserved seats in advance for Skyliner, Shinkansen, Fuji Excursion, and Narita Express.
@@ -45,12 +45,76 @@ Do these in Japan time. Set alarms.
 | **Narita Express (N’EX)** return | Reserve seats | Nov 12 midday | All seats reserved. |
 | **Izumiya free shuttle** | Call/email ryokan in advance | Nov 7 afternoon pickup from Nagaoka East Exit | Pickup window roughly **13:30–17:00**; 2+ guests. |
 | **Maruei dinner & shuttle** | Confirm with hotel | Nov 9–10 | Dinner is usually hotel kaiseki; confirm dietary needs. |
-| **Ushigoro Kan Ebisu** (yakiniku) | Tabelog / phone 050-5872-3765 | **Thu Nov 5, 20:00** | 2 min from Ebisu Station. About ¥10,000–15,000. 2-hour seating. Remove shoes. |
-| **Iroha Honten** (monjayaki) | Tabelog / phone 050-5594-0795 | **Fri Nov 6, 19:30** | Tsukishima, 4 min from the station. About ¥4,000–6,000. |
-| **Tsunahachi Sohonten** (tempura) | Shop site or phone | **Wed Nov 11, 19:00** | Shinjuku, short walk from the last hotel. Edomae tempura since 1924. |
-| **Bird Land** (yakitori) | Restaurant site, books out | **Tue Nov 10, 19:30** optional | Ginza, Michelin. Only if a table exists. Otherwise eat Sushi Zanmai that night. |
+| **Ushigoro Kan Ebisu** (yakiniku) | Tabelog, or **03-5725-2929** | **Thu Nov 5, 20:00** | Call **15:00–16:30 JST**. See the restaurant guide for what to order. |
+| **Iroha Honten** (monjayaki) | [reserve.restaurant-iroha.com](https://reserve.restaurant-iroha.com/) or **03-3531-1668** | **Fri Nov 6, 19:30** | Same call window. Sakura-ebi monja plus a seafood mix. |
+| **Tsunahachi Sohonten** (tempura) | [tunahachi.co.jp/reservation](https://www.tunahachi.co.jp/reservation/) or **03-3352-1012** | **Wed Nov 11, 19:00** | The web form is not a booking until the shop calls you back. Not same-day. |
+| **Bird Land** (yakitori) | [ginza-birdland reserve page](https://ginza-birdland.sakura.ne.jp/reserve.html) or **03-5250-1081** | **Tue Nov 10, 19:30** optional | Closed Sun/Mon. Nov 10 is Tuesday. Same-day cancel is ¥11,000 a person. Skip it and eat Zanmai if you do not hold a table. |
 
 **Suica / PASMO:** Add **Mobile Suica** (iPhone Wallet) or buy a plastic card at NRT. Charge ¥5,000–10,000 to start. Use for almost all metros/JR local trains/convenience stores.
+
+---
+
+## What to order, and when to call
+
+Only four tables on this trip take a reservation: Ushigoro, Iroha, Tsunahachi, and Bird Land if you still want it. Everything else is walk-in. Do not call a conveyor-sushi counter asking them to hold seats. They will say no, and a 050 number often will not even connect from the United States.
+
+**When to call.** The useful window in Japan is **15:00–16:30** (after lunch, before dinner service). In November that is **1:00–2:30 AM US Eastern**. If you want to be awake, call **8:30–9:30 PM Eastern**, which is **10:30–11:30 AM** the next morning in Tokyo. Do not call **18:00–21:00 JST**. Use the **03** landlines below. Web forms work at any hour.
+
+### Reserve these
+
+**Ushigoro Kan Ebisu — Thu Nov 5, 20:00.** A5 black wagyu yakiniku, cut small so you can try several pieces. Shoes off, sunken seats, two-hour table. Weekdays 17:00–23:30. About ¥10,000–15,000.  
+**Order:** beef tongue, kalbi, and one lean cut. If you would rather not run the grill, take the seasonal course and let the staff cook. Sake is the drink that belongs here.  
+**Book:** Tabelog (24 hours), or **03-5725-2929** in the window above. The Tabelog 050 number is a poor bet from abroad. If a better table appears, Ebisu Yoroniku is the upgrade, same station, closer to ¥15,000–20,000.  
+**Reviews:** [Ushigoro Kan Ebisu on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d6622710-Reviews-Ushigoro_Kan_Ebisu-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Iroha Honten — Fri Nov 6, 19:30.** Tokyo monjayaki, not Osaka okonomiyaki. Monja is a thin, runny batter cooked on an iron plate at your table, full of chopped cabbage and the topping you picked. This shop has done it since 1955, 2F, 3-4-5 Tsukishima, about 4 minutes from the station. Staff cook it or coach you. About ¥4,000–6,000.  
+**Order:** sakura-ebi (tiny dried shrimp) monja, plus one seafood mix. One savory monja and one with cheese or mochi is plenty for two if you also share.  
+**Book:** [reserve.restaurant-iroha.com](https://reserve.restaurant-iroha.com/) any hour, or **03-3531-1668** at 15:00–16:30 JST. Backup in the same neighborhood: Monja Okame.  
+**Reviews:** [Iroha Honten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129637-d3758256-Reviews-Iroha_Honten-Tsukishima_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Tsunahachi Sohonten — Wed Nov 11, 19:00.** Edomae tempura since 1924, a short walk from MIMARU Shinjuku West. Light batter, shrimp, seasonal vegetables, tentsuyu or salt. About ¥4,000–8,000 at dinner.  
+**Order:** the tendon (tempura on rice) or the chef’s set. A single prawn and a soda is how people leave hungry.  
+**Book:** the form at [tunahachi.co.jp/reservation](https://www.tunahachi.co.jp/reservation/) is a request until the restaurant phones you back. Or call **03-3352-1012** at 15:00–16:30 JST. They do not take same-day reservations, and they stop seating around 20:00, so 19:00 is the right slot. Shop page: [tunahachi.co.jp shop 01](https://www.tunahachi.co.jp/en/shop/shopinfo01.html).  
+**Reviews:** [Shinjuku Tsunahachi Sohonten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14133707-d1660271-Reviews-Shinjuku_Tsunahachi_Sohonten-Shinjuku_3_Chome_Shinjuku_Tokyo_Tokyo_Prefect.html)
+
+**Bird Land, Ginza — Tue Nov 10, 19:30, only if you already hold it.** Michelin yakitori, Okukuji Shamo chicken, basement of Tsukamoto Soyama Building, 4-2-15 Ginza (Ginza station exit C6). Dinner 17:00–22:00. Closed Sunday, Monday, and holidays. Nov 10 is a Tuesday, so the shop is open.  
+**Order:** the chef’s omakase skewer course. This is not a place to order one skewer and a beer.  
+**Book:** [ginza-birdland.sakura.ne.jp/reserve.html](https://ginza-birdland.sakura.ne.jp/reserve.html), or **03-5250-1081** on a day they are open. Call even if the web page looks full. A same-day cancellation is **¥11,000 per person**. If you do not have the table, eat Sushi Zanmai that night and do not chase this one.  
+**Reviews:** no separate link here. Use the official reserve page, and only go if the booking is confirmed.
+
+### Walk in — show up, don’t call for a seat
+
+**Miura Misaki-kō, Ueno — Wed Nov 4 around 19:45, and again Sun Nov 8 around 18:15.** A tuna wholesaler’s conveyor counter, about 19 seats, at 6-12-14 Ueno (roughly 5 minutes from JR Ueno, Shinobazu exit). Weekdays 10:30–23:00, weekends 10:30–22:00. Reservations are not accepted. Large suitcases are not welcome; use a station locker. The shop phone is **03-5807-6023**, and it is not a booking line.  
+**Order:** the heaped chūtoro or negitoro gunkan (the “yamamori” pile is the dish people come for), the Misaki tuna assortment, and aburi toro if it is on the panel. On Nov 8, order whichever of those you skipped on arrival night. A wait at 18:00–20:00 is normal. If the list looks longer than about 30 minutes, eat after 20:30 or switch to Ganso Zushi at Manseibashi while you are still in Akihabara.  
+**Reviews:** [Magurodonya Miura Misakiko Ueno on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14134274-d3760771-Reviews-Magurodonya_Miura_Misakiko_Ueno-Ueno_Taito_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Uobei, Shibuya Dōgenzaka — Thu Nov 5, 15:10.** Fast conveyor sushi in booths. An English touchscreen sends plates down a little track. Reservations are not taken. **03-3462-0241** is the shop, not a hold.  
+**Order:** aburi salmon and a shrimp tempura roll. This is the sushi meal; dinner that night is the yakiniku.  
+**Reviews:** [Uobei Shibuya Dogenzaka on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d3871559-Reviews-Uobei_Shibuya_Dogenzaka-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Hōtō Fudō, Kawaguchiko Ekimae — Mon Nov 9, 12:00.** The white cloud-shaped building at 3631-2 Funatsu, near Kawaguchiko Station. Walk in. A line at lunch is common and usually moves. There is a Minami branch nearby; use this cloud-shaped one.  
+**Order:** hōtō. Flat wheat noodles in a miso pot with pumpkin, cabbage, and mountain vegetables. One bowl is the meal.  
+**Reviews:** [Hoto Fudo, Kawaguchiko Ekimae on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1165976-d1664155-Reviews-Hoto_Fudo_Kawaguchiko_Ekimae-Fujikawaguchiko_machi_Minamitsuru_gun_Yamanashi_Prefecture_Koshinetsu_Chubu.html)
+
+**A Happy Pancake, Ginza — Tue Nov 10, 17:00.** Soufflé pancakes. Take a queue ticket. Weekday hours are about 10:30–19:30, so 17:00 is inside the window and 18:30 is not. This is a line, not a phone reservation.  
+**Order:** the plain soufflé with butter and maple syrup.  
+**Reviews:** [A Happy Pancake Ginza on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129573-d14192375-Reviews-A_Happy_Pancake_Ginza-Ginza_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Sushi Zanmai Honten, Tsukiji — Tue Nov 10, after the pancakes.** 4-11-9 Tsukiji, the 24-hour main shop with the tuna figure out front. Reservations are not accepted. **03-3541-1117** will not hold a table. If the line is over about 40 minutes, use another counter on the block rather than the annex unless you are happy to sit at a tablet.  
+**Order:** the otoro / chūtoro set. Sit at the counter if a seat is open so you can point at the fish.  
+**Reviews:** [Sushizanmai Honten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129610-d3597142-Reviews-Sushizanmai_Honten-Tsukiji_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+
+**Nemuro Hanamaru, KITTE Marunouchi 5F — Thu Nov 12, 11:45.** Hokkaido fish on a belt, across from Tokyo Station’s Marunouchi south side, not in the station basement. No reservations. Hours about 11:00–22:00. Be done by **13:00**. **03-6269-9026** is the shop phone. Tripadvisor spells this listing “Nemuiro.”  
+**Order:** from the menu, not only whatever is riding past: fatty tuna, salmon in white soy, and hontaku (the lean cut).  
+**Reviews:** [Nemuro Hanamaru Kitte Marunouchi on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129528-d5015864-Reviews-Nemuiro_Hanamaru_Kitte_Marunouchi-Marunouchi_Chiyoda_Tokyo_Tokyo_Prefecture_Kan.html)
+
+**Already included, so there is nothing to reserve**
+
+- **Izumiya, Sat Nov 7.** Kaiseki comes with the room. If Murakami wagyu on a hot stone is on that night’s menu, say yes. Tell the inn about the Sunday 9:15 taxi when you confirm the stay.
+- **Maruei, Mon Nov 9.** Hotel dinner, usually kaiseki. Mention dietary limits when you confirm the room, not at 18:00.
+- **Ojiya lunch, Sat Nov 7.** If Sushimasa is open, eat there: Niigata rice and local fish. If the shutter is down, eat soba near the station. Do not hold the afternoon for a booking.
+- **Solamachi lunch, Wed Nov 11.** A rice bowl or ramen. Tempura is Tsunahachi that night, so don’t eat it twice.
+- **Ganso Zushi, Manseibashi.** Sunday backup only, if you skip the second Miura visit. Walk in while you are still in Akihabara. No Tripadvisor link is listed here because a page for that exact counter was not confirmed.
 
 ---
 
