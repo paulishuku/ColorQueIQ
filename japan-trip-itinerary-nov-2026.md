@@ -36,7 +36,7 @@ Do these in Japan time. Set alarms.
 | --- | --- | --- | --- |
 | **Akiba Fukurou (owl café)** | Already choosing the slot | **Sun Nov 8, 14:00** | About 50–60 minutes. Be there by **13:40**. Address: 67 Kanda Neribeicho, ~3 min from JR Akihabara Central Gate. |
 | **Shibuya Sky** | Already booked | **Thu Nov 5, 18:20** | Timed entry only. Stay as long as you like until ~22:30. Large suitcases are not allowed. |
-| **Kirby Café (Solamachi)** | 18:00 JST on the **10th of the prior month** → **Oct 10, 2026** | Nov 11 | Extremely competitive. Have accounts ready. Backup: Kirby Café Store + Pokémon Center only. |
+| **Sumida Aquarium** | Online about 30 days ahead, or the machines at the door | **Wed Nov 11, enter ~12:30** | Solamachi 5F, under the tower. Adult ¥2,700. Weekday hours 10:00–20:00. Aim for the **13:30 penguin feeding**. |
 | **Ghibli Museum** | Only if you already hold tickets | Nov 6 | If you do, replace the open-air museum that morning. Do not try to do both. |
 | **Tokyo Skytree** | Optional advance / Fast Ticket | Nov 11 morning | Door tickets OK; advance avoids long lines. |
 | **Keisei Skyliner** (arrival) | Online e-ticket anytime | Nov 4 | Reserved seat. ~¥2,470 adult NRT→Keisei-Ueno. |
@@ -89,7 +89,7 @@ On city days the pack should start about one-third full. It is a carry-on, not a
 | **Nov 8 afternoon** owl café / Akihabara | Light day bag again | Daily kit, tote. Games in the pack, plush in the tote | Dump the Niigata clothes at the hotel before Akihabara. |
 | **Nov 9** Kawaguchiko | Personal item; suitcases on the train | Daily kit, jacket, water, both batteries | Clothes stay in the suitcase. |
 | **Nov 10** pagoda, then Ginza | Light for the 398 steps, then shopping | Water, jacket, phone, battery, passport, tickets. Add Sanrio/sweets **after** the climb | Suitcases in Kawaguchiko lockers during the pagoda visit. |
-| **Nov 11** Skytree / Kirby | Start almost empty | Daily kit, tote, a soft pouch. Wrap the Kirby ceramic carefully or carry it | Bulky buys can go straight back to the hotel that night. |
+| **Nov 11** Skytree / aquarium | Light day bag | Daily kit, tote. Plush from Pokémon and Ghibli goes in the tote | Bulky buys can go straight back to the hotel that night. |
 | **Nov 12** departure | Carry-on again | Passport, meds, both batteries, cables, jacket, 1 set of clothes, fragile souvenirs, headphones, empty bottle | Heavy plush and low-value bulk go in the checked suitcases. |
 
 ---
@@ -317,11 +317,11 @@ The following wave, around **11:07 / 11:30 / 11:55**, arrives Ueno from roughly 
 
 ---
 
-## Day 8 — Wed Nov 11: Tokyo Skytree → Kirby Café → Solamachi → tempura dinner
+## Day 8 — Wed Nov 11: Tokyo Skytree → Sumida Aquarium → Solamachi → tempura dinner
 
 **Packing Mode:** Main Mode (bags at Shinjuku West)  
 **Sleep:** MIMARU Tokyo Shinjuku West  
-**Hard requirement:** **Kirby Café** reservation (or activate backup plan)
+**No Kirby.** The midday block is the aquarium in the same building.
 
 ### Timeline
 
@@ -329,10 +329,9 @@ The following wave, around **11:07 / 11:30 / 11:55**, arrives Ueno from roughly 
 | --- | --- | --- |
 | **09:15–10:00** | Shinjuku → Tokyo Skytree | Metro example: Fukutoshin/Hanzōmon connections or JR + Tobu; door-to-door typically **~35–50 min**. Follow signs to **Tokyo Solamachi / Skytree Town**. |
 | **10:00–11:30** | **Tokyo Skytree Tembo Deck (+ Galleria if ticketed)** | High-speed elevators, glass floors, bay views. Advance Fast Tickets save queue time. |
-| **12:00–14:00** | **Kirby Café (Solamachi 4F)** | Timed seating. Star pizza, Kirby burger in ceramic block, desserts. Take only the photos/time your reservation allows — they turn tables. |
-| | *Backup if no reservation* | Eat elsewhere in Solamachi; still do the Kirby store + Pokémon/Ghibli shopping below. |
-| **14:00–17:00** | **Solamachi Floor 4 retail** | **Kirby Café Store** (exclusives) → **Pokémon Center Skytree Town** → **Donguri Republic (Ghibli)**. This is the correct Skytree Pokémon location (different stock from Shibuya). |
-| **17:00–17:40** | One last Solamachi lap, then leave | Claw machines only if the reservation can survive a delay. Sumida River photos on the walk to the station. |
+| **11:30–12:20** | **Lunch in Solamachi** | Eat on the restaurant floors before the aquarium. Not a character café. A noodle or rice set is enough. Tempura is dinner. |
+| **12:30–14:00** | **Sumida Aquarium, Solamachi 5F–6F** | Entrance on **5F**. Adult **¥2,700**. Wednesday hours **10:00–20:00**, last entry 19:00. Plan on about **90 minutes**: jellyfish on 6F, the Ogasawara tank, garden eels, then down to the penguins and the goldfish hall (Edo-rium). **Penguin feeding is 13:30.** Buy online or at the machines by the door. |
+| **14:00–17:00** | **Solamachi Floor 4 retail** | **Pokémon Center Skytree Town**, then **Donguri Republic (Ghibli)**. Different stock from the Shibuya stores. Skip the Kirby shop. |
 | **17:40–18:40** | Skytree → Shinjuku | Metro/JR **~35–50 min**. |
 | **19:00–20:45** | **Dinner — Tsunahachi Sohonten** | Edomae tempura, Shinjuku, since 1924. A few minutes from the station, close to MIMARU Shinjuku West. Reserve. Order the tendon or the chef’s set, not a single prawn and a soda. About **¥4,000–8,000**. |
 | **21:00** | Hotel | Pre-pack suitcases. Departure math starts tomorrow morning. |
@@ -443,7 +442,7 @@ Morning: send suitcases **MIMARU → Narita Airport** via MIMARU luggage deliver
 | --- | --- |
 | Rain on Asakusa / Shibuya day | Covered Nakamise + Sensō-ji + more indoor Parco time. Watch sunset from a covered crossing spot. Shibuya Sky’s roof may close; the indoor gallery still opens. |
 | Rain on the museum day | Houses are indoor; paths are not. Shift the afternoon fully into Nakano Broadway. |
-| Kirby Café miss | Solamachi stores still deliver the character day; book a fun themed café backup. |
+| Skytree deck closed for wind | The aquarium is indoors, directly underneath. Do that first, then the deck if it reopens. |
 | Mt. Fuji invisible | Chūreitō still worth the pagoda; add Fuji-Q Highland or lakeside onsen time. |
 | Typhoon/rail delay homebound | Shift to earlier N’EX; never cut the 3-hour airport buffer. |
 
@@ -458,7 +457,7 @@ Morning: send suitcases **MIMARU → Narita Airport** via MIMARU luggage deliver
 5. **Nov 8** — Early taxi, **Toki ~10:19** → drop backpack → **Akiba Fukurou 14:00** → Akihabara → Miura Misaki  
 6. **Nov 9** — Fuji Excursion → taxi to Maruei → Hōtō Fudō → lake ryokan night  
 7. **Nov 10** — Chūreitō Pagoda → Fuji Excursion 14:08 → Shinjuku hotel → Ginza pancakes → Sushi Zanmai  
-8. **Nov 11** — Skytree → Kirby Café → Solamachi → Tsunahachi tempura 19:00  
+8. **Nov 11** — Skytree → lunch → Sumida Aquarium (penguins at 13:30) → Pokémon & Ghibli shops → Tsunahachi 19:00  
 9. **Nov 12** — Nemuro Hanamaru + Character Street → **N’EX by ~13:45** → NRT for **17:30** flight  
 
 ---
