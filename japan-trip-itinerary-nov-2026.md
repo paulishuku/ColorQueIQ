@@ -45,9 +45,9 @@ Do these in Japan time. Set alarms.
 | **Narita Express (N’EX)** return | Reserve seats | Nov 12 midday | All seats reserved. |
 | **Izumiya free shuttle** | Call/email ryokan in advance | Nov 7 afternoon pickup from Nagaoka East Exit | Pickup window roughly **13:30–17:00**; 2+ guests. |
 | **Maruei dinner & shuttle** | Confirm with hotel | Nov 9–10 | Dinner is usually hotel kaiseki; confirm dietary needs. |
-| **Ushigoro Kan Ebisu** (yakiniku) | Tabelog, or **03-5725-2929** | **Thu Nov 5, 20:00** | Call **15:00–16:30 JST**. See the restaurant guide for what to order. |
-| **Iroha Honten** (monjayaki) | [reserve.restaurant-iroha.com](https://reserve.restaurant-iroha.com/) or **03-3531-1668** | **Fri Nov 6, 19:30** | Same call window. Sakura-ebi monja plus a seafood mix. |
-| **Tsunahachi annex** (tempura) | **03-5315-0320** | **Wed Nov 11, 19:00** | The original Shinjuku shop is closed for rebuild until 2028. Annex: TRES Shinjuku 6F/B1, 3-28-4 Shinjuku. Not same-day. |
+| **Han no Daidokoro Bettei** (Yamagata yakiniku) | Shop site, or **03-5489-7655** | **Thu Nov 5, 20:00** | Call **15:00–16:30 JST**. Walk from Shibuya Sky. Order the meat yourself. Skip 050 numbers from the US. |
+| **Tsukishima Monja Moheji Honten** | **03-6204-2314** | **Fri Nov 6, 19:30** | Same call window. 24 seats. Mentaiko-mochi with cheese, plus a seafood pan. |
+| **Tempura Tenhide** | **03-5386-3630** | **Wed Nov 11, 19:00** | West Shinjuku, open Wednesday. B course ¥8,250. Same-day cancel is the course price. |
 | **Bird Land** (yakitori) | [ginza-birdland reserve page](https://ginza-birdland.sakura.ne.jp/reserve.html) or **03-5250-1081** | **Tue Nov 10, 19:30** optional | Closed Sun/Mon. Nov 10 is Tuesday. Same-day cancel is ¥11,000 a person. Skip it and eat Zanmai if you do not hold a table. |
 
 **Suica / PASMO:** Add **Mobile Suica** (iPhone Wallet) or buy a plastic card at NRT. Charge ¥5,000–10,000 to start. Use for almost all metros/JR local trains/convenience stores.
@@ -56,26 +56,27 @@ Do these in Japan time. Set alarms.
 
 ## What to order, and when to call
 
-Only four tables on this trip take a reservation: Ushigoro, Iroha, Tsunahachi, and Bird Land if you still want it. Everything else is walk-in. Do not call a conveyor-sushi counter asking them to hold seats. They will say no, and a 050 number often will not even connect from the United States.
+Only four tables on this trip take a reservation: Han no Daidokoro, Moheji, Tenhide, and Bird Land if you still want it. Everything else is walk-in. Do not call a conveyor-sushi counter asking them to hold seats. They will say no, and a 050 number often will not even connect from the United States.
 
 **When to call.** The useful window in Japan is **15:00–16:30** (after lunch, before dinner service). In November that is **1:00–2:30 AM US Eastern**. If you want to be awake, call **8:30–9:30 PM Eastern**, which is **10:30–11:30 AM** the next morning in Tokyo. Do not call **18:00–21:00 JST**. Use the **03** landlines below. Web forms work at any hour.
 
 ### Reserve these
 
-**Ushigoro Kan Ebisu — Thu Nov 5, 20:00.** A5 black wagyu yakiniku, cut small so you can try several pieces. Shoes off, sunken seats, two-hour table. Weekdays 17:00–23:30. No service charge.  
-**Order:** the ¥7,000 course for each person (tongue, rare cuts, sirloin sukiyaki). Food for 3 is ¥21,000. Sake on the Ebisu list is about ¥800–1,100 a glass. Two glasses each for two people is about ¥4,000. Their two-hour drink plan is ¥2,700 a person if you want more than two glasses. **About ¥26,000 for the table.** Ordering the cuts yourselves, instead of the course, lands closer to ¥35,000.  
-**Book:** Tabelog (24 hours), or **03-5725-2929** from 13:30 Japan time. The Tabelog 050 number is a poor bet from abroad. If a better table appears, Ebisu Yoroniku is the upgrade, same station, and that ¥15,000–20,000 figure is still per person.  
-**Reviews:** [Ushigoro Kan Ebisu on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d6622710-Reviews-Ushigoro_Kan_Ebisu-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
+**Han no Daidokoro Bettei (韓の台所 別邸) — Thu Nov 5, 20:00.** Yamagata beef yakiniku, 7F of the Dōgenzaka Center Building, 2-29-8 Dōgenzaka. About two minutes from JR Shibuya, so you walk here from Shibuya Sky and skip the hop to Ebisu. Dinner Mon–Sat 17:00–22:30, last order 22:00. Closed Dec 31 and Jan 1. About 140 seats.  
+**Order:** the meat yourself, not a preset course. Two shared 6-kind Yamagata platters at ¥7,500 each, the limited otoro tongue (¥2,480), top harami (¥2,780), and one chateaubriand sukiyaki (¥3,480, includes a small rice). Add kimchi and a cold noodle each (about ¥980). Food is about ¥27,500. Drinks for two are about ¥4,000–5,000. **About ¥32,000 for the table** if those platters are shared. A course that includes all-you-can-drink starts at four people, so it does not apply to three.  
+**Why this one:** Tripadvisor is 4.6 from about 459 reviews, around #19 in Shibuya. The old Ebisu pick was 4.0 from 26 reviews. Be honest about the other score: Japanese Tabelog is 3.32 from about 486 reviews, and listed spend is often ¥10,000–14,999 a person. A July 2026 review says the preset courses pad the bill with sides, and some reviews say the big “A5” sets were not all A5. That is why the order above is a la carte.  
+**Book:** the shop site, or **03-5489-7655** at 15:00–16:30 JST. Skip 050-5385-3404 and the Tabelog 050 number from the US.  
+**Reviews:** [Han no Daidokoro Bettei on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g1066456-d3752339-Reviews-Hanno_Daidokoro_Bettei-Shibuya_Tokyo_Tokyo_Prefecture_Kanto.html)
 
-**Iroha Honten — Fri Nov 6, 19:30.** Tokyo monjayaki. Monja is a thin, runny batter cooked on an iron plate at your table, full of chopped cabbage and the topping you picked. This shop has done it since 1955, 2F, 3-4-5 Tsukishima, about 4 minutes from the station. Staff cook it or coach you. They take a reservation from 3 people.  
-**Order:** three pans, one each: sakura-ebi monja (¥1,452), the beef, scallop, and shrimp mix (about ¥1,670), and one more you point at. Two go of sake each for two people is about ¥2,500 at a Tsukishima monja shop. **About ¥10,000 for the table.**  
-**Book:** [reserve.restaurant-iroha.com](https://reserve.restaurant-iroha.com/) any hour, or **03-3531-1668** at 15:00–16:30 JST. Backup in the same neighborhood: Monja Okame.  
-**Reviews:** [Iroha Honten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14129637-d3758256-Reviews-Iroha_Honten-Tsukishima_Chuo_Tokyo_Tokyo_Prefecture_Kanto.html)
+**Tsukishima Monja Moheji Honten (月島もんじゃ もへじ 本店) — Fri Nov 6, 19:30.** The monja counter locals rank first on the street. Staff cook a thin cabbage batter on the iron plate at the table. 1F, Reno Style Tsukishima, 3-16-9 Tsukishima, about 3 minutes from the station. Weekday dinner 17:00–23:00 (there is an afternoon break; do not arrive before 17:00). 24 seats, so Friday at 19:30 has to be booked.  
+**Order:** mentaiko-mochi monja (¥1,738) plus cheese (¥330), a seafood monja (¥1,880), one more pan (squid-ink is about ¥1,848), and a grilled squid to share (about ¥1,280). Sake or beer for two is about ¥2,500. **About ¥12,000 for the table.**  
+**Why this one:** Google and local lists put Moheji near 4.7 from thousands of reviews. Iroha’s Tripadvisor page is 3.9 from 42 reviews, mostly 2018–19. Tripadvisor barely lists Moheji, so no review link is printed here. Do not invent one.  
+**Book:** **03-6204-2314** at 15:00–16:30 JST.
 
-**Tsunahachi annex — Wed Nov 11, 19:00.** Edomae tempura since 1924. The original Shinjuku building closed May 31, 2026 for a rebuild scheduled into 2028. The kitchen is at the annex: TRES Shinjuku 6F and B1, 3-28-4 Shinjuku, about 5 minutes from the JR east exit, or 3 minutes from Shinjuku-sanchome. Last order 21:00.  
-**Order:** the Edomae set, ¥5,940 each (shrimp, squid, fish, anago, kakiage, rice). Three sets are ¥17,820. Budget about ¥4,000 more for two pours of sake each for two people. **About ¥23,000 for the table.**  
-**Book:** **03-5315-0320** at 15:00–16:30 JST. They do not take same-day reservations. The old 03-3352-1012 number belongs to the closed building. Shop page: [tunahachi.co.jp annex](https://www.tunahachi.co.jp/store/53.html).  
-**Reviews:** [Shinjuku Tsunahachi Sohonten on Tripadvisor](https://www.tripadvisor.com/Restaurant_Review-g14133707-d1660271-Reviews-Shinjuku_Tsunahachi_Sohonten-Shinjuku_3_Chome_Shinjuku_Tokyo_Tokyo_Prefect.html)
+**Tempura Tenhide (天ぷら 天秀) — Wed Nov 11, 19:00.** 7-12-21 Nishi-Shinjuku, about 7 minutes from the JR Shinjuku west exit and on the same side of the station as MIMARU Shinjuku West. Dinner 17:00–22:00, last order 21:00. Open Wednesday. Closed Sunday. Nov 11, 2026 is a Wednesday and not a holiday. No service charge, no cover.  
+**Order:** the B course, ¥8,250 each: 10 pieces of tempura, a small bowl, tendon or tempura chazuke, and dessert. Three courses are ¥24,750. About ¥4,000 more for two pours of sake each for two people. **About ¥29,000 for the table.** The S course (¥11,000, adds sashimi) would land near ¥37,000 with the same drinks.  
+**Why this one:** Tsunahachi’s original building closed May 31, 2026, and the Tripadvisor page people still see is full of older “one prawn” complaints. Tenkane (天兼) scores higher on Tripadvisor but is closed on Wednesday, including the second Wednesday, which is Nov 11. Tenhide’s Japanese score is Tabelog 3.51 from about 700 reviews, and it was a 2022 Tempura 100 pick. A useful Tripadvisor URL was not confirmed, so none is printed.  
+**Book:** **03-5386-3630** at 15:00–16:30 JST. Say you saw the website. If you booked the B course, a same-day cancel (or a cancel after 21:00 the night before) is the full course price. Menu: [tenhide.jp/food](https://tenhide.jp/food/).
 
 **Bird Land, Ginza — Tue Nov 10, 19:30, only if you already hold it.** Michelin yakitori, Okukuji Shamo chicken, basement of Tsukamoto Soyama Building, 4-2-15 Ginza (Ginza station exit C6). Dinner 17:00–22:00. Closed Sunday, Monday, and holidays. Nov 10 is a Tuesday, so the shop is open.  
 **Order:** the chef’s omakase skewer course. This is not a place to order one skewer and a beer.  
@@ -113,7 +114,7 @@ Only four tables on this trip take a reservation: Ushigoro, Iroha, Tsunahachi, a
 - **Izumiya, Sat Nov 7.** Kaiseki comes with the room. If Murakami wagyu on a hot stone is on that night’s menu, say yes. Tell the inn about the Sunday 9:15 taxi when you confirm the stay.
 - **Maruei, Mon Nov 9.** Hotel dinner, usually kaiseki. Mention dietary limits when you confirm the room, not at 18:00.
 - **Ojiya lunch, Sat Nov 7.** If Sushimasa is open, eat there: Niigata rice and local fish. If the shutter is down, eat soba near the station. Do not hold the afternoon for a booking.
-- **Solamachi lunch, Wed Nov 11.** A rice bowl or ramen. Tempura is Tsunahachi that night, so don’t eat it twice.
+- **Solamachi lunch, Wed Nov 11.** A rice bowl or ramen. Tempura is Tenhide that night, so don’t eat it twice.
 - **Ganso Zushi, Manseibashi.** Sunday backup only, if you skip the second Miura visit. Walk in while you are still in Akihabara. No Tripadvisor link is listed here because a page for that exact counter was not confirmed.
 
 ---
@@ -184,7 +185,7 @@ On city days the pack should start about one-third full. It is a carry-on, not a
 
 ---
 
-## Day 2 — Thu Nov 5: Asakusa → Shibuya shopping → street-level sunset → Sky at 18:20 → yakiniku
+## Day 2 — Thu Nov 5: Asakusa → Shibuya shopping → street-level sunset → Sky at 18:20 → Yamagata yakiniku
 
 **Packing Mode:** Main Mode (suitcases in room). Light daypack.  
 **Sleep:** MIMARU Tokyo Ueno North  
@@ -211,9 +212,9 @@ On city days the pack should start about one-third full. It is a carry-on, not a
 | | | 3. **MEGA Don Quijote** on Center-gai for regional KitKats and small souvenirs, or a lap of Center-gai. |
 | **17:50–18:15** | Shibuya Sky entry queue | Scramble Square, follow **Shibuya Sky** signs to the 14F gate. QR ready. A day backpack is fine; a suitcase is not. If the pack is stuffed with plush, locker it in Shibuya Station first. |
 | **18:20–19:40** | **Shibuya Sky night view** | Outdoor roof over the lit scramble, Skytree to the east, Fuji as a dark shape on a clear day. Indoor gallery on 46F still runs if wind closes the roof. One exit only — do not leave for a snack and expect to come back. |
-| **19:45–20:00** | Shibuya → Ebisu | JR Yamanote **one stop, ~2 min**, or a 15-min walk. |
-| **20:00–22:00** | **Dinner — Ushigoro Kan Ebisu** | Reservations, 2-hour table, shoes off, sunken seating. Order the **¥7,000 course** for all 3. Sake for 2 is about ¥4,000, or ¥2,700 a person on the two-hour drink plan. **About ¥26,000 for the table.** Ordering cuts yourselves lands closer to ¥35,000. |
-| **22:00–22:40** | Ebisu → Ueno | Yamanote, **~30–35 min**. |
+| **19:40–20:00** | Walk to dinner | Leave Shibuya Sky and walk to **Han no Daidokoro Bettei**, 7F, Dōgenzaka Center Building, 2-29-8 Dōgenzaka. About 5–10 minutes on foot. No train. |
+| **20:00–22:00** | **Dinner — Han no Daidokoro Bettei** | Yamagata beef. Order **two shared 6-kind platters**, otoro tongue, top harami, and one chateaubriand sukiyaki. Skip the preset course. Drinks for 2. **About ¥32,000 for the table.** Call **03-5489-7655**. |
+| **22:00–22:40** | Shibuya → Ueno | Yamanote, **~30–35 min**. |
 
 ### Day 2 tips
 - Shibuya station is a maze. Follow exit numbers.
@@ -242,7 +243,7 @@ On city days the pack should start about one-third full. It is a carry-on, not a
 | **16:25–16:50** | Nakano → Harajuku | Chūō to Shinjuku **~5 min**, Yamanote to Harajuku **~5 min**. |
 | **16:50–18:20** | **Harajuku graze** | This block moved off Sunday. **Takeshita-dōri** for one crêpe or cotton candy and one takoyaki, then the quieter **Cat Street**. Small portions — dinner is a full iron-plate meal. |
 | **18:20–19:10** | Harajuku → Tsukishima | Yamanote Harajuku → Yūrakuchō **~15 min**, then Yūrakuchō Line to Tsukishima **~5 min**, Exit 7 or 8. Door-to-door **~35–40 min**. |
-| **19:30–21:15** | **Dinner — Iroha Honten** | Monjayaki since 1955, 2F, 3-4-5 Tsukishima. Staff cook or coach you. Order **three pans**: sakura-ebi, the seafood mix, and one more. Sake for 2. **About ¥10,000 for the table.** They reserve from 3 people. Backup: **Monja Okame**. |
+| **19:30–21:15** | **Dinner — Moheji Honten** | 1F, 3-16-9 Tsukishima, about 3 minutes from the station. Staff cook the pans. Order **mentaiko-mochi with cheese**, a seafood monja, one more pan, and a grilled squid to share. Sake for 2. **About ¥12,000 for the table.** Call **03-6204-2314**. Do not arrive before 17:00; weekday lunch and dinner are split by a break. |
 | **21:20–22:00** | Tsukishima → Ueno | Oedo or Yūrakuchō line back toward the Yamanote, then Ueno. About **35–40 min**. Pack the Niigata backpack tonight. |
 
 ### Day 3 tips
@@ -397,7 +398,7 @@ The following wave, around **11:07 / 11:30 / 11:55**, arrives Ueno from roughly 
 | **12:30–14:00** | **Sumida Aquarium, Solamachi 5F–6F** | Entrance on **5F**. Adult **¥2,700**. Wednesday hours **10:00–20:00**, last entry 19:00. Plan on about **90 minutes**: jellyfish on 6F, the Ogasawara tank, garden eels, then down to the penguins and the goldfish hall (Edo-rium). **Penguin feeding is 13:30.** Buy online or at the machines by the door. |
 | **14:00–17:00** | **Solamachi Floor 4 retail** | **Pokémon Center Skytree Town**, then **Donguri Republic (Ghibli)**. Different stock from the Shibuya stores. Skip the Kirby shop. |
 | **17:40–18:40** | Skytree → Shinjuku | Metro/JR **~35–50 min**. |
-| **19:00–20:45** | **Dinner — Tsunahachi annex** | The original shop is closed until 2028. Annex: TRES Shinjuku 6F/B1, 3-28-4 Shinjuku, 5 minutes from the JR east exit. Order the **Edomae set, ¥5,940 each**. Three sets plus sake for 2 is **about ¥23,000**. Call **03-5315-0320**. |
+| **19:00–20:45** | **Dinner — Tempura Tenhide** | 7-12-21 Nishi-Shinjuku, about 7 minutes from the JR west exit, same side as the hotel. Order the **B course, ¥8,250 each**. Three courses plus sake for 2 is **about ¥29,000**. Call **03-5386-3630**. A same-day cancel of the course is the full course price. Tenkane is closed this Wednesday. |
 | **21:00** | Hotel | Pre-pack suitcases. Departure math starts tomorrow morning. |
 
 ---
@@ -461,7 +462,8 @@ Morning: send suitcases **MIMARU → Narita Airport** via MIMARU luggage deliver
 | Nakano → Harajuku | **~25 min** | Via Shinjuku |
 | Harajuku → Tsukishima | **35–40 min** | Yamanote to Yūrakuchō, then subway |
 | Nagaoka → Ueno (Toki) | **1h25–1h35** | Book the ~10:19 on Nov 8 |
-| Shibuya → Ebisu | **2 min** | One Yamanote stop |
+| Shibuya Sky → Han no Daidokoro | **5–10 min walk** | 7F, 2-29-8 Dōgenzaka. No train. |
+| Shibuya → Ueno | **30–35 min** | Yamanote, after dinner |
 | Tokyo → Nagaoka (Jōetsu Shinkansen) | **1h35–1h50** | |
 | Nagaoka → Ojiya (JR local) | **~20 min** | + taxi/bus to koi park |
 | Nagaoka → Izumiya (taxi/shuttle) | **25–30 min** | |
@@ -515,13 +517,13 @@ Morning: send suitcases **MIMARU → Narita Airport** via MIMARU luggage deliver
 ## One-page daily headline reminder
 
 1. **Nov 4** — Land NRT → Skyliner Ueno → unpack → Ameyoko sushi  
-2. **Nov 5** — Asakusa → Parco Nintendo/Pokémon → Uobei → street sunset 16:42 → **Shibuya Sky 18:20** → Ushigoro yakiniku 20:00  
-3. **Nov 6** — Edo-Tokyo open-air museum → Nakano Broadway → Harajuku → monjayaki in Tsukishima 19:30  
+2. **Nov 5** — Asakusa → Parco Nintendo/Pokémon → Uobei → street sunset 16:42 → **Shibuya Sky 18:20** → Han no Daidokoro 20:00  
+3. **Nov 6** — Edo-Tokyo open-air museum → Nakano Broadway → Harajuku → Moheji in Tsukishima 19:30  
 4. **Nov 7** — Bag forward → Shinkansen → Ojiya koi → Izumiya onsen kaiseki  
 5. **Nov 8** — Early taxi, **Toki ~10:19** → drop backpack → **Akiba Fukurou 14:00** → Akihabara → Miura Misaki  
 6. **Nov 9** — Fuji Excursion → taxi to Maruei → Hōtō Fudō → lake ryokan night  
 7. **Nov 10** — Chūreitō Pagoda → Fuji Excursion 14:08 → Shinjuku hotel → Ginza pancakes → Sushi Zanmai  
-8. **Nov 11** — Skytree → lunch → Sumida Aquarium (penguins at 13:30) → Pokémon & Ghibli shops → Tsunahachi 19:00  
+8. **Nov 11** — Skytree → lunch → Sumida Aquarium (penguins at 13:30) → Pokémon & Ghibli shops → Tenhide 19:00  
 9. **Nov 12** — Nemuro Hanamaru + Character Street → **N’EX by ~13:45** → NRT for **17:30** flight  
 
 ---
