@@ -8,7 +8,7 @@
 > **Printable booklet:** open [`print/Japan-Trip-Nov-2026.pdf`](print/Japan-Trip-Nov-2026.pdf). Fifteen letter-size pages: cover, reservations, the six trains that need a seat, two pages of what to order, one page per day, and a page that says where the 3 suitcases and 3 backpacks are each morning. The HTML source is `print/itinerary.html` if you need to reprint.
 
 > **How to use this document**  
-> Times are local Japan Standard Time (JST, UTC+9). Train ride times are in-motion only unless marked “door-to-door.” Always add **5–15 minutes** inside large stations (Shinjuku, Tokyo, Shibuya) for walking between exits/platforms. Tuesday’s Fuji Excursion is booked: car 3, seats 4B, 4C, 4D, departs Kawaguchiko 14:58. Book Monday’s Fuji Excursion, both Toki trains, and the Narita Express before you fly. Buy the Skyliner at the airport after you land.
+> Times are local Japan Standard Time (JST, UTC+9). Train ride times are in-motion only unless marked “door-to-door.” Always add **5–15 minutes** inside large stations (Shinjuku, Tokyo, Shibuya) for walking between exits/platforms. Four JR tickets are booked: Sat E05369, Sun E46119, Mon E02270, Tue E96260. Print them at one JR machine in Tokyo on Wednesday or Thursday. Buy the Skyliner at the airport after you land. Buy Thursday’s Narita Express in Tokyo, one direction only, toward the airport.
 
 ---
 
@@ -40,9 +40,9 @@ Do these in Japan time. Set alarms.
 | **Ghibli Museum** | Only if you already hold tickets | Nov 6 | If you do, replace the open-air museum that morning. Do not try to do both. |
 | **Tokyo Skytree** | Optional advance / Fast Ticket | Nov 11 morning | Door tickets OK; advance avoids long lines. |
 | **Keisei Skyliner** | Airport counter after customs | Nov 4, next train to Keisei-Ueno | Do not buy this before you fly. About ¥2,570. Follow Skyliner signs, not Narita Express. |
-| **Joetsu Shinkansen** | [JR-EAST Train Reservation](https://www.eki-net.com/jreast-train-reservation/Top/Index) | **Nov 7 booked: Toki 307, Tokyo 08:22 → Nagaoka 09:58.** **Nov 8 still open: Toki 316, Nagaoka 10:49 → Ueno 12:22.** If a 10:01 is listed that Sunday, book that instead. | Ordinary reserved seats. Saturday was about ¥27,990 for 3. Do not book a Nagaoka departure after 11:00. |
-| **Fuji Excursion** | Same JR site | **Nov 10 booked:** Kawaguchiko 14:58, car 3, seats 4B, 4C, 4D. **Nov 9 not booked:** Shinjuku 09:30. If that is full, take 10:30, not 08:30. | All seats reserved. ~¥4,200 one way. The 14:08 on Nov 10 was already gone. |
-| **Narita Express** | Same JR site | **Nov 12, Tokyo 13:03** to the airport terminal on the boarding pass. Backup **12:33**. | The red banner about Nov 6–8 does not include Thursday. Arrival station is Narita Airport Terminal 1, or Terminal 2·3. |
+| **Joetsu Shinkansen** | Booked | **Nov 7, E05369, Toki 307, Tokyo 08:22 → Nagaoka 09:58, ¥27,990.** **Nov 8, E46119, Toki 316, Nagaoka 10:49 → Ueno 12:22, ¥27,360.** | Ordinary reserved seats for 3. Print both papers in Tokyo before Saturday. |
+| **Fuji Excursion** | Booked | **Nov 9, E02270, Shinjuku 09:30 → Kawaguchiko 11:28, ¥12,600.** **Nov 10, E96260, Kawaguchiko 14:58 → Shinjuku 16:59, car 3, seats 4B, 4C, 4D, ¥12,600.** | Both are for 3. The 14:08 on Nov 10 was sold out. |
+| **Narita Express** | Buy in Tokyo, Wed or Thu morning | **Nov 12 only, Tokyo → the airport.** Target **13:03**. Backup **12:33**. | One direction. Do not book a Narita Express from the airport. Arrival is the Skyliner, bought at the counter. These trains run about every 30 minutes, so this is not the Fuji-style sellout. |
 | **Izumiya free shuttle** | Call/email ryokan in advance | Nov 7 afternoon pickup from Nagaoka East Exit | Pickup window roughly **13:30–17:00**; 2+ guests. |
 | **Maruei dinner & shuttle** | Confirm with hotel | Nov 9–10 | Dinner is usually hotel kaiseki; confirm dietary needs. |
 | **Han no Daidokoro Bettei** (Yamagata yakiniku) | Shop site, or **03-5489-7655** | **Thu Nov 5, 20:00** | Call **15:00–16:30 JST**. Walk from Shibuya Sky. Order the meat yourself. Skip 050 numbers from the US. |
@@ -56,22 +56,25 @@ Do these in Japan time. Set alarms.
 
 ## Six trains need a seat
 
-Tuesday’s ride home is booked: **Fuji Excursion 36, Nov 10, 14:58 Kawaguchiko → 16:59 Shinjuku, car 3, seats 4B, 4C, and 4D.** Print that paper at a JR reserved-seat machine in Tokyo before Monday. Bring the card you paid with. Do not leave the pickup until Kawaguchiko.
+Four of them are booked. Print all four papers at one JR reserved-seat machine in Tokyo on Wednesday night or Thursday, before Saturday’s early train. Bring the card you paid with. Each paper shows the car and the seat. Insert it at the gate, take it back when it pops out, and do that again if there is a second gate.
 
-Both Fuji Excursion trains are booked. Print both papers at a JR machine in Tokyo before Monday, with the card you paid with. On Monday, sit in the car printed on that ticket. The cars behind split off at Otsuki and do not go to the lake.
+| Reservation | Train |
+| --- | --- |
+| **E05369** | Sat Nov 7, Toki 307, Tokyo 08:22 → Nagaoka 09:58. ¥27,990 for 3. |
+| **E46119** | Sun Nov 8, Toki 316, Nagaoka 10:49 → Ueno 12:22. ¥27,360 for 3. |
+| **E02270** | Mon Nov 9, Fuji Excursion, Shinjuku 09:30 → Kawaguchiko 11:28. ¥12,600 for 3. |
+| **E96260** | Tue Nov 10, Fuji Excursion 36, Kawaguchiko 14:58 → Shinjuku 16:59. Car 3, seats 4B, 4C, 4D. ¥12,600 for 3. |
 
-The other three are on the same site, but you search **station names**, not the train name, and the price is not ¥12,600. Saturday is **Tokyo → Nagaoka, date 11/7, Toki 307 at 08:22** (backup 08:48), about ¥9,330 each. Sunday is **Nagaoka → Ueno, date 11/8, Toki 316 at 10:49** (Ueno 12:22). A 10:01 that day is better if the site lists it. Thursday is **Tokyo → Narita Airport Terminal 1 or Terminal 2·3, date 11/12, the 13:03 Narita Express** (backup 12:33). The Nov 6–8 Narita Express suspension does not include Nov 12. If the card fails, take the reservation to the JR ticket office at Ueno or Tokyo and ask them to print the tickets. Paper is the calm version for three people: each ticket shows the car and the seat. Insert it at the gate, take it back when it pops out, and do that again if there is a second gate.
-
-The Welcome Suica app can reserve for one person. A party of three should use the website.
+Narita Express is not one of these four. Buy it in Tokyo on Wednesday or Thursday morning, **Tokyo → the airport only**, target the **13:03**. Backup **12:33**. It leaves about every 30 minutes, so it will not disappear the way the Fuji train did. Do not book a Narita Express from the airport. On Nov 4 you buy a Skyliner at the airport counter after customs.
 
 | When | Train | Where you walk |
 | --- | --- | --- |
 | **Wed Nov 4**, after customs | **Skyliner** to Keisei-Ueno, 41 min, about ¥2,570. Buy this at the airport, not before you fly. | Follow **Skyliner / Keisei** signs in the terminal you landed in. Ignore **Narita Express**. Buy 3 seats on the next train. Stand at the car on the ticket. Suitcases go in the end racks. |
-| **Sat Nov 7, booked** | **Toki 307**, Tokyo 08:22 → Nagaoka 09:58. Reserved seats for 3, about ¥27,990. | At Tokyo follow **Tohoku / Joetsu / Hokuriku Shinkansen**, platforms **20–23**. Platforms **14–19** go to Kyoto and Osaka. Sit in the car on the ticket. |
-| **Sun Nov 8, 10:49** | **Toki 316**, Nagaoka → Ueno 12:22, about ¥9,320. If a **10:01** is listed for this Sunday, book that and leave the inn at 9:00. | Search **Nagaoka** to **Ueno**, date **11/8**. Taxi to the **East Exit**. **Get off at Ueno.** The train continues to Tokyo. |
-| **Mon Nov 9, booked** | **Fuji Excursion**, Shinjuku → Kawaguchiko, about 2 hours. | **JR Shinjuku**, the green JR logo. Platforms **9 or 10**, then confirm on the board. Sit in the car printed on the ticket. The cars behind split off at Otsuki and do not go to the lake. You stay seated. |
-| **Tue Nov 10, booked** | Morning local, no seat: **09:00** toward Otsuki, off at Shimoyoshida, back on the **12:40**. Afternoon **Fuji Excursion 36, 14:58 → Shinjuku 16:59. Car 3, seats 4B, 4C, 4D.** | Morning: follow **大月**, get off **下吉田**. Afternoon: follow **富士回遊 / 新宿** and sit in **car 3**. Stay there when more cars are added at Otsuki. |
-| **Thu Nov 12, 13:03** | **Narita Express**, Tokyo → the airport terminal on the boarding pass, arrive about 13:57. Backup **12:33**. | Search **Tokyo** to **Narita Airport Terminal 1** or **Terminal 2·3**. Signs: **Narita Express / 成田エクスプレス**. This is JR, not the Skyliner. The Nov 6–8 suspension does not include this Thursday. |
+| **Sat Nov 7, E05369** | **Toki 307**, Tokyo 08:22 → Nagaoka 09:58. ¥27,990 for 3. | At Tokyo follow **Tohoku / Joetsu / Hokuriku Shinkansen**, platforms **20–23**. Platforms **14–19** go to Kyoto and Osaka. Sit in the car on the ticket. |
+| **Sun Nov 8, E46119** | **Toki 316**, Nagaoka 10:49 → Ueno 12:22. ¥27,360 for 3. | Taxi to the **East Exit**. **Get off at Ueno.** The train continues to Tokyo. |
+| **Mon Nov 9, E02270** | **Fuji Excursion**, Shinjuku 09:30 → Kawaguchiko 11:28. ¥12,600 for 3. | **JR Shinjuku**, the green JR logo. Platforms **9 or 10**, then the board. Sit in the car on the ticket. The cars behind split off at Otsuki. You stay seated. |
+| **Tue Nov 10, E96260** | Morning local, no seat: **09:00** toward Otsuki, off at Shimoyoshida, back on the **12:40**. Afternoon **Fuji Excursion 36, 14:58 → Shinjuku 16:59. Car 3, seats 4B, 4C, 4D.** ¥12,600 for 3. | Morning: follow **大月**, get off **下吉田**. Afternoon: follow **富士回遊 / 新宿** and sit in **car 3**. |
+| **Thu Nov 12, buy in Tokyo** | **Narita Express**, Tokyo 13:03 → the airport terminal on the boarding pass, about 13:57. Backup **12:33**. | Signs: **Narita Express / 成田エクスプレス**. JR, not the Skyliner. One direction only. |
 
 Everything else is a tap: Ginza Line, Yamanote, Hibiya, Chuo, and the subway to Tsukishima. Touch in and touch out. These reserved trains leave on the minute. Ten minutes at the right car is enough. If you miss one, tell the station staff the train name. They move you to the next one.
 
@@ -277,7 +280,7 @@ Ojiya (koi) and Yomogihira (onsen) are **both outside Nagaoka**, in different di
 | **07:15–07:30** | 3 backpacks only | Worn outfit plus one spare, sleep shirt, socks, mini toiletries, both batteries, charger, warm layer, taxi cash. Passports in the packs. Yukata and towels are at the inn. |
 | **07:30–07:50** | **Hand over the 3 suitcases** | Do this before you leave. Cutoff is 9:00. Delivery today to Inaricho, there after 20:00. ¥2,600 each. Get the email receipt. |
 | **07:40–08:10** | Hotel → Tokyo Station | Leave by **07:40**, after the suitcase drop. JR Ueno → Tokyo, **~8–9 min**, plus the walk to the Jōetsu gates. Backpacks only. |
-| **08:22–09:58** | **Toki 307 → Nagaoka** | Reserved ordinary, about ¥9,330. Leave the hotel by **07:40**. At Tokyo follow **Tohoku / Joetsu / Hokuriku**, platforms **20–23**. Not platforms 14–19. Backup **08:48**, in Nagaoka at 10:44. |
+| **08:22–09:58** | **Toki 307, booked, E05369** | ¥27,990 for 3. Leave the hotel by **07:40**. At Tokyo follow **Tohoku / Joetsu / Hokuriku**, platforms **20–23**. Not platforms 14–19. |
 | **10:10–10:25** | Arrive Nagaoka East side | Restrooms, pocket Wi‑Fi check, ATM if needed. |
 | **10:30–11:15** | Nagaoka → Nishikigoi no Sato (Ojiya) | **Best:** taxi door-to-door **~35–45 min**. Alternate: JR Jōetsu Line Nagaoka → Ojiya **~20 min** + local bus/taxi to the park (**bus ~10 min** + short walk). Taxi is worth it with limited time. |
 | **11:15–13:00** | **Nishikigoi no Sato** | Outdoor ponds, wooden bridges, feed collector-grade koi, small museum exhibits. Birthplace-of-nishikigoi storytelling is the point — slow down and watch the colors. |
@@ -303,9 +306,7 @@ Ojiya (koi) and Yomogihira (onsen) are **both outside Nagaoka**, in different di
 
 ### The train that actually makes 14:00
 
-The regular Sunday train is **Toki 316, Nagaoka 10:49 → Ueno 12:22**. Reserved ordinary is about **¥9,320**. A **10:01** sometimes appears and does not run every Sunday. If the reservation site lists it for Nov 8, book that one and leave the inn at 9:00. A departure after 11:00 gets you to Ueno too late for a calm 14:00 owl check-in.
-
-**Book the 10:49.** Taxi at **9:45**, East Exit, on the platform by **10:25**. Lunch after Ueno is a fast bite. The owls are still at 14:00.
+**Booked: Toki 316, reservation E46119, Nagaoka 10:49 → Ueno 12:22. ¥27,360 for 3.** Taxi at **9:45**, East Exit, on the platform by **10:25**. Lunch after Ueno is a fast bite. The owls are still at 14:00. Get off at Ueno.
 
 ### Timeline
 
@@ -314,7 +315,7 @@ The regular Sunday train is **Toki 316, Nagaoka 10:49 → Ueno 12:22**. Reserved
 | **07:45–09:15** | Breakfast at Izumiya | Still sit down for it. Checkout is 9:40, not because you skip breakfast. |
 | **09:40** | Checkout | Yukata stays. Backpack only. Confirm the 9:45 taxi. |
 | **09:45–10:20** | Taxi to Nagaoka, East Exit | 25–30 min. Shinkansen gates are on that side. Be there by 10:25. |
-| **10:49–12:22** | **Toki 316, Nagaoka → Ueno** | Reserved seat, about ¥9,320. Sit in the car on the ticket. **Get off at Ueno.** The train continues to Tokyo. |
+| **10:49–12:22** | **Toki 316, booked, E46119** | ¥27,360 for 3. Sit in the car on the ticket. **Get off at Ueno.** The train continues to Tokyo. |
 | **12:30–12:45** | Ueno → MIMARU Inaricho | JR Ueno is a **5–8 min** walk; Ginza Line Inaricho Exit 3 is **~3 min**. Drop the backpack. If the room is not ready, the desk holds it. Do not unpack. |
 | **12:45–13:15** | A fast bite near Ueno | A konbini rice ball or a quick Ameyoko counter. You will not be fed at the owl café. |
 | **13:15–13:35** | Ueno → Akihabara | Hibiya Line, **1 stop, ~3 min**, or a **15-min walk**. |
@@ -325,7 +326,7 @@ The regular Sunday train is **Toki 316, Nagaoka 10:49 → Ueno 12:22**. Reserved
 | **19:40** | Walk to Inaricho | **~5–10 min**. Open the 3 suitcases. Move one lake-night outfit into each backpack. Before **23:00**, reserve Monday’s delivery: Inaricho → Shinjuku West. |
 
 ### Day 5 tips
-- A 10:01, if the site lists it for this Sunday, is the calmer train. A departure after 11:00 does not leave a calm path to the owls.
+- The ticket is E46119, the 10:49. Get off at Ueno. The train continues to Tokyo.
 - Harajuku moved to Friday. Tsukiji sushi moved to Tuesday, when you are already in Ginza.
 
 ---
@@ -341,7 +342,7 @@ The regular Sunday train is **Toki 316, Nagaoka 10:49 → Ueno 12:22**. Reserved
 | --- | --- | --- |
 | **08:15–08:30** | **Hand over the 3 suitcases** | Inaricho desk. Delivery today to Shinjuku West, cutoff 9:00. They arrive after 20:00 and wait until Tuesday check-in. ¥2,600 each. |
 | **08:35–09:25** | Inaricho → JR Shinjuku | Walk to Ueno, Yamanote **~25–30 min**. Green JR logo. **Fuji Excursion / 富士回遊**, platforms **9 or 10**, then the board. Not the Odakyu side and not the bus terminal. |
-| **09:30–11:28** | **Fuji Excursion** | Shinjuku **09:30** → Kawaguchiko **~11:28**. About ¥4,200. Sit in the car on the ticket, usually **cars 1–3**. The cars behind split off at Otsuki. You stay seated. |
+| **09:30–11:28** | **Fuji Excursion, booked, E02270** | Shinjuku **09:30** → Kawaguchiko **11:28**. ¥12,600 for 3. Sit in the car on the ticket. The cars behind split off at Otsuki. You stay seated. |
 | **11:30–11:50** | Station → Maruei | **Do not wait for the free hotel shuttle** (typically **14:00–18:00**). Take a **taxi ~8–10 min**. Backpacks only. The desk can hold them if the room is not ready. |
 | **12:00–13:45** | **Lunch — Hōtō Fudō** (cloud-shaped building) | Iconic white “cloud” architecture. Order **hōtō** miso hot pot with pumpkin & mountain vegetables. Taxi/bus from station area; confirm the **Kawaguchiko / near-lake** cloud location on Maps (there are multiple Hōtō Fudō branches). |
 | **14:00–15:00** | Optional lake edge stroll | If Fuji is out, photograph from the lakeshore. November is a strong visibility month, especially morning; afternoon clouds possible. |
@@ -368,7 +369,7 @@ The regular Sunday train is **Toki 316, Nagaoka 10:49 → Ueno 12:22**. Reserved
 | **08:30–09:15** | Checkout → Kawaguchiko Station | Taxi ~8–10 min. 3 backpacks. Nothing to lock. |
 | **09:00–11:30** | **Chūreitō Pagoda postcard view** | The **09:00** local toward **大月 / Otsuki**. Not a limited express. Get off at **下吉田 / Shimoyoshida**, about **13 min**. Follow **忠霊塔**, then **398 steps**. Tap Suica, or buy a paper ticket at the machine. |
 | **12:40** | Local back to Kawaguchiko | About **13 min**. The **13:00** also works. The **13:52** is too late for a 14:58 seat. Snack at the station. Be on the platform by **14:45**. |
-| **14:58–16:59** | **Fuji Excursion 36, booked** | **Car 3, seats 4B, 4C, and 4D.** Follow **富士回遊 / 新宿**. Stay in car 3 when more cars are added at Otsuki. Shinjuku at **16:59**. |
+| **14:58–16:59** | **Fuji Excursion 36, booked, E96260** | **Car 3, seats 4B, 4C, and 4D.** ¥12,600 for 3. Follow **富士回遊 / 新宿**. Stay in car 3 when more cars are added at Otsuki. Shinjuku at **16:59**. |
 | **17:10** | Straight to Ginza, backpacks still on | **20–30 min**. Do not stop at the hotel first or the pancakes close. **A Happy Pancake** only if you will be seated by **18:20**. Weekdays close about **19:30**. Otherwise skip it. |
 | **19:15–20:30** | **SUSHIRUN #6 — Sushi Zanmai (Tsukiji)** | About **15 min** on foot from Ginza. Order the **otoro / chūtoro** set. If the line is over about 40 minutes, use another counter on the block. |
 | **21:00** | Check in **MIMARU Tokyo Shinjuku West** | About **25–35 min** back. Ask the desk for the 3 suitcases that arrived Monday night. Before **23:00**, reserve Wednesday’s delivery to Narita, and match it to the terminal on the boarding pass: **T1 South Wing or Terminal 2**. |
